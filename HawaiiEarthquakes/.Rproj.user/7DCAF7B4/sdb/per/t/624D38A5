@@ -1,0 +1,17 @@
+{
+    "contents" : "# Build Hawaii Earthquake object and save it.\n\nQuakes <- read.csv(\"HawaiiQuakes.csv\", header=TRUE)\nsave( Quakes, file=\"Quakes.rda\")\n\nrequire(ggplot2)\n\n\nggplot(  Quakes, aes( x=longitude, y=latitude ) ) +\n  geom_point()\n\nnrow( Quakes )\n\nrequire(scatterplot3d)\n\nwith( Quakes, scatterplot3d(latitude, longitude, -depth ) )\n\nggplot( Quakes, aes( x=mag )) +\n  geom_histogram(  aes(y=..density..), \n                   binwidth=0.25, \n                   color=\"black\", \n                   fill=\"white\"  )\n\nggplot( Quakes, aes( x=mag, y=-depth  )) +\n  geom_point()\n\n",
+    "created" : 1411176459664.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "609141274",
+    "id" : "624D38A5",
+    "lastKnownWriteTime" : 1412914032,
+    "path" : "~/Data/HawaiiEarthquakes/Quakes.r",
+    "project_path" : "Quakes.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

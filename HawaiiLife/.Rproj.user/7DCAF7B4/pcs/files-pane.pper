@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Hawaii Life",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+tickers <- ( "COMS", "KDE" 
+SVNX 724 Solutions Inc. 
+ABT Abbott Laboratories 
+ANF Abercrombie & Fitch Co. 
+ABGX Abgenix Inc. 
+ADPT Adaptec Inc 
+ADBE Adobe Systems Inc. 
+ADIC Advanced Digital Information 
+AMD Advanced Micro Devices 
+ADVS Advent Software Inc. 
+ARXX Aeroflex Inc. 
+AES AES Corp 
+AET Aetna Inc. 
+AFFX Affymetrix Inc. 
+AFL AFLAC Inc 
+A Agilent Technologies Inc. 
+APD Air Products & Chem 
+AKAM Akamai Technologies Inc. 
+ACV Alberto-Culver Cl'B' 
+ABS Albertson's, Inc 
+AL Alcan Aluminium Ltd 
+AA Alcoa Inc. 
+ATI Allegheny Technologies 
+AGN Allergan, Inc 
+AW Allied Waste Ind 
+ALL Allstate Corp 
+AT Alltel Corp 
+ALTR Altera Corp 
+AMZN Amazon.com Inc. 
+AEP Amer Electric Pwr 
+AM Amer Greetings Cl'A' 
+AIG Amer Intl Group 
+APCC Amer Power Conversion 
+AHC Amerada Hess 
+AEE Ameren Corp 
+AEOS American Eagle Outfitters Inc. 
+AXP American Express Company 
+AMTD Ameritrade Holding Corp. 
+AMGN Amgen Inc 
+AMR AMR Corp 
+ASO AmSouth Bancorp 
+APC Anadarko Petroleum 
+ADI Analog Devices Inc. 
+ANDW Andrew Corp 
+ADRX Andrx Corporation 
+BUD Anheuser-Busch Cos 
+TWX AOL Time Warner 
+AOC Aon Corp 
+APA Apache Corp 
+AAPL Apple Computer Inc. 
+APPB Applebees International Inc. 
+AMAT Applied Materials Inc. 
+AMCC Applied Micro Circuits Corp 
+ADM Archer-Daniels-Midland 
+ARIA Ariad Pharmaceuticals Inc. 
+ARBA Ariba Inc. 
+ARW Arrow Electronics Inc. 
+ASH Ashland Inc 
+ASKJ Ask Jeeves Inc. 
+T AT&T Corp 
+AWE AT&T Wireless Corp 
+ADSK Autodesk, Inc 
+ADP Automatic Data Proc 
+AZO AutoZone Inc 
+AVY Avery Dennison Corp 
+AVA Avista Corp 
+AVP Avon Products Inc. 
+BHI Baker Hughes Inc 
+BLL Ball Corp 
+BAC Bank of America 
+BK Bank of New York Inc. 
+ONE Bank One Corp 
+BCR 	Bard (C.R.) 
+BKS 	Barnes & Noble Inc. 
+ABX 	Barrick Gold 
+BOL 	Bausch & Lomb Inc. 
+BAX 	Baxter International 
+BBT 	BB&T Corp 
+BCE BCE Inc. 
+BEAS BEA Systems Inc. 
+BSC Bear Stearns Cos 
+BDX Becton, Dickinson 
+BBBY Bed Bath & Beyond Inc. 
+BLS BellSouth Corp 
+BMS Bemis Co 
+BBY Best Buy Co. Inc 
+BLI Big Lots Inc. 
+BMET Biomet, Inc 
+BBH Biotch Holders Trust 
+BDK Black & Decker Corp 
+HRB Block H & R Inc. 
+BBI Blockbuster Inc. 
+BMC BMC Software 
+BA Boeing Co. 
+BCC Boise Cascade 
+BSX Boston Scientific 
+BP BP Plc 
+BGG Briggs & Stratton 
+BMY Bristol-Myers Squibb 
+BSY British Sky Broadcasting 
+BTY British Telecommunications 
+BRCM Broadcom Corp'A' 
+BRCD Brocade Comm. Systems 
+BC Brunswick Corp 
+BNI Burlington Northn Santa Fe 
+BR Burlington Resources 
+CPN Calpine Corp 
+CPB Campbell Soup Co. 
+COF Capital One Financial 
+CAH Cardinal Health 
+CCL Carnival Corp 
+CAT Caterpillar Inc. 
+CRA Celera Genomics 
+CELG Celgene Corporation 
+CD Cendant Corp 
+CTX Centex Corp 
+CTL CenturyTel Inc 
+CEN Ceridian Corp 
+CF Charter One Finl 
+CHKP Checkpoint Software 
+CVX ChevronTexaco Corp 
+CHL China Telecommunications 
+CHINA China.com Corp 
+CHIR Chiron Corp 
+CB Chubb Corp 
+CI CIGNA Corp 
+CINF Cincinnati Financial 
+CIN CINergy Corp 
+CC Circuit City Strs-CrctCtyGrp 
+CSCO Cisco Systems Inc. 
+C Citigroup Inc. 

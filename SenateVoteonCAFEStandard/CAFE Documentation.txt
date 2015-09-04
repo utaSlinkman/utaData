@@ -1,0 +1,82 @@
+NAME:	Senate Vote on Corporate Average Fuel Economy (CAFE) Standard
+TYPE:	Census
+SIZE:	100 records, each including a record identifier and 4 variables
+
+DESCRIPTIVE ABSTRACT:
+
+Each record includes the name (as an identifier) of a 2002 U.S. Senator
+the state that senator represents, political party affiliation, vote on 
+the Corporate Average Fuel Economy standard, and the total lifetime 
+amount of money contributed to the senator by automobile manufacturers. 
+The goal is to summarize and quantify the effects of ideology (party) 
+and contributions on senators' votes.
+
+DATA SOURCES:
+
+This data was compiled by Public Campaign:
+
+http://www.howdarethey.org/news/cafe/cafetablealpha.htm
+
+Lifetime total contributions were obtained from the Center for 
+Responsive Politics.
+
+DATASET LAYOUT:
+
+Columns  Variable         Comment
+
+   1-18  Name             Last, First [MI.]
+
+  20-21  State            Two letter abbreviation
+
+     23  Party            R(epublican), D(emocrat), I(ndependent)
+
+  25-27  Vote             Vote on CAFE standard (YES or NO)
+
+  30-34  Amount           Total lifetime dollar amount contributed to
+                          the senator by the auto industry. This amount
+                          includes PACs and individual contributions of
+                          $200 or more from executives and their
+                          families.
+
+SPECIAL NOTES:
+
+James Jeffords, Vermont, is the sole Independent. The vote tallied here was 
+on the Levin amendment to the McCain/Kerry proposal. The McCain/Kerry 
+proposal, if implemented, would have forced auto manufacturers to 
+increase fleetwide fuel economy. A vote of YES on the Levin amendment 
+was tantamount to shelving the increase and was consistent with most 
+auto manufacturers' wishes.
+
+STORY BEHIND THE DATA:
+
+The Corporate Average Fuel Economy (CAFE) Standard was 1975 legislation 
+requiring automobile manufacturers to achieve particular standards in 
+fleetwide fuel economy. The motion voted on here was a bill that 
+effectively delays any increase in fleetwide fuel economy while the 
+National Highway Traffic Safety Administration researches development 
+of new CAFE standards. (A subsequent amendment froze the standard for 
+light trucks at the then-current standard of 20.7 mpg.) I came upon the 
+data while reading the news. As published by Public Campaign, the data
+made an ideal candidate for logistic regression.
+
+PEDAGOGICAL NOTES:
+
+The fundamental idea here is to fit a binary regression model. Doing so 
+roughly assesses the effect of both party affiliation and contributions 
+supplied by the auto industry on the probability of a vote that the 
+industry generally desired. Transformations and careful handling of 
+outlying cases are essential to a good analysis.
+
+REFERENCES:
+
+“Automobile and Light Truck Fuel Economy: The CAFE Standard” (2002), 
+Almanac of Policy Issues [Online], September 25, 2002, 
+www.policyalmanac.org/environment/archive/crs_cafe_standards.shtml.
+
+SUBMITTED BY:
+
+Scott Preston
+Department of Mathematics
+SUNY Oswego
+Oswego, NY 13126
+srp@oswego.edu

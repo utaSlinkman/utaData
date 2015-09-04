@@ -1,0 +1,211 @@
+From: <Saved by Windows Internet Explorer 8>
+Subject: Nursing Home Data
+Date: Thu, 24 Feb 2011 15:39:20 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CBD439.00D93390"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5994
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CBD439.00D93390
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://lib.stat.cmu.edu/DASL/Datafiles/nursinghomedat.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Nursing Home Data</TITLE>
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19019"></HEAD>
+<BODY>
+<HR SIZE=3D2>
+
+<CENTER>
+<TABLE border=3D1 cellSpacing=3D0 cellPadding=3D0>
+  <TBODY>
+  <TR>
+    <TD align=3Dmiddle>
+      <TABLE border=3D1 cellSpacing=3D0 cellPadding=3D1>
+        <TBODY>
+        <TR>
+          <TD><A =
+href=3D"http://lib.stat.cmu.edu/DASL/DataArchive.html"><IMG=20
+            alt=3D"Go to Main Menu"=20
+            =
+src=3D"http://lib.stat.cmu.edu/DASL/InlineImages/mainmenu.gif"></A></TD><=
+/TR></TBODY></TABLE></TD>
+    <TD align=3Dmiddle>
+      <TABLE border=3D1 cellSpacing=3D0 cellPadding=3D1>
+        <TBODY>
+        <TR>
+          <TD><A href=3D"http://lib.stat.cmu.edu/cgi-bin/dasl.cgi"><IMG=20
+            alt=3D"Go to Power Search"=20
+            =
+src=3D"http://lib.stat.cmu.edu/DASL/InlineImages/powersearchsmall.gif"></=
+A></TD></TR></TBODY></TABLE></TD>
+    <TD align=3Dmiddle>
+      <TABLE border=3D1 cellSpacing=3D0 cellPadding=3D1>
+        <TBODY>
+        <TR>
+          <TD><A =
+href=3D"http://lib.stat.cmu.edu/DASL/allsubjects.html"><IMG=20
+            alt=3D"Go to Datafile Subjects"=20
+            =
+src=3D"http://lib.stat.cmu.edu/DASL/InlineImages/allsubjects.gif"></A></T=
+D></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></CENTER>
+<HR SIZE=3D2>
+<B>
+<DT>Datafile Name:</B> Nursing Home Data <B>
+<DT>Datafile Subjects:</B> <DSUBJECTS><A=20
+href=3D"http://lib.stat.cmu.edu/cgi-bin/dasl.cgi?query=3DHealth&amp;submi=
+t=3DSearch&amp;metaname=3Ddsubjects&amp;sort=3Dswishrank">Health</A>=20
+, <A=20
+href=3D"http://lib.stat.cmu.edu/cgi-bin/dasl.cgi?query=3DConsumer&amp;sub=
+mit=3DSearch&amp;metaname=3Ddsubjects&amp;sort=3Dswishrank">Consumer</A> =
+
+, <A=20
+href=3D"http://lib.stat.cmu.edu/cgi-bin/dasl.cgi?query=3DMedical&amp;subm=
+it=3DSearch&amp;metaname=3Ddsubjects&amp;sort=3Dswishrank">Medical</A>=20
+, <A=20
+href=3D"http://lib.stat.cmu.edu/cgi-bin/dasl.cgi?query=3DEconomics&amp;su=
+bmit=3DSearch&amp;metaname=3Ddsubjects&amp;sort=3Dswishrank">Economics</A=
+>=20
+</DSUBJECTS><B>
+<DT>Story Names:</B> <A=20
+href=3D"http://lib.stat.cmu.edu/DASL/Stories/nursinghome.html">Nursing =
+Home=20
+Data</A> <B>
+<DT>Reference:</B> These data are part of the data analyzed in Howard L. =
+Smith,=20
+Niell F. Piland, and Nancy Fisher, "A Comparison of Financial =
+Performance,=20
+Organizational Character- istics, and Management Strategy Among Rural =
+and Urban=20
+Nursing Facilities, Journal of Rural Health, Winter 1992, pp 27-40. <B>
+<DT>Authorization:</B> free use <B>
+<DT>Description:</B> <PRE>The data were collected by the Department of =
+Health and Social Services of the
+State of New Mexico and cover 52 of the 60 licensed nursing facilities =
+in New Mexico
+in 1988.
+</PRE><B>
+<DT>Number of cases:</B> 52 <B>
+<DT>Variable Names:</B>=20
+<OL>
+  <LI>BED =3D number of beds in home=20
+  <LI>MCDAYS =3D annual medical in-patient days (hundreds)=20
+  <LI>TDAYS =3D annual total patient days (hundreds)=20
+  <LI>PCREV =3D annual total patient care revenue ($hundreds)=20
+  <LI>NSAL =3D annual nursing salaries ($hundreds)=20
+  <LI>FEXP =3D annual facilities expenditures ($hundreds)=20
+  <LI>RURAL =3D rural (1) and non-rural (0) homes </LI></OL><B>
+<DT>The Data:</B> <PRE>  BED  MCDAYS  TDAYS   PCREV   NSAL   FEXP  RURAL =
+
+
+244           128        385      23521  5230    5334           0=20
+  59           155        203       9160   2459      493           1
+120           281        392     21900   6304    6115           0
+120           291        419     22354   6590    6346           0
+120           238        363     17421   5362    6225           0
+ 65            180        234     10531   3622      449           1
+120           306        372     22147   4406    4998           1
+ 90            214        305     14025   4173      966           1
+ 96            155        169       8812   1955    1260           0
+120           133        188     11729   3224     6442          1
+ 62            148        192       8896   2409     1236          0
+120           274        426     20987   2066     3360          1
+116           154        321     17655   5946     4231          0
+ 59            120        164       7085   1925     1280          1
+ 80            261        284     13089   4166     1123          1
+120           338        375     21453   5257     5206          1
+ 80              77        133       7790   1988     4443          1
+100           204        318     18309   4156     4585          1
+ 60             97         213       8872   1914     1675          1
+110          178         280     17881   5173     5686          1
+120          232         336     17004   4630       907          0
+135          316         442     23829   7489     3351          0
+ 59           163         191       9424   2051     1756          1
+ 60             96         202     12474   3803     2123          0
+ 25             74           83       4078   2008     4531          1
+221          514         776     36029   1288     2543          1
+ 64             91         214       8782    4729    4446          1
+ 62           146         204       8951    2367    1064          0
+108          255         366     17446    5933    2987          1
+ 62           144         220       6164    2782      411          1
+ 90           151         286       2853    4651    4197          0
+146          100         375     21334    6857    1198          0
+ 62           174         189       8082    2143    1209          1
+ 30             54           88       3948    3025      137          1
+ 79           213         278     11649    2905    1279          0
+ 44           127         158       7850    1498    1273          1
+120          208         423     29035    6236    3524          0
+100          255         300     17532    3547    2561          1
+ 49           110         177       8197    2810    3874          1
+123          208         336     22555    6059    6402          1
+ 82           114         136       8459    1995    1911          1
+ 58           166         205     10412    2245    1122          1
+110          228         323     16661    4029    3893          1
+ 62           183         222     12406    2784    2212          1
+ 86             62         200     11312    3720    2959          1
+102          326         355     14499    3866    3006          1
+135          157         471     24274    7485    1344          0
+ 78           154         203       9327    3672    1242          1
+ 83           224         390     12362    3995    1484          1
+ 60             48         213     10644    2820    1154          0
+ 54           119         144       7556    2088      245          1
+120          217         327     20182    4432    6274          0
+</PRE></DT></BODY></HTML>
+
+------=_NextPart_000_0000_01CBD439.00D93390
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://lib.stat.cmu.edu/DASL/InlineImages/mainmenu.gif
+
+R0lGODlhcwAaAPcAAP///zNmmf9lZQBlmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAAcwAaAEcI/wAHCBxI
+sKDBgwgTKlzIsKHDhQEiSpwYUYDFiwIoapRocWOAjh5BeuSYcaPIkShRChyJ8SLFliZLauzYEqbI
+kx9lvixZ02XFnjoprkxJtKjRo0iTGh2qtKnTp1BTMp14s+ZPnkGrkrx6NaNPnFp/iu2KNezGqVHT
+ql0rdQDbt3Dhoo1Lt+7RuVyfYiTpE+pesnXx4hx7EmzQrYVdmh0702vfnHxlDpaI167lyxMrY94c
+2C3nz5c1gx4dVTTp00pNo15dVPNfpY/z+h0cm63gyTtr0/xb1WrPnTm/St4LdPjI2yEdU816WGzi
+3VuXJ4f8u2v0s55zAydMuzn14YqNSyGPCXl78LLHs7Nen1Q1+/eZ1cOf79E9ffYP8+vfz7//woAA
+If8LTUFDR0NvbiAEAxAxAAAAAVdyaXR0ZW4gYnkgR0lGQ29udmVydGVyIDIuMy43IG9mIEphbiAy
+OSwgMTk5NAA7
+
+------=_NextPart_000_0000_01CBD439.00D93390
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://lib.stat.cmu.edu/DASL/InlineImages/powersearchsmall.gif
+
+R0lGODdhcwAaAJEBADNmmf9lZQBlmAAAACwAAAAAcwAaAEEC3JSPqcvtD6N8oNoass63+w+G16aJ
+psmdBph65BhYLcm1Hx3LOA7Y/YbJ/UCrk/GITCqXnyLzCY1KPc5OCvjLYUvDWYx7e3WFtevXBs4G
+iYKp+w03VeP0enRuz+tV7bBVuKcTCGOEt+YCWKZ45uNzwiMoiAZ4ONTUN5ipaajZScfpGToFKlrK
+RGqaeoSq2hrCmeYYmKYnS4X5B6MFJGvGBRmZ5evFSxO0YwuLVTmmViZ8tlQstjaJGNyh7Kd2fNhL
+ifKc22197MXmmp7Eqt7O3p7+Dt86UW9/j5//UAAAOw==
+
+------=_NextPart_000_0000_01CBD439.00D93390
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://lib.stat.cmu.edu/DASL/InlineImages/allsubjects.gif
+
+R0lGODdhcwAaAJECAGSXlwBlmP/9ZQAAACwAAAAAcwAaAEEC6oyPqcvtD6N8oNpbhd4b+w+GooaR
+4oleBsqZVtsBJuxmrX3fsoBze2zr1TCrlPGITCqXxaXzCY16mqHhDhe8YrWvoYsU83HB1pl1GpCq
+1+wTtQ2PQ9/yuh1F95R5Iz78vAQYklfi95OVZXbh1UHWNdYIxFXYM6mSdpf5qAlAyPkZ5wk6qiZK
+eupkirp6pMr6KqIqKfkhCGWLhIvGYohIowNT6/PFE0w8+2tGayHbG7nIp7j5OOznWEmmoxddvFzR
+XOkrfVx1/Xx1Dd3Fvd3LjAkrpbvmGl8+Tw9vv++mz/+PZoLAgQQLGmxQAAA7
+
+------=_NextPart_000_0000_01CBD439.00D93390--

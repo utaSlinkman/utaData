@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1411224286766.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AEC0F29F",
+    "lastKnownWriteTime" : 28429440806879331,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "TexasPoweball20132014X",
+        "contentUrl" : "content?title=TexasPoweball20132014X&file=f49ce1c0d73047ab9d694f3e3ab2971d.htm",
+        "displayedObservations" : 172,
+        "displayedVariables" : 3,
+        "totalObservations" : 172,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

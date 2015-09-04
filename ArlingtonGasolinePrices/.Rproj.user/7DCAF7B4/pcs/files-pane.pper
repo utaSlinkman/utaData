@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Arlington Gasoline Prices",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Hubble",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

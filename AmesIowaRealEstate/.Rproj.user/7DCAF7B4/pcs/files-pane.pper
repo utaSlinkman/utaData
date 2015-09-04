@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Ames Iowa Real Estate",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

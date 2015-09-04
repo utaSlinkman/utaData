@@ -1,0 +1,5 @@
+This data set is the weekly Texas Powerball lottery sales for 
+the year 2005 through 2006.
+
+Source: 	http://www.lottoreport.com/salescomparison.htm#pb2005
+Date:		11/1/2006

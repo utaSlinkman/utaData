@@ -1,0 +1,17 @@
+{
+    "contents" : "# Ironman Gold times\nrm( list=ls())\nload( \"IronMan.rda\" )\n\nlibrary( ggplot2  )\n\nggplot( Ironman,\n        aes( x=Minutes ) ) +\n  geom_histogram( binwidth=25,\n                  color=\"black\",\n                  fill=\"white\") +\n  xlab( \"Gold times (Minutes)\" ) +\n  ylab( \"Frequency\" ) +\n  ggtitle( \"1978 - 2014 Ironman Gold times\"  )\n",
+    "created" : 1425327535268.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4073971010",
+    "id" : "E07D124C",
+    "lastKnownWriteTime" : 1425328191,
+    "path" : "~/Data/Ironman Championship/IronmanGold.r",
+    "project_path" : "IronmanGold.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

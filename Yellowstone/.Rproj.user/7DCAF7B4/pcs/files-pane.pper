@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Yellowstone Hot Spot",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

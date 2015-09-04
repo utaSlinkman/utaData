@@ -1,0 +1,101 @@
+Page,Line,MLS,Condo,Unit,Type,Island,Geographic Area,City,Zip,Price,Score,Beds,Area,Built,Days,Pool,Sunrise View,Sunset View,Ocean View,Ocean Frontage,Honolulu View,Diamond Head View,Golf View,Mountain View, Monthly Fees
+3,5,201500985,Honolulu Tower,1609,Residential,Oahu,Honolulu,China Town,96817,439,95,2,1064,1982,51,Yes,No,Yes,Yes,No,Yes,No,No,No,894
+4,1,275541,Alii Villas,236,Vacation,Big Island,Kailua-Kona,Kailua-Kona,96740,440,78,2,761,1973,180,Yes,No,Yes,Yes,Yes,No,No,No,No,498
+5,4,201503880,Four Paddle,2406,Residential,Oahu,Honolulu,Waikiki,96815,450,80,1,553,1974,1,Yes,No,No,Yes,No,No,No,No,No,676
+9,6, 280945,Keauhou Punahele,D301,Both,Big Island,Kailua-Kona,Keauhou,96740,429,81,3,1361,1979,41,Yes,No,No,Partial,No,No,No,Yes,No,601
+10,6,201503142,Palms Inc,1202,Residential,Oahu,Honolulu,Waikiki,96815,465,90,2,950,1968,12,Yes,No,No,Partial,No,Yes,No,Yes,Yes,687
+17,8,201503556,Island Courtyards at Mililani Mauka,A 206,Residential,Oahu,Central,Mililani Mauka,96789,355,85,2,704,2007,4,No,No,Yes,No,No,No,No,No,Yes,586
+21,4,201501175,Ala Wai Manor,1101,Residential,Oahu,Honolulu,McCully,96826,369,91,2,750,1966,49,Yes,Yes,Yes,Yes,No,Yes,No,No,No,581
+23,4,279758,Kanaloa at Kona,405,Vacation,Big Island,Kailua-Kona,Keauhou,96740,439,70,2,1500,1080,180,Yes,No,No,Yes,No,No,No,No,Yes,NA
+25,9,201500881,Mountain View Terrace,A108,Residential,Oahu,Kaneohe,Kaneohe,96744,380,84,3,1172,1974,49,Yes,No,No,No,No,No,No,No,Yes,596
+27,2,363740,Napili Villas,1,Vacation,Maui,West Side,Napili,96761,398,73,2,894,NA,46,No,No,No,No,No,No,No,No,No,320
+35,1,201421488,Tropicana Manor-Moanalua,8711,Residential,Oahu,Honolulu,Salt Lake,96818,339,96,3,1178,1969,180,Yes,No,Yes,No,No,No,No,No,No,550
+36,10,201503041,Mariners Place Townhomes,1 4N4,Residential,Oahu,Ewa,Ocean Pointe,96740,375,74,3,1043,2002,15,No,No,No,No,No,No,No,No,No,416
+38,7,278894,7th Fairway Villas at Waikoloa,23,Vacation,Big Island,Kahaloa Coast,Waikoloa Village,96738,399,70,3,1258,2004,120,No,No,No,No,No,No,No,No,No,425
+45,5,272612,Puanana,10A,Vacation,Kauai,North Shore,Princeville,96722,390,72,2,1510,1979,336,No,No,No,No,No,No,No,No,No,717
+48,8,280052,Waikoloa Colony Villas,2306,Vacation,Big Island,Kahaloa Coast,Waikoloa Beach Resort,96701,429,58,2,1236,2003,60,Yes,No,No,No,No,No,No,No,No,635
+49,10,363526,Villas at Kenolio I,6C,Vacation,Maui,South Side,Kihei,96753,399.5,64,3,1168,NA,60,Yes,No,No,Yes,No,No,No,No,Yes,632
+53,3,201503237,2465 Kuhio At Waikiki,1506,Residential,Oahu,Honolulu,Waikiki,96815,475,70,2,876,1971,13,No,No,No,Yes,No,Yes,No,Yes,Yes,650
+57,10,201500607,Ilikai Apt Bldg,1223,Residential,Oahu,Honolulu,Waikiki,96815,418,56,1,500,1965,60,Yes,No,No,No,No,No,No,No,Yes,427
+62,4,363458,Island Sands,303,Vacation,Maui,Central,Maalaea,96793,395,58,1,559,NA,60,Yes,No,No,Yes,No,No,No,No,Yes,382
+69,8,201500280,Pearl Horizons 2B,281,Residential,Oahu,Pearl City,Waimalu,96701,325,76,2,849,1993,60,Yes,No,Yes,Yes,no,Yes,No,Yes,Yes,383
+79,3,362943,Hale Kanani,4-302,Vacation,Maui,South Side,Kihei,97753,455,46,2,890,NA,120,Yes,No,No,No,No,No,No,No,Yes,508
+83,4,363781,Kihei Garden Estates,E-202,Vacation,Maui,South Side,Kihei,96753,345,65,2,851,NA,46,Yes,No,No,No,No,No,No,No,No,643
+84,4,363128,Kaanapali Shores,738,Vacation,Maui,West Side,Kaanapali,96761,378,61,0,507,NA,50,Yes,No,No,Yes,No,No,No,No,No,778
+86,10,363591,Kai Makani,42-103,Residential,Maui,South Side,Kihei,96753,488.89,74,2,1126,NA,60,Yes,No,No,No,No,No,No,No,No,397
+96,9,267941,Hualalai Village,E106,Residential,Big Island,Kailua-Kona,Kailua-Kona,96740,319,71,3,1195,NA,476,No,No,Yes,No,No,No,No,No,No,480
+97,9,201502284,Harbor Square ,9D,Residential,Oahu,Honolulu,Punchbowl,96613,300,73,1,469,1971,31,Yes,No,No,No,No,No,No,No,No,604
+100,6,201420838,Olaloa,1161,Residential,Oahu,Central,Mililani Mauka,96789,255,98,2,748,1994,122,No,No,No,No,No,No,No,No,Yes,512
+115,2,201501695,Heritage House Hawaii-Kai,302,Residential,Oahu,Hawaii-Kai,Halaione,96825,505,77,2,1040,1974,45,Yes,No,No,No,No,No,No,No,Yes,543
+115,4,201413848,Palehua Nani,62,Residential,Oahu,Makakilo,Makakilo,96707,254,99,2,976,1986,244,No,Mo,No,No,No,No,No,No,No,453
+117,2,201421144,Makakilo Cliffs,1202,Residential,Oahu,Makakilo,Makakilo,96707,259,85,2,760,1991,122,No,No,No,Yes,No,No,No,No,Yes,413
+118,6,201500247,Villa On Eaton Square,2111,Residential,Oahu,Honolulu,Waikiki,96815,498,73,1,681,1974,61,Yes,Yes,No,Yes,No,Yes,No,No,Yes,681
+119,2,201502485,Colony at the Peninsula,7213,Residential,Oahu,Hawaii-Kai,West Marina,96825,522,82,1,893,2004,24,Yes,No,No,No,No,No,No,No,No,548
+123,6,201501547,Mokuleia Shores,104,Residential,Oahu,North Shore,Wailua,96791,299,60,2,699,1975,43,No,No,No,No,No,No,No,No,No,660
+124,7,201501912,Island Colony,2614,Residential,Oahu,Honolulu,Wakiki,96815,282,65,0,316,1979,38,Yes,No,Yes,Yes,No,Yes,No,Yes,No,371
+127,3,201501347,Pae Ko Gardens,1G,Residential,Oahu,Ewa,Kapolei,96707,244,81,1,505,1995,47,Yes,No,Yes,No,No,No,No,No,No,328
+127,1,201423180,Island Colony,3310,Residential,Oahu,Honolulu,Wakiki,96815,275,69,0,316,1979,92,Yes,No,Yes,Yes,No,Yes,No,No,Yes,378
+130,9,270415,Hualalai Village,A102,Residential,Big Island,Kailua-Kona,Kailua-Kona,96740,319,52,2,862,2002,403,No,No,Yes,Yes,No,No,No,No,No,356
+132,6,363076,Kamaole Sands,9-102,Vacation,Maui,South Side,Kihei,96753,499,69,1,818,NA,91,Yes,No,No,No,No,No,No,No,No,538
+132,10,280054,Alii Villas,130,Vacation,Big Island,Kailua-Kona,Kailua-Kona,96740,499,69,2,761,1973,61,Yes,No,Yes,Yes,Almost,No,No,Yes,Yes,498
+136,2,201501714,Kahala Towers,A2401,Residential,Oahu,Honolulu,Wailalae Nui,96816,518,84,2,841,1968,40,Yes,NA,NA,Yes,No,Ues,Yes,Yes,No,435
+144,9,282174,Holiday Manor,1114,Residential,Oahu,Honolulu,Kapiolani,96814,199,85,0,362,1966,9,Yes,No,No,No,No,Yes,No,No,Yes,310
+147,6,364059,Kamaole Sands,9-103,Vacation,Maui,South Side,Kihei,96753,509,65,1,818,NA,25,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151,10,359968,Kuau Plaza,207,Vacation,Maui,North Shore,Paia,96799,299,45,1,570,1980,366,No,No,No,No,No,No,No,No,No,NA
+153,6,201500707,Hono Hale Towers,C-45,Residential,Oahu,Honolulu,Moiliili,96826,225,78,0,362,1969,57,Yes,No,No,No,No,Some,No,No,Yes,478
+154,9,280366,Captain Cook Village,I 8B,Residential,Big Island,South Kina,Captain Cook,96740,235,65,2,1236,1973,54,No,No,No,Yes,No,No,No,No,No,372
+158,6,201501117,Ala Moana Hotel Condo,3013,Both,Oahu,Honolulu,Ala Mona,96814,225,66,0,297,1970,52,Yes,Yes,No,Yes,No,Yes,Yes,No,No,794
+172,5,201407027,Palm Villas,15T,Residential,Oahu,Ewa,Ewa Gentry,96706,218,89,2,717,1989,305,Yes,No,No,No,No,No,No,No,No,343
+173,10,201503808,Uraku Tower Hawaii,10B,Both,Oahu,Honolulu,Ala Moana,96814,675,116,2,1126,1989,3,Yes,No,Yes,Yes,`No,No,No,No,No,1749
+177,8,201417772,Cathedral Pt-Melemanu,F204,Residential,Oahu,Central,Melemanu,96789,160,76,1,680,1973,1,Yes,No,Yes,No,No,No,No,No,No,389
+182,9,201418664,Ala Moana Hotel Condo,802,Both,Oahu,Honolulu,Ala Moana,96814,185,69,0,297,1970,153,Yes,No,No,No,No,No,No,No,No,746
+193,6,201421873,Aloha Surf Hotel,412,Both,Oahu,Honolulu,Waikiki,96815,171,61,0,256,1968,151,Yes,No,No,No,No,No,No,No,No,418
+194,6,281542,Kona Mansions,V C206,Residential,Big Island,Kaikua-Kona,Kailua-Kona,96740,135,60,1,571,1972,25,Yes,No,No,No,No,No,No,No,Yes,464
+194,8,280305,Colony,I 69,Residential,Big Island,Kau,Baa;ehi ,96772,144.9,77,0,436,1976,61,No,No,No,Yes,No,No,No,No,No,385
+195,7,359960,Lahaina Shores ,511,Vacation,Maui,West Side,Lahaina,96761,515,62,0,483,NA,365,Yes,No,Yes,Yes,Yes,No,No,No,No,975
+196,1,201416535,Ala Moana Hotel Condo,1146,Residential,Oahu,Honolulu,Ala Mona,96814,178.5,54,0,246,1970,214,Yes,No,No,No,No,Yes,No,No,No,808
+210,7,274156,33 Hualalai,204,Residential,Big Island,Hilo,Hilo,97720,110,74,1,608,1972,275,No,No,No,No,No,No,No,No,No,295
+211,10,272789,KAUAI BEACH RESORT,4207,Vacation,Kauai,Central,Hanamalua,96766,125,53,0,320,1985,336,,Yes,No,Yes,Yes,No,No,No,No,992
+215,5,356313,Kauai Beach Resort,1212,Residential,Molokai,Molokai,West End,96770,100,66,0,348,NA,657,Yes,No,Yes,Yes,Yes,No,No,No,No,NA
+222,3,201418660,Hotel Molokai,104D,Residential,Molokai,Mololkai,Central,96748,72,73,0,226,1968,180,Yes,No,No,No,No,No,No,No,No,136
+225,1,201500505,Imperial Plaza,1013,Residential,Oahu,Honolulu,Kakaako,96813,599.9,84,2,1175,1991,60,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,1473
+229,5,201502561,Ridgeway C,C-80,Residential,Oahu,Pearl City,Waimalu,96701,425,79,3,1136,1971,24,Yes,Yes,No,No,No,No,No,No,Yes,457
+229,2,201501563,The Windsor,1702,Residential,Oahu,Honolulu,Wakiki,96815,628,87,2,941,1986,43,Yes,No,No,No,No,Yes,No,No,Yes,820
+232,1,270881,MAKAHUENA,IIA202,Vacation,Kauai,South Shore,Poipu,96756,599,70,3,1343,1979,402,Yes,Yes,No,Yes,Yes,No,No,No,No,1160
+243,1,201416969,Trump Tower Waikiki,1312,Residential,Oahu,Honolulu,Wakiki,96815,698,73,0,559,2009,210,Yes,No,No,yes,No,Yes,No,No,No,781
+244,1,279173,Halii Kai ,24E,Both,Big Island,Kohala Coast,Waikola Beach Resort,96738,635,61,3,1403,2006,90,Yes,No,No,No,No,No,No,No,No,NA
+253,10,201416189,Trump Tower Waikiki,1710,Residential,Oahu,Honolulu,Waikiki,96815,730,85,0,492,2009,210,Yes,No,No,Yes,No,Yes,No,Bo,No,745
+254,5,359748,Luana Kai,C-301,Vacation,Maui,South Side,Kihei,96753,699,71,3,1268,NA,365,Yes,No,No,Yes,No,No,No,No,No,767
+256,2,201420303,Kalele Kai,1151,Residential,Oahu,Hawaii-Kai,West Marina,96825,740,82,2,1427,1993,90,Yes,No,No,Yes,No,No,No,No,No,685
+260,7,201501820,Keola Lai ,3006,Residential,Oahu,Honolulu,Kakaako,96813,769,81,2,1045,2008,38,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,872
+263,10,280056,Kona By The Sea,116,Both,Big Island,Kailua-Kona,Kailua-Kona,96740,379,95,1,919,1981,60,Yes,No,No,Yes,Yes,No,No,No,Partial,697
+264,5,201501001,Ilikai Apt Bldg,2439,Residential,Oahu,Honolulu,Waikiki,96815,707.5,54,0,500,1965,53,Yes,No,Yes,Yes,No,Yes,No,No,Yes,384
+265,7,279932,Alii Kai At Hanalei,3203,Vacation,Kauai,North Shore,Princeville,96722,725,55,2,1085,1974,120,Yes,No,Yes,Yes,No,No,No,No,Yes,670
+266,1,201501885,One Waterfront Tower,1101,Residential,Oahu,Honolulu,Kakaako,NA,789,85,2,1470,1989,38,Yes,No,No,Yes,No,Yes,Yes,No,Yes,1173
+268,7,201415926,Coconut Plantation ,40-1,Both,Oahu,Ewa,Ko Olina,86707,849,97,4,1834,2002,210,Yes,No,No,No,No,No,No,Yes,Yes,987
+272,9,363919,Papakea Resort I II,H-204,Vacation,Maui,West Side,Kaanapali,96761,784,59,2,878,NA,33,Yes,No,Yes,Yes,Yes,No,No,No,No,1056
+272,10,201502430,Waihonua,4105,Residential,Oahu,Honolulu,Lower Makiki,96814,668,5,1,647,2015,17,Yes,Yes,Yes,Yes,NO,Yes,No,No,Yes,550
+278,7,363003,Ke Alii Ocean Villas ,B-203,Vacation,Maui,SouthSide,Kihei,96753,839,66,2,1375,NA,90,Yes,No,Yes,Yes,No,No,No,No,Yes,592.51
+281,6,360381,Kamaole Nalu,501,Vacation,Maui,SouthSide,Kihei,96753,925,114,3,774,NA,330,Yes,No,Yes,Yes,Yes,No,No,No,No,817
+284,1,201406869,Harbor Court,2005,Residential,Oahu,Honolulu,Honalulu,96813,899,73,2,1509,1994,300,Yes,No,Yes,Yes,No,Yes,No,No,Yes,1473
+283,10,363129,Palms at Wailea I ,1904,Vacation,Maui,South Side,Wailea,96753,875,62,2,1194,NA,90,Yes,No,Yes,No,Across Street,No,No,No,Yes,633
+284,10,361245,Masters,1708,Both,Maui,West Side,Kaanapali,96761,897,69,2,1269,NA,240,Yes,Yes,No,Yes,No,No,No,No,Yes,876
+285,4,201405570,Trump Tower Waikiki,2231,Residential,Oahu,Honolulu,Waikiki,96815,900,77,0,441,2009,336,Yes,Yes,No,Yes,No,Yes,No,No,No,616
+290,2,360979,Whaler II,459,Both,Maui,West Side,Kannapali,96761,895,61,1,901,NA,270,Yes,No,Yes,Yes,Yes,No,No,No,No,2057
+291,6, 361418,Villas at Koele,I 14D,Residential,Lanai,Lanai,Koele,96763,950,68,2,1935,1926,240,no,No,No,No,No,No,No,Yes,No,1092
+292,6,360891,Wailea Palms,2801,Both,Maui,South Side,"Wailea,",96753,999,91,2,1559,NA,270,Yes,No,No,Yes,No,No,No,No,No,1032
+296,9,356606,Papakea Resort I II,A405,Vacation,Maui,West Side,Kaanapali,96761,999,61,3,1240,NA,622,Yes,No,Yes,Yes,Yes,No,No,No,No,NA
+304,10,201407192,Waihonua,3706,Residential,Oahu,Honolulu,Lower Makiki,96814,950,3,2,1034,2015,240,Yes,No,Yes,Yes,No,Yes,No,No,Yes,975
+307,1,364245,Royal Mauian,605,Both,Maui,South Side,Kihei,96753,1199,78,2,806,NA,8,No,NA,NA,NA,NA,NA,NA,NA,NA,NA
+310,6,362282,Vintage at Kaanapali,33,Both,Maui,West Side,Kaanapali,96761,1225,68,3,2022,NA,150,Yes,No,Yes,Yes,No,No,No,Yes,Yes,717
+313,7,363931,Kai Malu,29A,Vacation,Maui,South Side,Wailea,96753,1450,108,3,1796,NA,33,Yes,No,No,No,N0,No,Mo,No,Yes,1144
+313,3,201501424,Regency At Kahala,23D,Residential,Oahu,Diamond Head,Kahala,96816,1250,69,2,1395,1969,46,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,1212
+317,2,281213,HALE KAHAKAI APARTMENTS,PH17,Both,Big Island,Hilo,Hilo,96720,384,101,3,1605,1973,4,Yes,Yes,No,Yes,No,No,No,No,No,1135
+329,6,360381,Kamaole Nalu,501,Both,Maui,South Side,Kihei,96753,380,114,2,774,NA,336,Yes,No,Yes,Yes,Yes,No,No,No,No,NA
+333,5,201405703,Colony Surf Ltd,301,Residential,Oahu,Honolulu,Diamond Head,96815,1999,64,1,1000,1959,336,No,No,Yes,Yes,Yes,Yes,Yes,No,Ues,636
+338,4,278551,Waiulaula at Mauna Kea Resort,324,Both,Big Island,Kohala Coast,Mauna Kea Resort,96743,1891.83,8,3,2517,2015,120,Yes,No,Yes,Yes,No,No,No,yes,No,2134
+345,8,201414057,Koolani,4605,Residential,Oahu,Honolulu,Lower Makiki,96814,2888.89,89,4,2602,2006,214,Yes,No,Yes,Yes,No,Yes,No,No,Yes,2311
+347,5,279155,Villas At Ke Alaula,Unit A,Residential,Big Island,Kohala Coast,Hualalai,96740,2950,69,3,2755,2002,122,No,No,Yes,Yes,Yes,No,No,Yes,Yes,3101
+353,4,363430,Milowai,108,Both,Maui,Central,Maalaea,96793,3999.9,113,2,1088,NA,60,Yes,No,Yes,Yes,Yes,No,No,No,No,945
+360,1,201421248,Trump Tower Waikiki,3805/PHD,Residential,Oahu,Honolulu,Waikiki,96815,10998,42,2,2173,2009,122,Yes,No,Yes,Yes,No,Yes,No,No,Yes,3287
+360,8,201503129,Hokua At 1288 Ala Moana,PH-C,Residential,Oahu,Honolulu,Lower Makiki,96813,25000,21,4,69964,2006,13,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,4545

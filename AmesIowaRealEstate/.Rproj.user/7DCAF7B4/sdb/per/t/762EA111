@@ -1,0 +1,17 @@
+{
+    "contents" : "# EDA salePrice.r\n\nrequire(ggplot)                            # Needed for graphics grammar plots\n\nource('~/utaR/ggHisDen.r')\n\nload(\"Ames04.rda\")                         # Load Ames data\n\nannotation <- paste( \"Ames Iowa House Assessments:\", Sys.Date()  )\n\nggplot( Ames04, aes(  x=salePrice  ) ) +\n  geom_histogram( aes( y=..density..  ), \n                  binwidth=50, \n                  colour=\"black\", \n                  fill=\"white\") +\n  xlab( \"Sale price ($K)\" ) +\n  ylab(\"Density\") +\n  ggtitle(\"Ames Iowa House AssessMaent: Sales price\") \n\nAmes04 <- within( Ames04, logSalePrice <- log(salePrice))\nstr(Ames04)\n",
+    "created" : 1411148508468.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2425150126",
+    "id" : "762EA111",
+    "lastKnownWriteTime" : 1411152076,
+    "path" : "~/Data/Ames Iowa Real Estate/EDA salePrice.r",
+    "project_path" : "EDA salePrice.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

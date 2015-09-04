@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1426709078356.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A76AA7DA",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "votes.repub",
+        "contentUrl" : "content?title=votes.repub&file=9203cbaa6b6f438d8d9ab0f00de6a7d1.htm",
+        "displayedObservations" : 50,
+        "displayedVariables" : 32,
+        "totalObservations" : 50,
+        "variables" : 31
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

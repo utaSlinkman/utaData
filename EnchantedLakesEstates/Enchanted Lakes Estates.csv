@@ -1,0 +1,358 @@
+price,street,number,city,sqft,bedrooms,baths,corner,pool,lakeshore,foreclosed,recorded
+238.0,Enchanted Cir,3509,Arlington,2357,4,2,1,0,0,0,9/15/2014
+285.0,Enchanted Cir,3500,Arlington,3227,3,3,1,0,0,0,9/15/2014
+245.0,Enchanted Cir,3508,Arlington,2759,3,2,0,0,0,0,9/15/2014
+223.0,Enchanted Cir,3512,Arlington,2106,3,2,0,0,0,0,9/15/2014
+240.0,Enchanted Cir,3616,Arlington,3516,4,3,1,0,0,0,9/15/2014
+343.0,Lake Tahoe,3521,Arlington,3772,4,3,1,0,0,0,9/15/2014
+209.0,Lake Tahoe,3520,Arlington,2757,3,2,1,0,0,0,9/15/2014
+421.0,Lake Tahoe,3519,Arlington,4537,4,4,0,0,0,0,9/15/2014
+212.0,Lake Tahoe,3518,Arlington,3518,3,2,0,0,0,0,9/15/2014
+247.0,Lake Tahoe,3517,Arlington,3298,4,3,0,0,0,0,9/15/2014
+255.0,Lake Tahoe,3516,Arlington,3488,3,2,0,0,0,0,9/15/2014
+254.0,Lake Tahoe,3515,Arlington,2828,4,2,0,0,0,0,9/15/2014
+212.0,Lake Tahoe,3512,Arlington,2742,4,2,0,0,0,0,9/15/2014
+358.0,Lake Tahoe,3509,Arlington,3556,4,3,0,1,0,0,9/15/2014
+257.0,Lake Tahoe,3510,Arlington,3522,3,2,0,0,0,0,9/15/2014
+392.0,Lake Tahoe,3509,Arlington,3556,4,3,0,1,0,0,9/15/2014
+242.0,Lake Tahoe,3508,Arlington,3127,4,3,0,0,0,0,9/15/2014
+257.0,Lake Tahoe,3507,Arlington,2663,3,3,0,0,0,0,9/15/2014
+225.0,Lake Tahoe,3506,Arlington,2545,3,2,0,1,0,0,9/15/2014
+226.0,Lake Tahoe,3504,Arlington,2695,3,2,0,0,0,0,9/15/2014
+241.0,Lake Tahoe,3500,Arlington,4580,4,4,1,0,0,0,9/15/2014
+178.0,Lake Tahoe,3601,Arlington,2563,4,2,1,0,0,1,9/16/2014
+220.0,Lake Tahoe,3600,Arlington,2154,4,3,1,0,0,0,9/16/2014
+215.0,Lake Tahoe,3602,Arlington,2548,4,3,0,0,0,0,9/16/2014
+199.0,Lake Tahoe,3603,Arlington,2460,3,2,0,0,0,0,9/16/2014
+223.0,Lake Tahoe,3604,Arlington,2968,3,2,0,0,0,0,9/16/2014
+199.0,Lake Tahoe,3605,Arlington,2413,4,2,0,0,0,0,9/16/2014
+211.0,Lake Tahoe,3606,Arlington,2736,4,2,0,0,0,0,9/16/2014
+192.0,Lake Tahoe,3607,Arlington,2180,4,3,0,0,0,0,9/16/2014
+190.0,Lake Tahoe,3608,Arlington,2322,3,2,0,0,0,0,9/16/2014
+213.0,Lake Tahoe,3609,Arlington,2290,4,3,0,0,0,0,9/16/2014
+297.0,Lake Tahoe,3611,Arlington,2317,4,2,0,0,0,0,9/16/2014
+247.0,Lake Tahoe,3612,Arlington,3116,4,3,0,0,0,0,9/16/2014
+221.0,Lake Tahoe,3614,Arlington,2736,3,3,0,0,0,0,9/16/2014
+196.0,Lake Tahoe,3615,Arlington,2815,3,2,0,0,0,0,9/16/2014
+232.0,Lake Tahoe,3616,Arlington,3130,4,3,0,0,0,0,9/16/2014
+207.0,Lake Tahoe,3617,Arlington,2392,4,3,0,0,0,0,9/16/2014
+180.0,Lake Tahoe,3618,Arlington,2163,3,2,0,0,0,0,9/16/2014
+210.0,Lake Tahoe,3619,Arlington,2752,3,2.5,0,0,0,0,9/16/2014
+181.0,Lake Tahoe,3620,Arlington,2213,3,2,0,0,0,0,9/16/2014
+216.0,Lake Tahoe,3621,Arlington,2349,3,2.5,0,0,0,0,9/16/2014
+204.0,Lake Tahoe,3623,Arlington,2196,4,2,0,0,0,0,9/16/2014
+220.0,Lake Tahoe,3624,Arlington,2853,3,2,0,0,0,0,9/16/2014
+231.0,Lake Tahoe,3625,Arlington,3398,4,3,0,0,0,0,9/16/2014
+183.0,Lake Tahoe,3627,Arlington,2155,4,3,0,0,0,0,9/16/2014
+201.0,Lake Tahoe,3629,Arlington,2595,4,2,0,0,0,0,9/16/2014
+203.0,Lake Tahoe,3631,Arlington,3652,4,3,1,0,0,0,9/16/2014
+198.0,Lake Tahoe,7200,Arlington,2411,3,3,1,0,0,0,9/16/2014
+207.0,Lake Tahoe,7202,Arlington,2536,3,2,0,0,0,0,9/16/2014
+264.0,Lake Tahoe,7294,Arlington,3188,5,3,0,0,0,0,9/16/2014
+292.0,Lake Tahoe,7205,Arlington,2952,4,3,0,0,0,0,9/16/2014
+297.0,Lake Tahoe,7206,Arlington,3242,3,2,0,0,0,0,9/16/2014
+310.0,Lake Tahoe,7207,Arlington,3593,4,4,1,0,0,0,9/16/2014
+370.5,Lake Powell,7003,Arlington,2791,3,2,1,0,1,0,9/17/2014
+276.3,Lake Powell,7004,Arlington,3650,4,2,1,0,0,0,9/17/2014
+557.2,Lake Powell,7007,Arlington,4022,4,3,1,0,1,0,9/17/2014
+638.7,Lake Powell,7009,Arlington,5318,6,6.5,1,1,1,0,9/17/2014
+274.0,Lake Powell,7008,Arlington,3364,4,3,0,0,0,0,9/17/2014
+493.5,Lake Powell,7011,Arlington,3546,3,2,0,0,1,0,9/17/2014
+358.7,Lake Powell,7010,Arlington,4033,3,2,0,1,0,0,9/18/2014
+270.9,Lake Powell,7100,Arlington,3093,3,2,0,0,1,0,9/18/2014
+609.6,Lake Powell,7101,Arlington,4890,6,3.5,0,1,1,0,9/18/2014
+653.5,Lake Powell,7103,Arlington,4550,4,5.5,0,1,1,0,9/18/2014
+363.4,Lake Powell,7104,Arlington,4428,3,2,0,0,0,0,9/18/2014
+507.9,Lake Powell,7105,Arlington,3597,3,2,0,1,1,0,9/18/2014
+332.7,Lake Powell,7106,Arlington,3727,3,2,1,1,0,0,9/18/2014
+603.5,Lake Powell,7107,Arlington,4480,4,3.5,0,1,1,0,9/18/2014
+647.2,Lake Powell,7109,Arlington,4400,4,5.5,0,1,1,0,9/18/2014
+602.8,Lake Powell,7111,Arlington,4350,3,2,0,1,1,0,9/18/2014
+582.4,Lake Powell,7500,Arlington,4122,4,3,0,1,1,0,9/18/2014
+333.3,Lake Powell,7505,Arlington,4074,3,2,0,1,0,0,9/18/2014
+602.8,Lake Powell,7111,Arlington,5350,3,2,0,0,1,0,9/18/2014
+580.8,Lake Powell,3500,Arlington,4122,4,3,0,1,1,0,9/19/2014
+336.0,Lake Powell,3505,Arlington,4074,3,2,0,0,0,0,9/19/2014
+327.8,Lake Powell,3507,Arlington,3615,4,3,0,0,0,0,9/19/2014
+402.0,Lake Powell,3509,Arlington,4053,4,3,0,1,0,0,9/19/2014
+514.2,Lake Powell,3511,Arlington,4859,4,3,0,1,0,0,9/19/2014
+359.5,Lake Powell,3515,Arlington,4276,5,3.5,1,1,0,0,9/19/2014
+548.4,Lake Powell,3508,Arlington,4501,5,5,0,1,1,0,9/19/2014
+465.3,Lake Powell,3512,Arlington,3493,3,2,0,0,1,0,9/19/2014
+609.7,Lake Powell,3516,Arlington,4719,4,4,0,1,1,0,9/19/2014
+294.2,Lake Powell,3517,Arlington,3556,3,2,0,0,0,0,9/19/2014
+323.3,Lake Powell,3519,Arlington,3888,3,2,0,0,0,0,9/19/2014
+274.5,Lake Powell,3601,Arlington,3604,4,4,1,0,0,0,9/19/2014
+482.0,Lake Powell,3600,Arlington,3452,4,3,0,1,1,0,9/19/2014
+448.0,Lake Powell,3602,Arlington,3121,3,2,0,0,1,0,9/19/2014
+313.1,Lake Powell,3603,Arlington,4063,4,4,0,0,0,0,9/19/2014
+597.7,Lake Powell,3604,Arlington,4118,4,3.5,0,0,1,0,9/19/2014
+240.3,Lake Powell,3605,Arlington,2664,3,2,1,0,0,0,9/19/2014
+596.7,Lake Powell,3608,Arlington,4198,4,3,0,1,1,0,9/19/2014
+323.7,Lake Powell,3609,Arlington,4029,4,3,1,0,0,0,9/19/2014
+460.2,Lake Powell,3611,Arlington,4758,4,3,0,0,0,0,9/19/2014
+680.1,Lake Powell,3612,Arlington,4801,4,3,0,1,1,0,9/19/2014
+387.9,Lake Powell,3615,Arlington,3541,4,3,0,1,0,0,9/19/2014
+343.4,Lake Powell,3617,Arlington,3301,4,3,0,0,0,0,9/19/2014
+358.9,Lake Powell,3619,Arlington,3598,4,4.5,1,0,0,0,9/19/2014
+585.0,Lake Powell,3618,Arlington,4432,4,5.5,0,1,1,0,9/19/2014
+559.9,Lake Powell,3620,Arlington,3815,5,4,0,1,1,0,9/19/2014
+407.9,Lake Powell,3621,Arlington,4167,4,3,1,1,0,0,9/19/2014
+659.0,Lake Powell,3622,Arlington,3622,5,3,0,0,1,0,9/21/2014
+579.2,Lake Powell,3700,Arlington,4393,4,4,0,0,1,0,9/21/2014
+320.3,Lake Powell,3701,Arlington,3551,3,2,1,0,0,0,9/21/2014
+578.6,Lake Powell,3704,Arlington,4101,4,3,0,1,1,0,9/21/2014
+357.8,Lake Powell,3705,Arlington,3450,4,3,1,0,0,0,9/21/2014
+601.0,Lake Powell,3708,Arlington,3494,4,4,0,1,1,0,9/21/2014
+292.2,Lake Powell,3709,Arlington,3411,4,3,1,0,0,0,9/21/2014
+589.1,Lake Powell,3712,Arlington,4213,4,5,0,1,1,0,9/21/2014
+607.6,Lake Powell,3800,Arlington,4129,4,3,0,1,1,0,9/21/2014
+494.7,Lake Powell,3801,Arlington,4918,4,3,1,0,0,0,9/21/2014
+497.8,Lake Powell,3804,Arlington,3967,5,4,0,1,1,0,9/21/2014
+340.5,Lake Powell,3803,Arlington,3819,4,4,0,1,0,0,9/21/2014
+370.5,Lake Powell,3805,Arlington,4044,5,5,1,1,0,0,9/21/2014
+570.9,Lake Powell,3806,Arlington,4105,4,3,0,0,1,0,9/21/2014
+544.7,Lake Powell,3900,Arlington,4375,4,3,0,1,1,0,9/21/2014
+326.9,Lake Powell,3901,Arlington,3640,4,2,1,1,0,0,9/21/2014
+741.6,Lake Powell,3902,Arlington,5000,6,6,0,1,1,0,9/23/2014
+356.6,Lake Powell,3903,Arlington,3400,4,3.5,0,1,0,0,9/23/2014
+467.2,Lake Powell,3905,Arlington,5027,4,3,1,0,0,0,9/23/2014
+567.0,Lake Powell,3906,Arlington,5027,4,4,0,0,1,0,9/23/2014
+341.5,Lake Powell,4001,Arlington,3762,4,3,1,1,0,0,9/23/2014
+1212.2,Lake Powell,4002,Arlington,6476,4,5,0,1,1,0,9/23/2014
+273.5,Lake Powell,4003,Arlington,2959,4,3,0,1,0,0,9/23/2014
+615.5,Lake Powell,4004,Arlington,4693,4,4.5,0,1,1,0,9/23/2014
+341.1,Lake Powell,4005,Arlington,3572,4,3,1,0,0,0,9/23/2014
+563.0,Lake Powell,4006,Arlington,4320,3,2,0,1,1,0,9/23/2014
+386.0,Lake Powell,4007,Arlington,3621,5,4,1,1,0,0,9/23/2014
+497.8,Lake Powell,4008,Arlington,3658,4,3,0,1,1,0,9/23/2014
+430.1,Lake Powell,4009,Arlington,4052,4,3,0,1,0,0,9/23/2014
+624.7,Lake Powell,4010,Arlington,5328,5,3,1,0,1,0,9/23/2014
+1000.0,Surfside Ct,4102,Arlington,4614,5,5,0,1,1,0,9/23/2014
+925.3,Surfside Ct,4104,Arlington,4672,4,4,0,1,1,0,9/23/2014
+1041.9,Surfside Ct,4106,Arlington,5244,4,4,0,1,1,0,9/23/2014
+709.3,Surfside Ct,4108,Arlington,6084,5,4,0,1,1,0,9/23/2014
+1055.3,Surfside Ct,4110,Arlington,6577,6,5,0,1,1,0,9/23/2014
+915.6,Surfside Ct,4112,Arlington,5468,4,5,0,1,1,0,9/23/2014
+568.7,Surfside Ct,4114,Arlington,4488,4,5,0,1,1,0,9/23/2014
+617.6,Surfside Ct,4155,Arlington,4848,4,4.5,0,0,0,0,9/23/2014
+449.9,Balboa Ct,4100,Arlington,4505,5,4,0,1,0,1,9/23/2014
+401.6,Balboa Ct,4102,Arlington,3307,4,2,1,0,0,0,9/24/2014
+663.5,Balboa Ct,4103,Arlington,4994,5,4,0,1,0,0,9/24/2014
+393.1,Balboa Ct,4104,Arlington,3199,4,2,1,0,0,0,9/24/2014
+482.7,Balboa Ct,4105,Arlington,4560,4,4,0,0,0,0,9/24/2014
+407.8,Balboa Ct,4106,Arlington,3335,4,4,0,0,0,0,9/24/2014
+408.9,Balboa Ct,4108,Arlington,3528,4,2,0,0,0,0,9/24/2014
+379.9,Balboa Ct,4200,Arlington,3593,4,3,0,1,0,0,9/24/2014
+440.4,Balboa Ct,4202,Arlington,4045,3,4.5,0,0,0,0,9/24/2014
+567.4,Balboa Ct,4206,Arlington,4800,4,4.5,0,0,0,0,9/24/2014
+369.1,Balboa Ct,4207,Arlington,3286,4,3,0,1,0,0,9/24/2014
+389.5,Balboa Ct,4208,Arlington,3857,4,3,0,0,0,0,9/24/2014
+461.2,Balboa Ct,4210,Arlington,3764,4,3,0,0,0,0,9/24/2014
+606.3,Balboa Ct,4212,Arlington,4842,4,3,0,0,0,0,9/25/2014
+429.6,Balboa Ct,4214,Arlington,4397,4,4,0,0,0,0,9/25/2014
+444.2,Balboa Ct,4215,Arlington,3496,4,2,0,0,0,0,9/25/2014
+511.8,Balboa Ct,4219,Arlington,3789,3,2,0,0,0,0,9/25/2014
+561.8,Balboa Ct,4218,Arlington,4706,4,3,0,0,0,0,9/25/2014
+382.7,Balboa Ct,4220,Arlington,4725,4,3,0,0,0,0,9/25/2014
+539.0,Tidal Trace,7306,Arlington,4462,4,3,1,0,0,0,9/25/2014
+449.8,Tidal Trace,7305,Arlington,3749,4,4.5,1,0,0,0,9/25/2014
+393.6,Tidal Trace,7304,Arlington,3999,4,3,0,0,0,0,9/25/2014
+489.8,Tidal Trace,7303,Arlington,4529,3,4,0,0,0,0,9/25/2014
+580.1,Tidal Trace,7302,Arlington,4728,4,3,0,1,0,0,9/25/2014
+472.6,Tidal Trace,7301,Arlington,4804,4,3.5,1,0,0,0,9/25/2014
+422.4,Tidal Trace,7300,Arlington,2857,4,3.5,1,1,0,0,9/25/2014
+739.5,Grand Lake Ct,7200,Arlington,5029,4,3,0,0,0,0,9/26/2014
+433.1,Grand Lake Ct,7201,Arlington,4265,5,4,0,1,0,0,9/26/2014
+303.8,Lake Havasu Ct,7204,Arlington,3590,3,3,0,1,0,0,9/26/2014
+324.2,Lake Havasu Ct,7205,Arlington,3651,5,4.5,0,0,0,0,9/26/2014
+535.7,Lake Havasu Ct,7200,Arlington,3979,4,4,0,1,0,0,9/26/2014
+355.6,Lake Havasu Ct,7203,Arlington,4051,4,4.5,0,0,0,0,9/26/2014
+331.7,Lake Havasu Ct,7201,Arlington,3542,4,3,0,1,0,0,9/26/2014
+363.7,Squaro Lake Ct,2708,Arlington,3805,3,2,0,1,0,0,9/27/2014
+364.4,Squaro Lake Ct,7209,Arlington,4152,4,4,0,0,0,0,9/27/2014
+340.1,Squaro Lake Ct,7206,Arlington,3830,5,4.5,0,1,0,0,9/27/2014
+396.9,Squaro Lake Ct,7207,Arlington,4307,5,5,0,1,0,0,9/27/2014
+352.9,Squaro Lake Ct,7204,Arlington,3560,4,3,0,1,0,0,9/27/2014
+360.0,Squaro Lake Ct,7205,Arlington,4022,4,4.5,0,1,0,0,9/27/2014
+386.5,Squaro Lake Ct,7203,Arlington,3990,5,4.5,0,1,0,0,9/27/2014
+402.8,Squaro Lake Ct,7201,Arlington,3903,4,3,0,1,0,0,9/27/2014
+354.1,Squaro Lake Ct,7200,Arlington,4077,4,3.5,0,1,0,0,9/27/2014
+292.4,Lake Mead Blvd,7209,Arlington,3026,4,3,0,0,0,0,9/30/2014
+271.9,Lake Mead Blvd,7210,Arlington,2875,5,3,0,0,0,0,9/30/2014
+329.3,Lake Mead Blvd,7207,Arlington,3748,3,2,0,1,0,0,9/30/2014
+226.3,Lake Mead Blvd,7208,Arlington,2468,3,2,0,0,0,0,9/30/2014
+254.7,Lake Mead Blvd,7205,Arlington,2924,3,3,0,0,0,0,9/30/2014
+265.1,Lake Mead Blvd,7204,Arlington,3119,5,3,0,0,0,0,9/30/2014
+247.4,Lake Mead Blvd,7203,Arlington,3189,3,2,0,0,0,0,9/30/2014
+241.8,Lake Mead Blvd,7202,Arlington,3097,3,2,0,0,0,0,9/30/2014
+187.6,Lake Mead Blvd,7201,Arlington,2424,3,2,1,0,0,0,9/30/2014
+269.3,Lake Mead Blvd,7200,Arlington,2913,4,3,0,1,0,0,9/30/2014
+219.0,Lake Mead Blvd,7107,Arlington,2793,4,3,1,0,0,0,9/30/2014
+229.4,Lake Mead Blvd,7106,Arlington,2626,4,3,0,0,0,0,9/30/2014
+248.2,Lake Champlain Dr,3611,Arlington,3164,3,2,0,0,0,0,10/1/2014
+248.2,Lake Champlain Dr,3609,Arlington,3145,3,2,0,0,0,0,10/1/2014
+266.0,Lake Champlain Dr,3606,Arlington,3428,3,2,0,0,0,0,10/1/2014
+258.8,Lake Champlain Dr,3607,Arlington,3336,4,2.5,0,1,0,0,10/1/2014
+259.1,Lake Champlain Dr,3604,Arlington,3155,4,2,0,0,0,0,10/1/2014
+249.1,Lake Champlain Dr,3604,Arlington,3155,4,2,0,0,0,0,10/1/2014
+226.9,Lake Champlain Dr,3605,Arlington,2866,3,2,0,0,0,0,10/1/2014
+253.3,Lake Champlain Dr,3602,Arlington,3012,4,3,0,0,0,0,10/1/2014
+233.4,Lake Champlain Dr,3603,Arlington,2816,3,2,0,1,0,0,10/1/2014
+239.4,Lake Champlain Dr,3600,Arlington,2981,4,3,0,0,0,0,10/1/2014
+227.1,Lake Champlain Dr,3601,Arlington,3283,3,2,1,0,0,0,10/1/2014
+244.9,Lake Champlain Dr,3510,Arlington,3340,3,2,0,0,0,0,10/1/2014
+361.1,Lake Champlain Dr,3511,Arlington,3611,4,3.5,1,1,0,0,10/1/2014
+254.3,Lake Champlain Dr,3508,Arlington,2828,4,3,0,1,0,0,10/1/2014
+240.8,Lake Champlain Dr,3509,Arlington,2928,4,3,0,0,0,0,10/1/2014
+275.4,Lake Champlain Dr,3506,Arlington,3365,4,3.5,0,1,0,0,10/1/2014
+248.2,Lake Champlain Dr,3507,Arlington,2886,4,3,0,0,0,0,10/1/2014
+339.9,Lake Champlain Dr,3506,Arlington,3365,4,3.5,0,1,0,0,10/1/2014
+317.0,Lake Champlain Dr,3505,Arlington,3705,4,3.5,0,1,0,0,10/1/2014
+269.8,Lake Champlain Dr,3504,Arlington,3234,4,3,0,1,0,0,10/1/2014
+317.0,Lake Champlain Dr,3505,Arlington,3705,4,3,0,1,0,0,10/1/2014
+299.9,Lake Champlain Dr,3502,Arlington,3671,3,2,0,0,0,0,10/1/2014
+233.1,Lake Champlain Dr,3503,Arlington,2632,3,2,0,0,0,0,10/1/2014
+309.0,Lake Pointchatrain Dr,2635,Arlington,3603,4,2.5,1,0,0,0,10/3/2014
+218.5,Lake Pointchatrain Dr,3626,Arlington,2469,3,2,1,1,0,0,10/3/2014
+224.2,Lake Pointchatrain Dr,3623,Arlington,2899,3,2,0,0,0,0,10/3/2014
+204.5,Lake Pointchatrain Dr,2634,Arlington,2396,3,2,0,0,0,0,10/3/2014
+237.5,Lake Pointchatrain Dr,3622,Arlington,3009,4,4,0,0,0,0,10/3/2014
+225.8,Lake Pointchatrain Dr,2839,Arlington,3621,4,3,0,0,0,0,10/3/2014
+220.4,Lake Pointchatrain Dr,3620,Arlington,2701,3,2,0,0,0,0,10/3/2014
+224.6,Lake Pointchatrain Dr,3619,Arlington,2906,4,3,0,0,0,1,10/3/2014
+202.5,Lake Pointchatrain Dr,3618,Arlington,2585,4,2,0,0,0,0,10/3/2014
+144.1,Lake Pointchatrain Dr,3617,Arlington,2322,3,2,0,0,0,0,10/3/2014
+232.8,Lake Pointchatrain Dr,3616,Arlington,2940,3,2,0,0,0,0,10/3/2014
+206.1,Lake Pointchatrain Dr,3615,Arlington,2746,4,3,0,0,0,0,10/3/2014
+224.4,Lake Pointchatrain Dr,3614,Arlington,2356,4,3,0,0,0,0,10/3/2014
+198.6,Lake Pointchatrain Dr,3611,Arlington,2268,4,3,0,0,0,0,10/3/2014
+221.1,Lake Pointchatrain Dr,3610,Arlington,2532,4,3,0,0,0,0,10/3/2014
+206.7,Lake Pointchatrain Dr,3609,Arlington,2503,4,2,0,0,0,0,10/3/2014
+206.5,Lake Pointchatrain Dr,3608,Arlington,2609,3,2,0,0,0,0,10/3/2014
+196.3,Lake Pointchatrain Dr,3607,Arlington,2321,3,2,0,0,0,0,10/3/2014
+214.0,Lake Pointchatrain Dr,3606,Arlington,2736,4,2,0,0,0,0,10/3/2014
+239.5,Lake Pointchatrain Dr,3604,Arlington,3611,3,3,0,0,0,0,10/3/2014
+220.6,Lake Pointchatrain Dr,3603,Arlington,2650,3,2,0,0,0,0,10/3/2014
+216.1,Lake Pointchatrain Dr,3602,Arlington,2548,4,3,0,0,0,0,10/3/2014
+181.9,Lake Pointchatrain Dr,3601,Arlington,2563,4,3,0,0,0,1,10/3/2014
+237.9,Lake Pointchatrain Dr,2601,Arlington,2573,4,3,1,0,0,0,10/3/2014
+221.3,Lake Pointchatrain Dr,3600,Arlington,2727,3,2,1,0,0,0,10/3/2014
+342.8,Lake Pointchatrain Dr,3516,Arlington,3277,4,4,1,1,0,0,10/3/2014
+217.9,Lake Pointchatrain Dr,3517,Arlington,2629,3,2,0,0,0,0,10/3/2014
+249.2,Lake Pointchatrain Dr,3512,Arlington,3058,3,2,0,0,0,0,10/3/2014
+474.2,Lake Pointchatrain Dr,3515,Arlington,4808,5,5,0,0,0,0,10/3/2014
+289.6,Lake Pointchatrain Dr,3508,Arlington,289.6,4,3,0,0,0,0,10/3/2014
+231.9,Lake Pointchatrain Dr,3509,Arlington,2741,4,3,0,0,0,0,10/3/2014
+289.6,Lake Pointchatrain Dr,3508,Arlington,3256,4,3,0,0,0,0,10/3/2014
+255.6,Lake Pointchatrain Dr,3507,Arlington,2665,3,2,0,0,0,0,10/3/2014
+246.6,Lake Pointchatrain Dr,2505,Arlington,3082,4,3,0,0,0,0,10/3/2014
+318.3,Lake Pointchatrain Dr,3502,Arlington,3750,4,4,0,0,0,0,10/3/2014
+276.3,Lake Pointchatrain Dr,3503,Arlington,3012,4,2,0,1,0,0,10/3/2014
+225.3,Falcon Lake Dr,4018,Arlington,3800,4,3,1,1,0,0,10/9/2014
+246.4,Falcon Lake Dr,4016,Arlington,2974,3,2,0,1,0,0,10/9/2014
+227.8,Falcon Lake Dr,4015,Arlington,2716,3,2,1,0,0,0,10/9/2014
+241.1,Falcon Lake Dr,4014,Arlington,2558,4,3,0,1,0,0,10/9/2014
+233.1,Falcon Lake Dr,4012,Arlington,2566,4,3,0,1,0,0,10/9/2014
+235.0,Falcon Lake Dr,4011,Arlington,2952,4,3,0,0,0,0,10/9/2014
+222.8,Falcon Lake Dr,4010,Arlington,2541,3,2,0,0,0,0,10/9/2014
+250.8,Falcon Lake Dr,4009,Arlington,3206,3,2,0,0,0,0,10/9/2014
+229.4,Falcon Lake Dr,4008,Arlington,2706,4,3,0,0,0,0,10/9/2014
+234.2,Falcon Lake Dr,4007,Arlington,2949,3,2,0,0,0,0,10/9/2014
+218.5,Falcon Lake Dr,4006,Arlington,2507,4,2,0,0,0,0,10/9/2014
+218.0,Falcon Lake Dr,4005,Arlington,2698,3,2,0,0,0,0,10/9/2014
+225.0,Falcon Lake Dr,4004,Arlington,2569,3,2,0,1,0,0,10/9/2014
+224.2,Falcon Lake Dr,4002,Arlington,2242,3,2,0,0,0,0,10/9/2014
+223.1,Falcon Lake Dr,4000,Arlington,2690,3,2.5,0,0,0,0,10/9/2014
+252.0,Falcon Lake Dr,3908,Arlington,3184,4,3,0,1,0,0,10/10/2014
+223.4,Falcon Lake Dr,3904,Arlington,2623,4,2.5,0,1,0,0,10/10/2014
+240.1,Falcon Lake Dr,3900,Arlington,3106,4,3,0,0,0,0,10/10/2014
+225.7,Falcon Lake Dr,2710,Arlington,2728,4,3,1,1,0,,10/10/2014
+246.9,Falcon Lake Dr,3707,Arlington,3211,4,3,0,1,0,0,10/10/2014
+221.4,Falcon Lake Dr,3708,Arlington,2726,3,2,0,0,0,0,10/10/2014
+221.0,Falcon Lake Dr,3705,Arlington,2694,3,2,0,0,0,0,10/10/2014
+230.5,Falcon Lake Dr,3706,Arlington,2992,4,3,0,0,0,0,10/10/2014
+221.0,Falcon Lake Dr,3705,Arlington,2694,3,2,0,0,0,0,10/10/2014
+230.5,Falcon Lake Dr,3706,Arlington,2992,4,3,0,0,0,0,10/10/2014
+250.8,Falcon Lake Dr,3701,Arlington,2943,3,2,1,0,0,0,10/10/2014
+268.9,Falcon Lake Dr,3702,Arlington,2900,3,2,0,0,0,0,10/10/2014
+209.9,Big Bear Lake Ct,3601,Arlington,3601,4,2.5,0,0,0,0,10/10/2014
+204.3,Big Bear Lake Ct,3600,Arlington,2424,3,2,0,0,0,0,10/10/2014
+176.0,Big Bear Lake Ct,3603,Arlington,2394,3,2,0,0,0,0,10/10/2014
+191.3,Big Bear Lake Ct,3605,Arlington,2171,3,2,0,0,0,0,10/10/2014
+228.1,Big Bear Lake Ct,3606,Arlington,2769,3,2,0,0,0,0,10/10/2014
+201.9,Big Bear Lake Ct,3607,Arlington,2380,3,2,0,0,0,0,10/10/2014
+220.0,Big Bear Lake Ct,3609,Arlington,3607,3,2,0,0,0,0,10/10/2014
+232.2,Big Bear Lake Dr,3701,Arlington,2680,3,2,0,0,0,0,10/10/2014
+199.6,Big Bear Lake Dr,3703,Arlington,2339,4,2,0,0,0,0,10/10/2014
+210.1,Big Bear Lake Dr,3704,Arlington,2422,3,3,0,0,0,0,10/10/2014
+213.2,Big Bear Lake Dr,3705,Arlington,2682,4,3,0,1,0,0,10/10/2014
+219.0,Big Bear Lake Dr,3706,Arlington,2650,4,3,0,0,0,0,10/10/2014
+213.7,Big Bear Lake Dr,3707,Arlington,2839,4,2,0,0,0,0,10/10/2014
+218.5,Big Bear Lake Dr,3706,Arlington,2650,4,3,0,0,0,0,10/10/2014
+232.2,Big Bear Lake Dr,3708,Arlington,2832,4,3,1,1,0,0,10/10/2014
+212.6,Big Bear Lake Dr,3709,Arlington,2356,4,3,1,0,0,0,10/10/2014
+279.9,Big Bear Lake Dr,3803,Arlington,2828,4,2.5,0,1,0,0,10/10/2014
+198.9,Big Bear Lake Dr,3805,Arlington,2321,3,2,0,1,0,0,10/10/2014
+227.8,Big Bear Lake Dr,3901,Arlington,3634,4,2,0,0,0,0,10/10/2014
+207.1,Big Bear Lake Dr,3903,Arlington,2410,3,2,0,0,0,0,10/10/2014
+196.6,Big Bear Lake Dr,3907,Arlington,2244,3,3,0,0,0,0,10/10/2014
+210.3,Big Bear Lake Dr,3905,Arlington,2343,3,2,0,1,0,0,10/10/2014
+209.0,Big Bear Lake Dr,4001,Arlington,2577,3,2,0,0,0,0,10/10/2014
+201.3,Big Bear Lake Dr,4003,Arlington,2577,4,3,0,0,0,0,10/10/2014
+237.4,Big Bear Lake Dr,4005,Arlington,2766,3,2,0,1,0,0,10/10/2014
+229.8,Big Bear Lake Dr,4007,Arlington,2664,3,3,0,1,0,0,10/10/2014
+219.7,Big Bear Lake Dr,7001,Arlington,2833,4,2,0,0,0,0,10/10/2014
+212.0,Big Bear Lake Dr,7000,Arlington,2402,3,2,0,1,0,0,10/10/2014
+274.2,Big Bear Lake Dr,7002,Arlington,2926,4,2,0,0,0,0,10/10/2014
+225.1,Big Bear Lake Dr,7004,Arlington,2788,4,3,0,0,0,0,10/10/2014
+216.8,Big Bear Lake Dr,7005,Arlington,2510,4,2,0,1,0,0,10/10/14
+264.6,Big Bear Lake Dr,7006,Arlington,3386,4,4,0,0,0,0,10/10/14
+215.3,Big Bear Lake Dr,7009,Arlington,2667,4,3,0,1,0,0,10/10/14
+225.4,Big Bear Lake Dr,7008,Arlington,2616,4,3,0,0,0,0,10/10/14
+225.8,Big Bear Lake Dr,7101,Arlington,2872,3,3,0,0,0,0,10/10/14
+217.7,Big Bear Lake Dr,7100,Arlington,2572,4,2,0,0,0,0,10/10/14
+225.9,Big Bear Lake Dr,7101,Arlington,2872,3,2,0,0,0,0,10/10/14
+221.4,Big Bear Lake Dr,7104,Arlington,2548,4,3,0,0,0,0,10/10/14
+236.6,Big Bear Lake Dr,7105,Arlington,2817,4,3,0,1,0,0,10/10/14
+205.1,Big Bear Lake Dr,7108,Arlington,2419,3,2.5,0,0,0,0,10/10/14
+212.4,Big Bear Lake Dr,7109,Arlington,2640,3,2,0,1,0,0,10/10/14
+225.8,Big Bear Lake Dr,7112,Arlington,2686,3,2,0,0,0,0,10/10/14
+258.8,Big Bear Lake Dr,7111,Arlington,2945,4,3,0,0,0,0,10/10/14
+244.9,Big Bear Lake Dr,7114,Arlington,2846,4,3.5,0,0,0,0,10/10/14
+213.2,Big Bear Lake Dr,7201,Arlington,2632,4,3,0,0,0,0,10/10/14
+211.7,Big Bear Lake Dr,7200,Arlington,2598,3,2,0,0,0,0,10/10/14
+230.0,Big Bear Lake Dr,7203,Arlington,2800,3,2,0,1,0,0,10/10/14
+188.9,Big Bear Lake Dr,7205,Arlington,2599,3,2,0,0,0,0,10/10/14
+223.6,Big Bear Lake Dr,7205,Arlington,2731,3,2,0,0,0,0,10/10/14
+210.5,Big Bear Lake Dr,7208,Arlington,2499,4,2,0,0,0,0,10/10/14
+231.8,Big Bear Lake Dr,7212,Arlington,2832,3,2,1,0,0,0,10/10/14
+289.9,Lake Louise Dr,7105,Arlington,3111,4,3,1,0,0,0,10/10/14
+213.9,Lake Louise Dr,7106,Arlington,2713,3,2,0,0,0,0,10/10/14
+251.2,Lake Louise Dr,7103,Arlington,3152,4,3,0,0,0,0,10/10/14
+225.6,Lake Louise Dr,7104,Arlington,2877,3,2,0,0,0,0,10/10/14
+253.9,Lake Louise Dr,7101,Arlington,3200,4,1,0,0,0,0,10/10/14
+214.5,Lake Louise Dr,7100,Arlington,2566,3,2.5,1,0,0,0,10/10/14
+234.2,Lake Louise Dr,7010,Arlington,2752,3,2,1,0,0,0,10/10/14
+212.5,Lake Louise Dr,7009,Arlington,2510,3,2,0,0,0,0,10/10/14
+247.0,Lake Louise Dr,7008,Arlington,2578,3,2,0,1,0,0,10/10/14
+248.5,Lake Louise Dr,7005,Arlington,3067,4,2,0,0,0,0,10/10/14
+242.1,Lake Louise Dr,7006,Arlington,2921,4,2.5,0,1,0,0,10/10/14
+233.2,Lake Louise Dr,7003,Arlington,2932,3,2,0,0,0,0,10/10/14
+228.4,Lake Louise Dr,7002,Arlington,2782,4,2,0,0,0,0,10/10/14
+238.8,Lake Louise Dr,7001,Arlington,2897,3,2,1,1,0,0,10/10/14
+225.7,Lake Louise Dr,7000,Arlington,2616,3,2,1,1,0,0,10/10/14
+245.9,Cedar Creek Ct,4004,Arlington,3102,3,2,0,0,0,0,10/10/14
+300.6,Cedar Creek Ct,4008,Arlington,3620,3,2,0,0,0,0,10/10/14
+243.4,Cedar Creek Ct,4005,Arlington,2434,4,2.5,0,1,0,0,10/10/14
+231.1,Crater Lake Dr,7012,Arlington,3017,3,2,1,0,0,0,10/10/14
+214.2,Crater Lake Dr,7009,Arlington,2570,4,2,0,0,0,0,10/10/14
+245.3,Crater Lake Dr,7008,Arlington,3128,3,2,0,0,0,0,10/10/14
+230.2,Crater Lake Dr,7007,Arlington,2812,4,3,0,0,0,0,10/10/14
+213.0,Crater Lake Dr,7006,Arlington,2437,3,2,0,0,0,0,10/10/14
+239.8,Crater Lake Dr,7005,Arlington,2432,3,2,0,0,0,0,10/10/14
+233.0,Crater Lake Dr,7004,Arlington,2888,4,3,0,0,0,0,10/10/14
+210.4,Crater Lake Dr,7003,Arlington,2515,4,3,0,0,0,0,10/10/14
+221.9,Crater Lake Dr,7002,Arlington,2712,3,2,0,0,0,0,10/10/14
+242.4,Crater Lake Dr,7000,Arlington,2937,4,3,1,1,0,0,10/10/14
+234.4,Crater Lake Dr,7001,Arlington,2962,3,3,1,0,0,0,10/10/14

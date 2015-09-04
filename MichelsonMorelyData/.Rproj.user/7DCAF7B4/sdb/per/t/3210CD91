@@ -1,0 +1,16 @@
+{
+    "contents" : "Price\n233\n210\n184\n207\n253\n230\n200\n226\n219\n226\n219\n229\n256\n226\n286\n212\n224\n236\n195\n203\n194\n208\n190\n232\n215\n194\n185\n171\n191\n227\n244\n207\n219\n233\n234\n234\n243\n239\n227\n211\n212\n210\n209\n222\n235\n208\n265\n207\n230\n223\n231\n",
+    "created" : 1410236251361.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "50267285",
+    "id" : "3210CD91",
+    "lastKnownWriteTime" : 1410236234,
+    "path" : "~/Data/Big Bear Lake Drive Zillow Appraise Home Values/Big Bear Lake.csv",
+    "project_path" : null,
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

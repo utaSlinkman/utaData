@@ -1,0 +1,17 @@
+{
+    "contents" : "# Hubble.r\n\nHubble <- read.csv(\"Hubble.csv\", header=TRUE )\n\nrequire( ggplot2  )\n\nggplot( Hubble, aes( x=Distance, y=Velocity  )) +\n  geom_point( aes( color=Astronomer  ) ) +\n  geom_smooth( method=lm ) +\n  geom_smooth( method=loess, color=\"red\" )\n\nstatFit <- lm( Velocity ~ Distance, data=Hubble  )\nsummary( statFit )\n\nbigBang <- lm( Velocity ~ Distance -1, data=Hubble  )\nsummary( bigBang )\n\nH0 <- coef( bigBang )\nageUniverse = 1 / H0 * ( 3.08 * 10^19 ) / ( 3.15 * 10^7 )\n\nestimateAge <- function( Hubble, indices  ){\n  bootSample <- Hubble[indices,]\n  BigBang <- lm( Velocity ~ Distance -1, data=Hubble )\n  H <- coef( BigBang  )\n  Age <-  1 / H0 * ( 3.08 * 10^19 ) / ( 3.15 * 10^7 )\n}\n\nbootOut\n\nrequire( boot )\nbootOut <- boot( Hubble. estimateAge  )\n\n\n\n",
+    "created" : 1431986949126.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1056326264",
+    "id" : "FDA8133B",
+    "lastKnownWriteTime" : 1431987467,
+    "path" : "~/Data/Hubble/Hubble.r",
+    "project_path" : "Hubble.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

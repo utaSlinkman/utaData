@@ -1,0 +1,17 @@
+{
+    "contents" : "# Super Volcano.r\n\nn <- floor( runif( 1, 15, 25 ) )\nmu <- runif( 1, 0.600, 0.900  )\n\nInterval <- -mu * log( runif( n, 0 ,1 ))\nSuperVolcano <- data.frame( Interval )\nsave(SuperVolcano, file=\"SuperVolcano.rda\")\nrm( list=ls() )\n",
+    "created" : 1411447474862.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2284753858",
+    "id" : "E8EEC2E",
+    "lastKnownWriteTime" : 1411448410,
+    "path" : "~/Data/Yellowstone Hot Spot/SuperVolcano.r",
+    "project_path" : "SuperVolcano.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

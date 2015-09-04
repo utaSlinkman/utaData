@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Cruise ship rankings",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

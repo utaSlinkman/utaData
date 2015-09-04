@@ -1,0 +1,16 @@
+{
+    "contents" : "# ArlingtonGasolinePrices.r\n\nrequire(ggplot2)\n\nload(\"ArlingtonGasolinePrices.rda\")\ndf <- ArlingtonGasolinePrices\nrm( ArlingtonGasolinePrices )\n\nggplot( df, aes( x=Price )) +\n  geom_histogram( aes(y=..density.. ), binwidth=0.02, colour=\"black\", fill=\"white\" ) +\n  geom_density(  ) +\n  xlab( \"Price ($)\" ) +\n  ylab( \"Density\" ) +\n  ggtitle( \"Arlington Regular Gasoline Prices on 2014/09/09\" )\n\nwith( df, mean( Price ))\nwith( df, sd( Price ))\nwith( df, summary( Price ))\n",
+    "created" : 1410280428706.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3781953790",
+    "id" : "4405C528",
+    "lastKnownWriteTime" : 1410285381,
+    "path" : "~/Data/Arlington Gasoline Prices/ArlingtonGasolinePrices.r",
+    "project_path" : "ArlingtonGasolinePrices.r",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

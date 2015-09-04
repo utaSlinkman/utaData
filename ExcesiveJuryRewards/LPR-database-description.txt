@@ -1,0 +1,9 @@
+In Geressy, Rotolo and Jackson v. Digital Equipment (980 F. Supp. 640 (E.D.N.Y. 1997)), Judge Weinstein presented an innovative method for determining remittiturs. 
+
+A remittitur is a ruling from a judge, in response to the motion of a defendant found liable, such that the plaintiff can choose between reducing the amount granted by a the jury for indemnification or a new trial.
+
+This ruling is valid when the amount granted by the jury is unreasonable. 
+
+In order to define what is unreasonable compensation, Judge Weinstein collected a pool of 86 cases in which there were awards for pain and suffering, 
+
+Next, he decided if the damage dealt to each of the 3 plaintiffs was comparable to that on each case in the pool. This database is composed by Judge Weinstein's decision on comparability and information about the 86 cases in the pool.

@@ -1,0 +1,17 @@
+{
+    "contents" : "# ByStreet.r\n\nrequire( ggplot  )\n\nELE <- read.csv( \"Enchanted Lakes Estates.csv\", \n                 header=TRUE )\nsave( \"ELE\", file=\"ELE.rda\" )\n\nggplot( ELE, aes( x=street, y=price )) +\n  geom_boxplot() + coord_flip()\n\n",
+    "created" : 1412957186984.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3174231507",
+    "id" : "FA54B9D6",
+    "lastKnownWriteTime" : 1412957631,
+    "path" : "~/Data/Enchanted Lakes Estates/BYStreet.r",
+    "project_path" : "BYStreet.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

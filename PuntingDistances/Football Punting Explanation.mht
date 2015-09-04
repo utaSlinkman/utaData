@@ -1,0 +1,93 @@
+From: "Saved by Windows Internet Explorer 8"
+Subject: Datasets for Statistical Analysis
+Date: Mon, 15 Jun 2009 11:19:42 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.sci.usq.edu.au/staff/dunn/Datasets/applications/popular/punting.html
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6002.18005
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML><HEAD><TITLE>Datasets for Statistical Analysis</TITLE>
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18783">
+<META name=3DFORMATTER content=3D"Arachnophilia 4.0"></HEAD>
+<BODY aLink=3D#ff0000 link=3D#0000ff bgColor=3D#ffffff text=3D#000000 =
+vLink=3D#800080>
+<TABLE border=3D1 cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD width=3D"33%" align=3Dleft><A=20
+      =
+href=3D"http://www.sci.usq.edu.au/staff/dunn/Datasets/index.html">Dataset=
+s=20
+      for Statistical Analysis Home</A></TD>
+    <TD width=3D"33%" align=3Dmiddle><A=20
+      =
+href=3D"http://www.sci.usq.edu.au/staff/dunn/Datasets/techniques.html">Te=
+chniques=20
+      Index</A></TD>
+    <TD align=3Dright><A=20
+      =
+href=3D"http://www.sci.usq.edu.au/staff/dunn/Datasets/applications.html">=
+Application=20
+      Index</A></TD></TR></TBODY></TABLE>
+<H1>Datasets for Statistical Analysis</H1><A=20
+href=3D"http://www.sci.usq.edu.au/staff/dunn/Datasets/index.html">Back =
+to Datasets=20
+home</A>=20
+<HR>
+
+<H2>Football punting</H2><A=20
+href=3D"http://www.sci.usq.edu.au/staff/dunn/Datasets/applications/popula=
+r/punting.dat">Access=20
+data file</A>=20
+<HR>
+
+<DL>
+  <DT><B>Keywords:</B>=20
+  <DD>football; strength=20
+  <DT><B>Categories:</B>=20
+  <DD>sport; <BR>regression=20
+  <DT><B>Description:</B>=20
+  <DD>The data give the right- and left-leg strengths of 13 American =
+footballers=20
+  (measured using a weight lifting test), plus the distance they punt a =
+football=20
+  (with their right leg).=20
+  <P>There are 13 observations on three variables. </P>
+  <DT><B>Variables:</B>=20
+  <DD>
+  <TABLE cellSpacing=3D0 cellPadding=3D3>
+    <TBODY>
+    <TR vAlign=3Dtop>
+      <TD align=3Dright><TT>Left</TT></TD>
+      <TD>Left-legstrength (in lb)</TD></TR>
+    <TR vAlign=3Dtop>
+      <TD align=3Dright><TT>Right</TT></TD>
+      <TD>Right-leg strength (in lb)</TD></TR>
+    <TR vAlign=3Dtop>
+      <TD align=3Dright><TT>Punt</TT></TD>
+      <TD>Punting distance (in feet)</TD></TR></TBODY></TABLE>
+  <DT><B>Data Quality:</B>=20
+  <DD>There are no missing values.=20
+  <DT><B>Source:</B>=20
+  <DD>Myers, Raymond H. (1990). <EM>Classical and modern regression with =
+
+  applications</EM>, second edition. Duxbury; page 75.=20
+  <DT><B>Notes:</B>=20
+  <DD>These appear to come from a larger data set, available from (for =
+example)=20
+  <A href=3D"http://www.statsci.org/data/index.html" target=3D_blank>Oz =
+DASL</A>=20
+  <P>The two leg strengths are both strongly related to punting =
+distance, but=20
+  when <EM>both</EM> are fitted, they both show marginal statistical=20
+  signficance. The data can be used to demonstrate added variable plots, =
+
+  variance inflation factors, etc. </P>
+  <DT><B>References:</B>=20
+  <DD></DD></DL></BODY></HTML>

@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Enchanted Lakes Estates",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

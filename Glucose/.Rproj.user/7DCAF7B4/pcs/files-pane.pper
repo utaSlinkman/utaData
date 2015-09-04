@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Glucose",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

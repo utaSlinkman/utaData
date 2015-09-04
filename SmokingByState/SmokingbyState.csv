@@ -1,0 +1,53 @@
+State,adultSmokingRate,youthSmokingRate,cigaretteTax
+Alabama,22.5,20.8,0.425
+Alaska,20.6,15.7,2.00
+Arizona,16.1,19.7,2.00,
+Arkansas,21.5,20.3,1.15
+California,12.9,0.87
+Colorado,17.1,17.7,0.84
+Connecticut,15.4,15.3,
+Delaware,18.3,19.0,3.00
+DC,15.3,10.6,1.60,2.50
+Florida,17.1,13.1,1.339
+Georgia,17.7,16.9,0.37
+Hawaii,15.4,11.3,3.00
+Idaho,16.3,14.5,0.57
+Illinois,18.6,18.1,0.98
+Indiana,23.1,23.5,0.995
+Iowa,17.2,18.9,1.36
+Kansas,17.8,16.9,0.79
+Kentucky,25.6,26.1,0.60
+Louisiana,22.1,19.4,0.36,
+Maine,17.3,18.1,2.00
+Maryland,15.2,11.9,2.00
+Massachusetts,15.0,16.0,2.51
+Michigan,19.6,18.8,2.00
+Minnesota,16.8,19.11.56
+Mississippi,23.3,19.6,0.68
+Missouri,23.1,18.9,0.17
+Montana,16.8,18.7,1.70
+Nebraska,16.7,22.3,0.64
+Nevada,22.0,17.0,0.80
+N. Hampshire,15.8,20.8,1.78
+New Jersey,15.8,17.0,2.70
+New Mexico, 17.9,24.0,1.66
+New York,18.0,14.8,4.35
+North Carolina,20.3,16.7,0.45
+North Dakota,18.6,22.4,0.44
+Ohio,20.3,19.4,1.25
+Oklahoma,25.5,20.2,1.25
+Oregon,17.9,14.9,1.03
+Pennsylvania,20.2,18.4,1.18
+Rhode Island,15.1,13.3,3.46
+South Carolina,20.4,20.5,0.57
+South Dakota,17.5,23.2,1.53,
+Tennessee,22.0,20.9
+Texas,17.9,21.2,0.62
+Utah,9.8,8.5,1.70
+Vermont,17.1,17.6,2.24
+Virginia,19.0,15.5,0.30
+Washington,14.9,14.4,3.025
+West Virginia,25.6,21.8,0.55
+Wisconsin,18.8,16.9,2.52
+Wyoming,19.9,22.1,0.60
+

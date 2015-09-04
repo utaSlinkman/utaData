@@ -1,0 +1,17 @@
+{
+    "contents" : "source(\"~/utaR/bootMean.r\")\n\nwith( TexasPoweball20132014x, bootMean(PBSalesM) )\n\n",
+    "created" : 1411224305909.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "483333022",
+    "id" : "A315F2D2",
+    "lastKnownWriteTime" : 3327104,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

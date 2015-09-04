@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1411415452882.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5DA6ADAD",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "Tornados",
+        "contentUrl" : "content?title=Tornados&file=7f673eb097a642df848a12d98f660154.htm",
+        "displayedObservations" : 32,
+        "displayedVariables" : 4,
+        "totalObservations" : 32,
+        "variables" : 4
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

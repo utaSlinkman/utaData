@@ -1,0 +1,232 @@
+/* NCDC's default Style Sheet for all web pages.  To submit a new, general
+   "section", please forward your code to Ken.Schmidt@noaa.gov for review.
+   Remember, a specific section will ALWAYS override a generic section.
+   Using style="" code in your html will always override any part of this
+   ncdc.css file.
+*/
+
+/* Generic elements */
+body {
+	font: 8pt/16pt georgia, serif;
+	/* color: #555753; */
+	color: black;
+	background: #fff url(/images/noaabk.gif) no-repeat fixed 100% 100%;
+	/* background: #fff url(http://local/images/noaabk.gif) ; */
+	margin: 24px;
+	}
+	
+p {
+	font: 12pt/16pt georgia, serif;
+	margin-top: 0px;
+	text-align: justify;
+	}
+	
+b  {
+	font: bold 12pt/16pt georgia, sans-serif;
+	margin-top: 0px;
+	text-align: justify;
+	}
+	
+h1 {
+	font: normal 22pt/22pt georgia, serif;
+	letter-spacing: 1px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	color: black;
+	line-height: 30px;
+	}
+h2 {
+	font: normal 16pt "MS Arial", sans-serif;
+	letter-spacing: 1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #7D775C;
+	}
+h3 {
+	font: bold normal 14pt "MS Arial", sans-serif;
+	letter-spacing: 1px;
+	margin: 2px;
+	color: #7D775C;
+	}
+h4 {
+	font: normal 14pt "MS Arial", sans-serif;
+	font-stretch: narrower;
+	letter-spacing: 1px;
+	margin: 2px;
+	color: black;
+	}
+h5 {
+	color: black;
+	font: italic bold 12pt/14pt georgia, serif;
+	text-align:justify;
+	margin: 2px;
+	}
+
+h6 {
+	font: 12pt/14pt Georgia;
+	margin-top: 0px;
+	text-align: left;
+	line-spacing: 0px;
+	}
+
+img {
+    border: 0px;
+    }
+
+a:link {
+   font-weight: normal;
+	text-decoration: underline;
+	/* color: #7D775C; */
+   color: blue;
+	}
+a:visited {
+   font-weight: normal;
+	text-decoration: underline;
+	/* color: #8D775C; */
+	color: navy;
+	}
+a:hover {
+   font-weight: normal;
+	text-decoration: underline;
+	color: #E2A300;
+	}
+
+a:active {
+   font-weight: normal;
+	text-decoration: underline;
+	color: #E2A300;
+	}
+	
+li {
+	font: 12pt/14pt Georgia, serif;
+	margin-top: 0px;
+	text-align: left;
+	}
+	
+strong {
+	font: 12pt/14pt Georgia, serif;
+	margin-top: 0px;
+	text-align: left;
+	}
+	
+i {
+   font: italic 12pt/14pt Georgia, serif;
+	text-align:justify;
+	margin: 2px;
+	}
+	
+	
+
+/* Specific page sections:
+   From the homepage to the 2nd level, pages wishing to maintain the look and
+   feel of the homepage should employ a <span id=""> in their html code to
+   represent the top, navigation (side), and main sections.
+
+   The #topbar, #sidebar, and #main styles are listed here.  Again, remember
+   that a specific section will ALWAYS override a generic section.
+   Using style="" code in your html will always override any part of this
+   ncdc.css file.
+*/
+
+#topbar a:link {
+	font-family: "MS Arial", sans-serif; 
+   font-weight: normal;
+	text-decoration: underline;
+	/* color: #7D775C; */
+   color: blue;
+	}
+#topbar a:visited {
+	font-family: "MS Arial", sans-serif; 
+	text-decoration: underline;
+	/* color: #8D775C; */
+	color: navy;
+	}
+#topbar a:hover, a:active {
+	font-family: "MS Arial", sans-serif; 
+	text-decoration: underline;
+	color: red;
+	}
+
+#sidebar li {
+	font: 8pt/10pt "MS Arial", sans-serif;
+	margin-top: 0px;
+	text-align: left;
+	list-style:none;
+	}
+
+#sidebar a:link {
+	font: normal 8pt/10pt "MS Arial", sans-serif;
+	margin-top: 0px;
+	text-align: left;
+	text-decoration: underline;
+   color: blue;
+	}
+
+#sidebar a:visited {
+	text-decoration: underline;
+	color: navy;
+	}
+
+#sidebar a:hover, a:active {
+	text-decoration: underline;
+	color: #E2A300;
+	}
+
+#sidebar p {
+	font: 10pt/10pt georgia, serif;
+	margin-top: 0px;
+	text-align: justify;
+	line-height: 14px;
+	margin-left:6px;
+	margin-bottom:0px;
+	color:#996600;
+	}
+
+#sidebar td {
+   width: 125px;
+   }
+
+#main table {
+   width: 520px;
+   }
+
+#main p {
+	font: 12pt/14pt georgia, serif;
+	color: black;
+	margin-top: 0px;
+	text-align: justify;
+
+	}
+
+#main a:link {
+   font-weight: normal;
+	text-decoration: underline;
+	/* color: #7D775C; */
+   color: blue;
+	}
+#main a:visited {
+	text-decoration: underline;
+	/* color: #8D775C; */
+	color: navy;
+	}
+#main a:hover, a:active {
+	text-decoration: underline;
+	color: #E2A300;
+	}
+
+#details p {
+	font: 12pt/14pt georgia, serif;
+	color: red;
+	margin-top: 0px;
+	text-align: justify;
+	}
+
+#details h2 {
+	font: normal 20pt "MS Arial", sans-serif;
+	font-stretch: narrower;
+	letter-spacing: 1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: navy;
+	}
+

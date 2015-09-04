@@ -1,0 +1,835 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>NCDC: Global Surface Temperature Anomalies</title>
+
+
+
+
+<meta name="DESCRIPTION" content="Global Surface Temperature Anomalies">
+<meta name="AUTHOR" content="CMB and Ahira Sanchez-Lugo">
+<meta name="KEYWORDS" content="Global Surace Temperature Anomalies">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css" href="anomalies_files/ncdc.css">
+
+<style type="text/css"> 
+ <!--
+  a:link, a:visited, a:active, a:hover { text-decoration: none; }
+  h2, h3 { color: black; }
+  td { font: 12pt/16pt georgia, serif; }
+  -->
+</style></head><body bgcolor="#ffffff" text="#000022">
+<span id="topbar">
+<!-- begin header section -->
+
+<map name="ncdcmggleft"><area shape="rect" coords="52,0,440,50" href="http://www.nesdis.noaa.gov/" title="NOAA Satellite and Information Services: National Environmental Satellite, Data, and Information Service" alt="National Environmental Satellite, Data, and Information Service Home Page."><area shape="rect" coords="0,0,50,50" href="http://www.noaa.gov/" target="_top" title="NOAA Logo" alt="National Oceanic and Atmospheric Administration Home Page.">
+
+</map>
+
+<map name="ncdcmggright"><area shape="rect" coords="20,0,135,50" href="http://www.ncdc.noaa.gov/oa/ncdc.html" title="National Climatic Data Center" alt="National Climatic Data Center Home Page."><area shape="rect" coords="0,0,185,50" href="http://www.commerce.gov/" target="_top" title="DOC Logo" alt="Department of Commerce Home Page.">
+</map>
+
+
+<table class="top" summary="layout" align="center" width="650">
+ <tbody><tr class="top">
+  <td class="top">
+         <img class="top" src="anomalies_files/nesdisbannerleft.gif" alt="NOAA Logo, National  Environmental Satellite, Data, and Information Service." longdesc="NOAA Logo, National  Environmental Satellite, Data, and Information Service." usemap="#ncdcmggleft" ismap="ismap" align="left" border="0" height="50" width="440">
+               </td>
+  <td class="top">
+  <img class="top" src="anomalies_files/ncdcright.gif" alt="National Climatic Data Center, U.S. Department of Commerce" usemap="#ncdcmggright" ismap="ismap" align="right" border="0" height="50" width="185">
+  </td></tr>
+</tbody></table>
+
+<!-- Here's where, if there is one, a warning message would go: -->
+
+
+
+
+<center>
+<font class="top" color="red">
+<b class="top" style="font-weight: bold;">
+
+</b></font>
+</center>
+
+<table class="top" summary="layout table" align="center" bgcolor="#e2a300" border="0" cellpadding="1" cellspacing="0" width="650">
+             
+
+<tbody>       
+ <tr>
+  <td class="top" align="left" bgcolor="#e2a300" valign="middle">
+ 	  <font class="top" style="font-family: georgia; font-style: normal; font-variant: normal; font-weight: normal; font-size: 10pt; line-height: 12pt; font-size-adjust: none; font-stretch: normal;">	 </font>
+ 	   <div id="topbar"> 
+	  <a class="topbar" href="http://www.commerce.gov/"> DOC</a> &gt;
+	  <a class="topbar" href="http://www.noaa.gov/">NOAA</a> &gt;
+	  <a class="topbar" href="http://www.nesdis.noaa.gov/">NESDIS</a> &gt;
+	  <a class="topbar" href="http://www.ncdc.noaa.gov/oa/ncdc.html">NCDC</a>	  
+      </div>    	  
+  </td>
+  
+  
+  <td align="right" valign="middle">
+      <form name="gs" action="http://crawl.ncdc.noaa.gov/search?site=ncdc&amp;client=ncdc&amp;output=xml_no_dtd&amp;proxystylesheet=ncdc&amp;proxycustom=%3CHOME/%3E&amp;ie=&amp;oe=&amp;lr=" method="get">
+      <table summary="layout" cellpadding="1" cellspacing="0">
+        <tbody>
+        <tr>
+          <td valign="middle"><font size="-1">
+
+         <label for="SB">Search Field:</label>
+          <input maxlength="256" size="20" name="q" id="SB"></font></td>
+
+          <td valign="middle"><font size="-1">&nbsp;<input value="Search NCDC" name="btnG" type="submit">
+          </font></td></tr></tbody></table>
+
+          <input name="ie" type="hidden">
+      <input value="ncdc" name="site" type="hidden">
+      <input value="xml_no_dtd" name="output" type="hidden">
+      <input value="ncdc" name="client" type="hidden">
+      <input name="lr" type="hidden">
+      <input value="ncdc" name="proxystylesheet" type="hidden">
+      <input name="oe" type="hidden">
+</form></td>
+
+</tr>
+
+</tbody>
+</table>
+
+
+</span>
+<center>
+
+<table summary="layout" border="0" width="650">
+<tbody><tr>
+<td>
+<center>
+<a name="top"></a>
+<b><a href="http://lwf.ncdc.noaa.gov/oa/climate/research/monitoring.html">Climate Monitoring</a> / <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2000/perspectives.html">2000</a> / <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2001/perspectives.html">2001</a> / <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2002/perspectives.html">2002</a> / <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2003/perspectives.html">2003</a> / <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2004/perspectives.html">2004</a> / <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2005/perspectives.html">2005</a> / <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2006/perspectives.html">2006</a> / <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2007/perspectives.html">2007</a> / <a href="http://lwf.ncdc.noaa.gov/oa/about/ncdchelp.html">Help</a></b></center>
+<hr></td></tr></tbody></table>
+
+
+<table summary="layout" border="0">
+<tbody><tr>
+<td align="center" width="650"><h1>Global Surface Temperature Anomalies</h1> 
+<br><i>National Climatic Data Center<br>6 February 2006</i>
+</td>
+</tr>
+</tbody></table>
+<br><br>
+
+<table summary="layout" border="0" width="650"> 
+<tbody><tr>
+<td align="center" width="650">
+<a href="http://lwf.ncdc.noaa.gov/img/climate/research/2005/ann/global-blended-temp-pg.gif"> <img alt="Global Temperature Anomalies" src="anomalies_files/global-blended-temp-t.gif" border="0"><br>
+larger image
+</a>
+</td>
+
+
+<td align="center" width="650">
+<h4>
+<li><a href="#Overview">Overview</a>
+</li><li><a href="#SR05">Smith and Reynolds Blended Land and Ocean Dataset</a>
+</li><li><a href="#means">Global Long-term Mean Land and Sea Surface Temperatures</a><br>
+</li><li><a href="#anomalies">The Global Anomalies and Index</a><br>
+</li></h4>
+</td> </tr>
+</tbody></table>
+
+<center> <img src="anomalies_files/bluebar.gif" alt="line separating sections">
+</center>
+<table summary="layout" align="middle" border="0" width="650">
+<tbody><tr>
+<td align="left">
+<font color="red" size="-1">*In February, 2006 NCDC transitioned to the use of an improved Global Land and Ocean data set <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/Smith-comparison.pdf" title="Link to Smith and Reynolds comparison 2005">(Smith and Reynolds analysis (2005))</a>
+which incorporates new algorithms that better account for factors such
+as changes in spatial coverage and evolving observing methods.</font>
+</td>
+</tr>
+</tbody></table>
+<center> <img src="anomalies_files/bluebar.gif" alt="line separating sections">
+</center>
+<br>
+
+
+<table summary="layout" border="0" width="650"> 
+<tbody><tr>
+<td>
+
+<table summary="layout" border="0" width="650"> 
+<tbody><tr>
+<td align="left" width="650">
+<a href="#top"><img alt="Top of Page" src="anomalies_files/top.gif" border="0"></a> <a name="Overview"></a><b>Overview</b> 
+<br><br>
+
+<p>NCDC's long-term mean temperatures for the Earth were calculated by
+processing data from thousands of world-wide observation sites on land
+and sea for the entire period of record of the data. Many parts of the
+globe are inaccessible and therefore have no data. The temperature
+anomaly time series presented here were calculated in a way that did
+not require knowing the actual mean temperature of the Earth in these
+inaccessible areas such as mountain tops and remote parts of the Sahara
+Desert where there are no regularly reporting weather stations. Using
+the collected data available, the whole Earth long-term mean
+temperatures were calculated by interpolating over uninhabited deserts,
+inaccessible Antarctic mountains, etc. in a manner that takes into
+account factors such as the decrease in temperature with elevation. By
+adding the long-term monthly mean temperature for the Earth to each
+anomaly value, one can create a time series that approximates the
+temperature of the Earth and how it has been changing through time.</p><br>
+</td></tr></tbody></table>
+
+<center> <img src="anomalies_files/bluebar.gif" alt="line separating sections">
+</center>
+<br>
+
+<table summary="layout" border="0" width="650"> 
+<tbody><tr>
+<td align="left" width="650">
+<a href="#top"><img alt="Top of Page" src="anomalies_files/top.gif" border="0"></a> <a name="SR05"></a><b>Smith and Reynolds Blended Land and Ocean Dataset</b> 
+<br><br>
+
+<p>The <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/Smith-Reynolds-dataset-2005.pdf" title="Link to Smith and Reynolds 2005">Smith and Reynolds analysis (2005)</a> merges a new analysis of in situ SST anomalies <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/Smith-Reynolds-dataset-2004.pdf" title="Link to Smith and Reynolds 2004">[Smith and Reynolds, 2004]</a>
+with an analysis of Land Surface Temperature (LST) anomalies from a
+gridded version of the Global Historical Climatology Network (GHCN) <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/Peterson-Vose-1997.pdf" title="Link to Peterson and Vose 1997">[Peterson and Vose, 1997]</a>.
+The LST analysis is produced using the same methods as the SST
+analysis. The analysis method is briefly discussed here, but interested
+readers should see Smith and Reynolds [2004, 2005] for details.</p>
+
+<p>Both the SST and LST components of the SR05 are created by
+separately analyzing the low- and high-frequency anomalies.
+Low-frequency anomalies are analyzed by spatial and temporal filtering
+when enough data are available. Spatial filtering is done by averaging
+anomalies over 10-15 degree latitude-longitude regions, and temporal
+filtering is done by averaging and median filtering over 15 year
+running periods. Separate low-frequency analysis is done to minimize
+the damping of those signals. Damping of the low-frequency may occur if
+it is analyzed by projecting it onto a set of stationary modes that do
+not fully resolve all of its variations.</p>
+
+<p>The high-frequency residuals from this low-frequency analysis are
+analyzed separately by fitting them to a set of screened covariance
+modes representing large-scale monthly temperature patterns. It is
+assumed that the base period for the modes is long enough to resolve
+the high frequency variations. The sum of the low- and high frequency
+anomalies gives the total anomaly. In addition to the anomaly, an error
+estimate is also computed for the merged analysis.</p>
+
+<p>Although the SR05 analysis is spatially complete, regions such as
+the Polar Latitudes are nearly always sampled poorly and the anomalies
+there are damped toward zero in the SR05 analysis. As expected, the
+SR05 sampling error estimate is large for the poorly-sampled regions.
+To prevent poorly-sampled regions from damping the global average,
+regions with large sampling errors are excluded from the global
+average. Sampling error, normalized by anomaly standard deviation, is
+used to define excluded regions. After testing several cut offs, it was
+decided to exclude regions with a normalized sampling error of 0.5. The
+amount of global area excluded is greatest in the 19th century, when it
+is 20%-30%. For the 20th century the area excluded is 20% or less, and
+after 1950 it is less than 15%.</p>
+
+<p>Also, since the reconstruction is designed to resolve the
+large-scale variations, it does not always have as much spatial
+structure as the observations. Therefore, the land component of the
+merged temperature is adjusted to make it more consistent with the GHCN
+temperature. In 5-degree regions with no GHCN value available there is
+no adjustment. In other regions the strength of the adjustment towards
+the GHCN temperature is a function of the number of individual stations
+used to produce the GHCN. With one station in the 5-degree region the
+adjustment is to about 60% of the GHCN value, while for three or more
+stations the adjustment is an almost complete replacement with the GHCN
+value.</p>
+
+<br>
+
+<b>References</b><br><br>
+Peterson, T. C., and R. S. Vose (1997), An Overview of the Global
+Historical Climatology Network Temperature Database, Bull. Am.
+Meteorol. Soc., 78,
+2837-2849.<br><br>
+Smith, T. M., and R. W. Reynolds (2004), Improved extended reconstruction of SST (1854-1997), J. Clim., 17, 2466-2477.<br><br>
+Smith, T. M., and R. W. Reynolds (2005), A global merged land air and
+sea surface temperature reconstruction based on historical observations
+(1880-1997), J. Clim., 18, 2021-2036.<br><br>
+</td></tr></tbody></table>
+
+<center><img src="anomalies_files/bluebar.gif" alt="line separating sections">
+</center>
+<p>
+</p><h3> <a href="#top"><img alt="Top of Page" src="anomalies_files/top.gif" border="0"></a> <a name="means"></a>Global Long-term Mean Land and Sea Surface Temperatures</h3>
+<center><i>Global Means Last Updated: 08 Dec 06</i>
+<p>
+
+</p></center>
+<p>
+Estimates of mean monthly global surface temperatures are given below
+with respect to the 20th century average (1901-2000). The figures are
+based on 1961-1990 estimates from the <a href="http://lwf.ncdc.noaa.gov/cgi-bin/good-bye.pl?src=http://www.cru.uea.ac.uk/index.html&amp;code=ncdc" title="Link to University of East Anglia Climate Research Unit"> University of East Anglia's Climate Research Unit </a>
+(UEA-CRU). The recently derived 1961-1990 global monthly surface
+temperature averages represent, in our opinion, the best absolute
+estimates of global mean temperature and were compiled at UEA-CRU by M.
+New, P.D. Jones, D.E. Parker and others . The data and methods used are
+described in the <a href="http://lwf.ncdc.noaa.gov/cgi-bin/good-bye.pl?src=http://www.cru.uea.ac.uk/%7Emarkn/carbon/nerc.htm&amp;code=ncdc" title="Link to Monthly Gridded Time Series"> Monthly Gridded Time Series </a> and in current and forthcoming publications (see below).
+</p>
+<p>
+The UEA-CRU 1961-1990 estimates have been separated into land and sea
+components and adjusted using the longer-term global temperature
+anomaly time series from NCDC. The figures presented below therefore
+are mean monthly global surface temperature estimates for the 20th
+century, 1901 to 2000. Estimates for land (including Antarctica) and
+sea surface areas for the period 1901 to 2000 are given separately and
+in combined form.
+</p>
+<p>Absolute estimates of global mean surface temperature are difficult
+to compile for a number of reasons. Since some regions of the world
+have few temperature measurement stations (e.g., the Sahara Desert),
+interpolation must be made over large, data sparse regions. In
+mountainous areas, most observations come from valleys where the people
+live so consideration must be given to the effects of elevation on a
+region's average as well as to other factors that influence surface
+temperature. Consequently, the estimates below, while considered the
+best available, are still approximations and reflect the assumptions
+inherent in interpolation and data processing. Time series of monthly
+temperature records are more often expressed as departures from a base
+period (e.g., 1961-1990, 1901-2000) since these records are more easily
+interpreted and avoid some of the problems associated with estimating
+absolute surface temperatures over large regions. For a brief
+discussion of using temperature anomaly time series see the <a href="http://lwf.ncdc.noaa.gov/oa/climate/research/1998/may/may98.html"> Climate of 1998 </a> series.
+</p>
+<p>
+The global monthly surface temperature averages in the table below can
+be added to a given month's anomaly (departure from the 1901 to 2000
+base period average) to obtain an absolute estimate of surface
+temperature for that month. (Files of absolute estimates are provided <a href="#files">below</a>.)
+</p>
+
+<center>
+<h2> <b>
+Global Mean Monthly Surface Temperature Estimates for the Base Period 1901 to 2000 </b></h2><br><br>
+
+</center>
+
+<table summary="layout" border="0" cellpadding="2" cellspacing="0" width="650">
+
+<tbody><tr>
+<td>
+<h2><u><b>Land Surface Mean Temp.</b></u></h2></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>F</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>M</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>A</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>M</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>A</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>S</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>O</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>N</b></font></p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>D</b></font></p></td>
+<td height="21" valign="top" width="9%"><p align="center"><font face="Arial" size="1"><b>Annual</b></font></p></td>
+</tr>
+
+<tr>
+<td height="21" valign="top" width="28%"> <p align="center"><font face="Arial" size="1"><b>1901 to 2000 (°C)</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>2.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>3.2</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>5.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>8.1</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>11.1</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>13.3</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>14.3</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>13.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>12.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>9.3</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>5.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>3.7</b></font>
+</p></td>
+<td height="21" valign="top" width="9%"> <p align="center"><font face="Arial" size="1"><b>8.5</b></font>
+</p></td>
+</tr>
+
+<tr>
+<td height="21" valign="top" width="28%"> <p align="center"><font face="Arial" size="1"><b>1901 to 2000 (°F)</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>37.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>37.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>40.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>46.5</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>52.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>55.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>57.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>56.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>53.6</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>48.7</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>42.6</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>38.7</b></font>
+</p></td>
+<td height="21" valign="top" width="9%"> <p align="center"><font face="Arial" size="1"><b>47.3</b></font>
+</p></td>
+</tr>
+
+<tr>
+<td height="21" valign="top" width="28%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="9%">
+<p>
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<h2><u><b>Sea Surface Mean Temp.</b></u></h2></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>F</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>M</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>A</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>M</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>A</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>S</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>O</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>N</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>D</b></font>
+</p></td>
+<td height="21" valign="top" width="9%"><p align="center"><font face="Arial" size="1"><b>Annual</b></font>
+</p></td>
+</tr>
+
+<tr>
+<td height="21" valign="top" width="28%"> <p align="center"><font face="Arial" size="1"><b>1901 to 2000 (°C)</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>16.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>16.3</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>16.4</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>16.4</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>16.4</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>16.2</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.7</b></font>
+</p></td>
+<td height="21" valign="top" width="9%"> <p align="center"><font face="Arial" size="1"><b>16.1</b></font>
+</p></td>
+</tr>
+
+<tr>
+<td height="21" valign="top" width="28%"> <p align="center"><font face="Arial" size="1"><b>1901 to 2000 (°F)</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.5</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.6</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.7</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>61.3</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>61.5</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>61.5</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>61.4</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>61.1</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.6</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.4</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.4</b></font>
+</p></td>
+<td height="21" valign="top" width="9%"> <p align="center"><font face="Arial" size="1"><b>60.9</b></font>
+</p></td>
+</tr>
+
+<tr>
+<td height="21" valign="top" width="28%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="5%">
+<p>
+</p>
+</td>
+<td height="21" valign="top" width="9%">
+<p>
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<h2><u><b>Combined Mean Surface Temp.</b></u></h2></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>F</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>M</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>A</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>M</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>J</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>A</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>S</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>O</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>N</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"><p align="center"><font face="Arial" size="1"><b>D</b></font>
+</p></td>
+<td height="21" valign="top" width="9%"><p align="center"><font face="Arial" size="1"><b>Annual</b></font>
+</p></td>
+</tr>
+
+<tr>
+<td height="21" valign="top" width="28%"> <p align="center"><font face="Arial" size="1"><b>1901 to 2000 (°C)</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>12.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>12.1</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>12.7</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>13.7</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>14.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.5</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.8</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.6</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>15.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>14.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>12.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>12.2</b></font>
+</p></td>
+<td height="21" valign="top" width="9%"> <p align="center"><font face="Arial" size="1"><b>13.9</b></font>
+</p></td>
+</tr>
+
+<tr>
+<td height="21" valign="top" width="28%"> <p align="center"><font face="Arial" size="1"><b>1901 to 2000 (°F)</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>53.6</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>53.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>54.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>56.7</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>58.6</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>59.9</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.4</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>60.1</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>59.0</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>57.1</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>55.2</b></font>
+</p></td>
+<td height="21" valign="top" width="5%"> <p align="center"><font face="Arial" size="1"><b>54.0</b></font>
+</p></td>
+<td height="21" valign="top" width="9%"> <p align="center"><font face="Arial" size="1"><b>57.0</b></font>
+</p></td>
+</tr>
+</tbody></table>
+
+<hr>
+
+<p>
+Erratum: Please note that prior to 26 June 2000, the mean values added
+to the land and ocean anomalies were incorrect. These data are now
+correct. Analysis of trends in the time series would not be impacted by
+this error since the error involved adding a constant to the entire
+period of record.
+</p><p>
+
+</p><p>
+The complete land-sea surface climatology from the Climate Research Unit is described in:
+</p>
+<p>
+Jones, P. D., M. New, D. E. Parker and S. Martin, submitted: Surface air temperature and its changes over the past 150 years. <i>Rev. Geophys.</i>
+</p>
+<p>
+This climatology is actually a combination of four separate data sets:
+</p>
+<p>Global land areas, excluding Antarctica, described in:</p>
+<p>New, M. G., M. Hulme and P. D. Jones, in press: Representing 20th
+century space-time climate variability. I: Development of a 1961-1990
+mean monthly terrestrial climatology. <i>J. Climate.
+</i></p> 
+<p>Global oceans, 60S-60N, described in:</p>
+<p>
+Parker, D. E., M. Jackson and E. B. Horton, 1995: The GISST2.2 sea
+surface temperature and sea-ice climatology. Climate Research Technical
+Note, CRTN 63, Hadley Centre for Climate Prediction and Research,
+Bracknel, UK.
+</p> <p>Arctic sea areas, described in:</p>
+<p>
+Rigor, I. G., R. L. Colony and S. Martin, submitted: Statistics of surface air temperature observations in the Arctic. <i>J. Climate.</i>
+</p>
+<p>Martin, S. and E.A. Munoz: Properties of the Arctic 2-Meter Air
+temperature field for 1979 to the present derived from a new gridded
+data set. <i>J. Climate</i>, <b>10</b>, 1428-1440.
+</p>
+
+
+ 
+
+
+
+<center> <img src="anomalies_files/bluebar.gif" alt="line separating sections">
+</center>
+
+
+<br>
+<table summary="layout" border="0" width="650"> 
+<tbody><tr>
+<td align="left" width="650">
+<i>*From February 2006 through April 14, 2006, the anomalies provided
+from the links below were inadvertently provided as departures from the
+1961-1990 average. Anomalies are now provided as departures from the
+20th century average (1901-2000).
+</i></td></tr></tbody></table>
+
+
+<br>
+<table summary="layout" border="0" width="650"> 
+<tbody><tr>
+<td align="left" width="650">
+<a href="#top"><img alt="Top of Page" src="anomalies_files/top.gif" border="0"></a> <a name="anomalies"></a><b>The Global Anomalies and Index</b>
+</td></tr></tbody></table>
+
+
+<ul>
+<li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.land.90S.90N.df_1901-2000mean.dat">The Monthly Global Land Temperature Anomalies (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/land_F.all">The Monthly Global Land Temperature Anomalies (degrees F)</A><BR>-->
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.ocean.90S.90N.df_1901-2000mean.dat">The Monthly Global Ocean Temperature Anomalies (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/ocean_F.all">The Monthly Global Ocean Temperature Anomalies (degrees F)</A><BR>-->
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.land_and_ocean.90S.90N.df_1901-2000mean.dat">The Monthly Global (land and ocean combined into an anomaly) Index (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/land_o_F.all">The Monthly Global (land and ocean combined into an anomaly) Index (degrees F)</A>--><br><br>
+
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.land.00N.90N.df_1901-2000mean.dat">The Monthly Northern Hemisphere Land Temperature Anomalies (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/aravg.mon.land.00N.90N.asc">The Monthly Northern Hemisphere Land Temperature Anomalies (degrees F)</A><BR>-->
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.ocean.00N.90N.df_1901-2000mean.dat">The Monthly Northern Hemisphere Ocean Temperature Anomalies (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/aravg.mon.ocean.00N.90N.asc">The Monthly Northern Hemisphere Ocean Temperature Anomalies (degrees F)</A><BR>-->
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.land_and_ocean.00N.90N.df_1901-2000mean.dat">The Monthly Northern Hemisphere (land and ocean combined into an anomaly) Index (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/aravg.mon.land_and_ocean.00N.90N.asc">The Monthly Northern Hemisphere (land and ocean combined into an anomaly) Index (degrees F)</A>--><br><br>
+
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.land.90S.00N.df_1901-2000mean.dat">The Monthly Southern Hemisphere Land Temperature Anomalies (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/aravg.mon.land.90S.00N.asc">The Monthly Southern Hemisphere Land Temperature Anomalies (degrees F)</A><BR>-->
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.ocean.90S.00N.df_1901-2000mean.dat">The Monthly Southern Hemisphere Ocean Temperature Anomalies (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/aravg.mon.ocean.90S.00N.asc">The Monthly Southern Hemisphere Ocean Temperature Anomalies (degrees F)</A><BR>-->
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/monthly.land_and_ocean.90S.00N.df_1901-2000mean.dat">The Monthly Southern Hemisphere (land and ocean combined into an anomaly) Index (degrees C)</a><br>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/aravg.mon.land_and_ocean.90S.00N.asc">The Monthly Southern Hemisphere (land and ocean combined into an anomaly) Index (degrees F)</A>--><br><br>
+
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/annual.land.90S.90N.df_1901-2000mean.dat">The Annual Global Land Temperature Anomalies (degrees C)</a><br>
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/annual.ocean.90S.90N.df_1901-2000mean.dat">The Annual Global Ocean Temperature Anomalies (degrees C)</a><br>
+</li><li><a href="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/annual.land_and_ocean.90S.90N.df_1901-2000mean.dat">The Annual Global (land and ocean combined) Anomalies
+(degrees C)</a><br> ...through the most recent complete year.
+
+<a name="files"></a>
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/land_meanT_C.all">The Monthly Absolute Estimates of Global Land Temperature (degrees C)</A><BR>-->
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/land_meanT_F.all">The Monthly Absolute Estimates of Global Land Temperature (degrees F)</A><BR>-->
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/ocean_meanT_C.all">The Monthly Absolute Estimates of Global Ocean Temperature (degrees C)</A><BR>-->
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/ocean_meanT_F.all">The Monthly Absolute Estimates of Global Ocean Temperature (degrees F)</A><BR>-->
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/global_meanT_C.all">The Monthly Absolute Estimates of Global (land and ocean combined) Temperature Index (degrees C)</A><BR>-->
+<!--<LI><A HREF="ftp://ftp.ncdc.noaa.gov/pub/data/anomalies/global_meanT_F.all">The Monthly Absolute Estimates of Global (land and ocean combined)
+Temperature Index (degrees F)</A><br> ...all with respect to the long-term (1901-2000) mean.-->
+</li></ul>
+<hr>
+<center>
+
+<b><a href="http://lwf.ncdc.noaa.gov/oa/climate/research/monitoring.html">Climate Monitoring</a> /
+<a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2000/perspectives.html">2000</a> /
+<a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2001/perspectives.html">2001</a> /
+<a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2002/perspectives.html">2002</a> /
+<a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2003/perspectives.html">2003</a> /
+<a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2004/perspectives.html">2004</a> /
+<a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2005/perspectives.html">2005</a> /
+<a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2006/perspectives.html">2006</a> /
+<a href="http://lwf.ncdc.noaa.gov/oa/climate/research/2007/perspectives.html">2007</a>/
+<a href="http://lwf.ncdc.noaa.gov/oa/about/ncdchelp.html">Help</a></b>
+
+
+<p>
+</p></center>
+
+<address>
+http://www.ncdc.noaa.gov/oa/climate/research/anomalies/anomalies.html <br>
+
+Downloaded Thursday, 09-Jun-2005 13:19:58 EDT<br>
+Last Updated Wednesday, 01-Jun-2005 14:51:17 EDT by 
+<a href="mailto:Ahira.Sanchez-Lugo@noaa.gov">Ahira.Sanchez-Lugo@noaa.gov</a>
+<br>
+Please see the <a href="http://lwf.ncdc.noaa.gov/oa/about/ncdccontacts.html">NCDC Contact
+Page</a> if you have questions or comments.<br>
+</address>
+
+</td>
+</tr>
+</tbody></table>
+</center>
+</body></html>

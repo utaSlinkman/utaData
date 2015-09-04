@@ -1,0 +1,17 @@
+{
+    "contents" : "require(ggplot2)\n\nggplot( Big.Bear.Lake, aes( x=Price  )) +\n  geom_histogram( aes( y=..density.. ), binwidth=10, colour=\"black\", fill=\"white\" ) +\n  geom_density( binwidth=10 ) +\n  xlab( \"Appraized Value ($K)\") +\n  ylab( \"Density\" ) +\n  with( Big.Bear.Lake, qqnorm(Price) ) +\n  with( Big.Bear.Lake, qqline(Price))\n\nsave(Big.Bear.Lake, file=\"BigBearLake.rda\")",
+    "created" : 1410233221626.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "504831230",
+    "id" : "BBBCDE1A",
+    "lastKnownWriteTime" : 1410279257,
+    "path" : "~/Data/Big Bear Lake Drive Zillow Appraise Home Values/BigBear.r",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

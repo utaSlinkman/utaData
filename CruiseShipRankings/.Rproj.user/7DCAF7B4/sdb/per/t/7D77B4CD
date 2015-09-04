@@ -1,0 +1,17 @@
+{
+    "contents" : "# Boxplot.r\n\nrequire(ggplot2)\nrequire(playr2)\n\nload( \"CruiseShips.rda\" )\n\nggplot( CruiseShips, aes( x=Cruise.Line, y=Score )) +\n  geom_boxplot( ) +\n  theme( axis.text.x=element_text(hjust=0, angle=90)) +\n  coord_flip() +\n  xlab( \"Cruise Lines\" ) +\n  ylab(\"Score\") +\n  ggtitle( \"Cruise Line Customer Evaluation of Shipswith more than 2 Ships\" )\n \n",
+    "created" : 1410281494491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1281223095",
+    "id" : "7D77B4CD",
+    "lastKnownWriteTime" : 1410231081,
+    "path" : "~/Data/Cruise ship rankings/Boxplot.r",
+    "project_path" : "Boxplot.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

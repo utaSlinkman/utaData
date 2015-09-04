@@ -1,0 +1,17 @@
+{
+    "contents" : "# Glucose.r\nGlucose <- read.csv( \"Glucose.csv\",\n                     header=TRUE )\nn <-  nrow( Glucose  )\nt <- 1:n\nglucose <- Glucose[,2]\ntsGlucose <- as.ts( x=glucose )\nsave( tsGlucose, file=\"Glucose.rda\"  )\n\nrequire( ggplot2 )\n\ndfGlucose <- data.frame( tsGlucose  )\n\nggplot( dfGlucose,\n        aes( x=t, y=glucose )) +\n  geom_line() +\n  xlab( \"Day\" ) +\n  ylab( \"Glucose (mg/dl)\" ) +\n  ggtitle( \"Daily glucose readings\" )\n\nggplot( dfGlucose,\n        aes( x=glucose )) +\n  geom_histogram( aes( y=..density.. ), \n             binwidth=5,\n             color=\"blue\",\n             fill=\"white\" ) +\n  geom_density() +\n  xlab( \"Glucose (mg/dl)\" ) +\n  ylab( \"Density\" ) +\n  ggtitle( \"Glucose radings\"  )\n\nacf( tsGlucose )\npacf( tsGlucose)\n",
+    "created" : 1413660109639.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "476322370",
+    "id" : "68462944",
+    "lastKnownWriteTime" : 1414539509,
+    "path" : "~/Data/Glucose/Glucose.r",
+    "project_path" : "Glucose.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

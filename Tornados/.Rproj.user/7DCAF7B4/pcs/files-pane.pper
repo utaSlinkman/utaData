@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Tornados",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

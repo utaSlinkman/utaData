@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Texas Powerball Lottery",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

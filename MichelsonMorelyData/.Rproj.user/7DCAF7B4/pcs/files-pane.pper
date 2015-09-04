@@ -1,0 +1,9 @@
+{
+    "path" : "~/Data/Michelson Morely Data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

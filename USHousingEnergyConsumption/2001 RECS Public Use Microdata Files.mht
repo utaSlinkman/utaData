@@ -1,0 +1,1256 @@
+From: <Saved by Windows Internet Explorer 8>
+Subject: RECS - public use data
+Date: Mon, 22 Nov 2010 10:01:57 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CB8A2C.4C608860"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5994
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CB8A2C.4C608860
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.eia.doe.gov/emeu/recs/recspubuse05/pubuse05.html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>RECS - public use data</TITLE>
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-Type><!-- =
+****************************************** Begin META TAGS =
+********************************************* -->
+<META name=3Dagency content=3DEIA>
+<META name=3Daudience content=3Dgeneral>
+<META name=3Dsubject content=3D"energy data and statistics"><!-- =
+****************************************** End META TAGS =
+*********************************************** --><LINK=20
+rel=3Dstylesheet type=3Dtext/css=20
+href=3D"http://www.eia.doe.gov/styles/eia_sitewideF.css">
+<SCRIPT language=3DJavaScript type=3Dtext/javascript=20
+src=3D"http://www.eia.doe.gov/styles/eia_header.js"></SCRIPT>
+
+<SCRIPT language=3DJavaScript type=3Dtext/javascript=20
+src=3D"http://www.eia.doe.gov/styles/eia_footer.js"></SCRIPT>
+<LINK rel=3Dstylesheet type=3Dtext/css=20
+href=3D"file:///T|/ClearanceEMEUConsumption/cbecs/cbecs2003/public_use_20=
+03/styles/eia_sitewideF.css">
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18975"></HEAD>
+<BODY leftMargin=3D0 topMargin=3D0 bgColor=3D#ffffff marginheight=3D"0" =
+marginwidth=3D"0"><!--a href=3D"/foo.htm">broken link for test</a--><!-- =
+****************************************** Begin HEADER =
+************************************************ -->
+<DIV align=3Dcenter>
+<CENTER><!-- BEGIN BANNER, & SEARCH -->
+<SCRIPT language=3DJavaScript>InsertEIAHeaderCode();</SCRIPT>
+<!-- END OF SEARCH & BANNER --><!-- =
+****************************************** End HEADER =
+************************************************** --><!-- THIS BEGIN =
+THE MAIN CONTENT TABLE--><!-- INSERT CONTENT HERE-->
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D2 width=3D"95%">
+  <TBODY>
+  <TR>
+    <TD height=3D8 vAlign=3Dtop>
+      <P><SPAN class=3Dbreadcrumbs><A =
+href=3D"http://www.eia.doe.gov/">Home</A> &gt;=20
+      <A =
+href=3D"http://www.eia.doe.gov/emeu/consumption/index.html">Households,=20
+      Buildings &amp; Industry</A> &gt;</SPAN> <SPAN =
+class=3Dbreadcrumbs><A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/contents.html">Residential=20
+      Buildings Energy Consumption Survey (RECS)</A> </SPAN><SPAN=20
+      class=3Dbreadcrumbs>&gt;</SPAN> <SPAN class=3Dbreadcrumbshd>Public =
+Use=20
+      Microdata Files</SPAN> </P></TD></TR>
+  <TR>
+    <TH class=3DSectionHead height=3D28 vAlign=3Dtop colSpan=3D2>
+      <DIV align=3Dleft><SPAN class=3DPagetitle>RECS Public Use =
+Microdata Files=20
+      </SPAN></DIV></TH></TR></TBODY></TABLE><TD valign=3D"TOP">
+<P class=3Dupdate =
+align=3Dleft>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Released:=20
+February 2009<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;covers calendar =
+year=20
+2005</P><SPAN class=3Dupdate></SPAN></DIV>
+<TABLE class=3DSubSection border=3D0 width=3D"85%">
+  <TBODY>
+  <TR class=3Dreport_bold>
+    <TD height=3D18></SPAN>
+      <P>
+      <P align=3Dcenter><STRONG><A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pubuse05.html#sampl=
+e">Sample=20
+      Weights</A> | <A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pubuse05.html#Confi=
+dentiality">Confidentiality</A>=20
+      | <A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pubuse05.html#flags=
+">Imputation=20
+      Flags</A> | Other Years:</STRONG>&nbsp;&nbsp; <A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/recs2001/publicuse2001.html">200=
+1</A>=20
+      &nbsp;&nbsp;&nbsp;<A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/public.html">1997</A>&nbsp;&nbsp=
+;&nbsp;=20
+      <A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/93publicuse.html">1993</A>&nbsp;=
+&nbsp;&nbsp;<A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse90/90publicuse.html">1=
+990&nbsp;</A>&nbsp;&nbsp;=20
+      <A=20
+      =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse87/87publicuse.html">1=
+987</A>=20
+      </P></TD>
+    <P>&nbsp;
+    <P></P></P>
+  <TR>
+    <TD vAlign=3Dtop>
+      <TABLE border=3D0 cellPadding=3D0 width=3D"100%">
+        <P>
+        <TBODY>
+        <TR class=3DSubSection>
+          <TD>
+            <DIV align=3Djustify>
+            <P>The Residential Energy Consumption Survey (RECS) is a =
+national=20
+            area-probability sample survey that collects energy-related =
+data for=20
+            occupied primary housing units. First conducted in 1978, the =
+2005=20
+            version is the 12th RECS.&nbsp; The survey collected data =
+from 4,382=20
+            households sampled at random using a complex multistage,=20
+            area-probability design to represent 111.1 million U.S. =
+households,=20
+            the Census Bureau=92s statistical estimate for all occupied =
+housing=20
+            units in 2005. Data were obtained from residential energy =
+suppliers=20
+            for each unit in the sample to produce the Consumption &amp; =
+
+            Expenditures data.</P>
+            <P>The 2005 RECS microdata are available in 12 =
+comma-delimited files=20
+            for ease of use with multiple software applications.&nbsp; =
+The files=20
+            are organized according to RECS Household questionnaire =
+section,=20
+            with additional files containing energy supplier, =
+consumption, and=20
+            expenditure data.&nbsp; All files contain nine selected =
+variables=20
+            that are frequently used in RECS data analysis. Each data =
+file is=20
+            accompanied by a corresponding =93Layout File=94 containing =
+labels and=20
+            formats for each variable. Users should also refer to the =
+=932005 RECS=20
+            Variable Response Code Labels=94 file to reference =
+descriptions of=20
+            variable codes.&nbsp;&nbsp;&nbsp; =
+</P></DIV></TD></TR></P></TABLE>
+      <TABLE border=3D0 width=3D"100%">
+        <TBODY>
+        <TR class=3DSectionHead>
+          <TD width=3D"64%">2005 <STRONG>RECS Files by =
+Topic</STRONG></TD>
+          <TD class=3DSectionHead width=3D"8%">
+            <DIV align=3Dcenter>Layout Files</DIV></TD>
+          <TD class=3DSectionHead width=3D"6%">
+            <DIV align=3Dcenter>Data Files</DIV></TD>
+          <TD class=3DSectionHead width=3D"13%">Questionnaire</TD>
+          <TD class=3DSectionHead width=3D"9%">
+            <DIV align=3Dcenter>Release Date</DIV></TD></TR>
+        <TR class=3Dsubsection>
+          <TD class=3DSubSection><STRONG>&nbsp;&nbsp;&nbsp;File 1 -=20
+            </STRONG>Section A: Housing Unit Characteristics</TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE1.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e1.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexa.pdf"><IMG=
+=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSectionSHD>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 2 -</STRONG> Section B: =
+Kitchen=20
+            Appliances</TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE2.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e2.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexb.pdf"><IMG=
+=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSection>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 3 - </STRONG>Section C: =
+Other=20
+            Appliances</TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE3.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e3.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexc.pdf"><IMG=
+=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSectionSHD>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 4 -</STRONG> Section D: =
+Space=20
+            Heating</TD>
+          <TD class=3DSubSection height=3D8 width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE4.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection height=3D8 width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e4.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexd.pdf"><IMG=
+=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection height=3D8 width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSection>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 5 -</STRONG> Sections E, F =
+and G:=20
+            Water Heating, A/C, and Miscellaneous</TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE5.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e5.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexefg.pdf"><I=
+MG=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSectionSHD>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 6 - </STRONG>Section H: =
+Fuels=20
+            Used and Fuel Payment<BR></TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE6.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e6.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexh.pdf"><IMG=
+=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSection>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 7 - </STRONG>Section I: =
+Fuel=20
+            Bills and Non-Residential Uses<BR></TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE7.csv"><IMG=20
+            border=3D0 =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e7.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexi.pdf"><IMG=
+=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSectionSHD>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 8 -</STRONG> Section J: =
+Household=20
+            Characteristics </TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE8.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e8.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexj.pdf"><IMG=
+=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR>
+          <TD class=3DSubSection><STRONG>&nbsp;&nbsp;&nbsp;File 9 =
+-</STRONG>=20
+            Section K and L: Energy Assistance and Housing Unit Square =
+Footage=20
+          </TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE9.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e9.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/quexkl.pdf"><IM=
+G=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSectionSHD>
+          <TD class=3DSubSection><STRONG>&nbsp;&nbsp;&nbsp;File 10 =
+-</STRONG>=20
+            Characteristics of Energy Supplier Data=20
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE10.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e10.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSection>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 11 -</STRONG> Energy=20
+          Consumption</TD>
+          <TD class=3DSubSection width=3D"8%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE11.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"6%">
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e11.csv"><IMG=20
+            border=3D0 alt=3D"cvs file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection width=3D"13%">
+            <DIV align=3Dcenter></DIV></TD>
+          <TD class=3DSubSection width=3D"9%">
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSectionSHD>
+          <TD><STRONG>&nbsp;&nbsp;&nbsp;File 12 -</STRONG> Energy=20
+          Expenditures</TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutFILE12.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05fil=
+e12.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSectionHead>
+          <TD>2005 RECS Files, All</TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/layoutfiles/RECS05l=
+ayoutAllData.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/datafiles/RECS05all=
+data.csv"><IMG=20
+            border=3D0 alt=3D"text file"=20
+            =
+src=3D"http://www.eia.doe.gov/images/text.gif"></A></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recs2005/hc2005_tables/2005recsh=
+ouseholdquex.pdf"><IMG=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter>02/09</DIV></TD></TR>
+        <TR class=3DSubSection>
+          <TD>&nbsp;</TD>
+          <TD class=3DSubSection>&nbsp;</TD>
+          <TD class=3DSubSection>&nbsp;</TD>
+          <TD class=3DSubSection>&nbsp;</TD>
+          <TD class=3DSubSection>&nbsp;</TD></TR>
+        <TR class=3DSectionHead>
+          <TD>2005 RECS Variable Response Code Labels</TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/recs05codebook.=
+pdf"></A></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/publicsues2005/2003set5/2003pdf/=
+a8.pdf"></A></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter><A=20
+            =
+href=3D"http://www.eia.doe.gov/emeu/recs/recspubuse05/pdf/recs05codebook.=
+pdf"><IMG=20
+            border=3D0 alt=3Da8-pdf =
+src=3D"http://www.eia.doe.gov/images/pdf.gif"=20
+            width=3D16 height=3D16></A></DIV></TD>
+          <TD class=3DSubSection>
+            <DIV align=3Dcenter></DIV></TD></TR></TBODY></TABLE>
+      <P><!-- END BODY TEXT --><!-- THIS END THE MAIN CONTENT =
+TABLE--><!-- ****************************************** Begin FOOTER =
+************************************************ --><!-- START FOOTER =
+HERE --><BR>
+      <TABLE class=3DSubSection border=3D0 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop>
+            <P align=3Dleft><SPAN class=3Dreport_bold><A id=3Dsample=20
+            name=3Dsample></A>Sample Weights</SPAN>=20
+            <DIV align=3Djustify>
+            <P>The RECS sample was designed so that survey responses =
+could be=20
+            used to estimate characteristics of the national stock of =
+occupied=20
+            housing units. In order to arrive at national estimates from =
+the=20
+            RECS sample, base sampling weights for each housing unit, =
+which were=20
+            the reciprocal of the probability of that building being =
+selected=20
+            into the sample, were calculated. Therefore, a housing unit =
+with a=20
+            base weight of 10,000 represents itself and 9,999 similar, =
+but=20
+            unsampled housing units in the total stock of occupied =
+residential=20
+            housing units. The base weight is further adjusted to =
+account for=20
+            nonresponse bias. Finally, ratio adjustments were used to =
+ensure=20
+            that the RECS weights add up to Current Population Survey =
+estimates=20
+            of the number of households. The variable NWEIGHT in the =
+data file=20
+            is the final weight.</P>
+            <P>EXAMPLE 1: SINGLE RESPONSE</P>
+            <P>The respondent with DOEID =3D 4373 has NWEIGHT =3D =
+14,541. Hence this=20
+            respondent represents a total of 14,541 households. The =
+respondent=20
+            used 1007 gallons (GALLONFO =3D 1007) of fuel oil, thus =
+contributing=20
+            14,642,787 (1007 x 14,541) gallons to the estimated national =
+total=20
+            fuel oil consumption. </P>
+            <P>EXAMPLE 2: USING NWEIGHT TO ESTIMATE NUMBER OF =
+HOUSEHOLDS</P>
+            <P>There were 413 that used fuel oil in their homes (USEFO =
+=3D 1). By=20
+            adding the NWEIGHT data for these 413 cases, the estimated =
+number of=20
+            households that use fuel oil is approximately 8,402,012. =
+</P>
+            <P>EXAMPLE 3: USING NWEIGHT TO ESTIMATE PERCENTAGE OF =
+HOUSEHOLDS</P>
+            <P>The sum of NWEIGHT over all cases is 111,090,617. This is =
+also an=20
+            estimate of the total number of households as of July 2005. =
+Hence,=20
+            the estimated percent of households that use fuel oil (for =
+any use=20
+            in the home) is (8,402,012/111,090,617) times 100 equals 7.6 =
+
+            percent. </P>
+            <P>EXAMPLE 4: USING NWEIGHT TO ESTIMATE TOTAL CONSUMPTION =
+</P>
+            <P>To estimate the total fuel oil consumption, multiply =
+NWEIGHT=20
+            times GALLONFO for the 413 cases where fuel oil is used in =
+the home=20
+            (USEFO =3D 1), then sum the product over the cases where =
+USEFO =3D 1.=20
+            The resulting estimate is 6,236,635,349 gallons. This should =
+be=20
+            rounded to 6.2 billion gallons.</P>
+            <P>EXAMPLE 5: USING NWEIGHT TO ESTIMATE AVERAGE CONSUMPTION =
+</P>
+            <P>The sum of NWEIGHT over cases where USEFO =3D1 is =
+8,402,012. Hence=20
+            the estimated average fuel oil consumption, in homes that =
+use fuel=20
+            oil, is 8,402,012/6,236,635,349 =3D 742 gallons. </P></DIV>
+            <P align=3Djustify><STRONG><A=20
+            name=3DConfidentiality></A>Confidentiality</STRONG>=20
+            <P>
+            <DIV align=3Djustify>These data were collected under the =
+authority of=20
+            the Confidential Information and Statistical Policy =
+Efficiency Act=20
+            (CIPSEA), as such EIA, project staff and its contractors and =
+agents=20
+            are personally accountable for protecting the identity of =
+individual=20
+            respondents. &nbsp;Thus, local geographic identifiers and =
+National=20
+            Oceanic and Atmospheric Administration Weather Division =
+identifiers=20
+            are not included in the public use data files. Heating and =
+cooling=20
+            degree day values were altered slightly to mask the exact =
+geographic=20
+            location of the housing unit. As in past years,&nbsp; two =
+variables=20
+            were also =93top-coded=94, NUMFLRS and NUMAPTS, to prevent=20
+            identification of large multiunit residential buildings =
+sampled in=20
+            2005.&nbsp; Top-coding resets the value of a variable by =
+truncating=20
+            a number of cases in the distribution tails to a maximum (or =
+
+            minimum) value.</DIV>
+            <P></P>
+            <P></P>
+            <P class=3Dreport_bold align=3Djustify><A =
+name=3Dflags></A>Imputation=20
+            Flags=20
+            <P align=3Djustify>The "Z variables" are also referred to as =
+
+            "imputation flags." Imputation is a statistical procedure =
+used to=20
+            fill in missing values for respondents that are otherwise =
+considered=20
+            to be complete. Missing values for many, but not all, of the =
+
+            variables were imputed. &nbsp;The imputation flag indicates =
+whether=20
+            the corresponding non-Z variable was based upon reported =
+data (Z=20
+            variable =3D 0) or was imputed (Z variable =3D 1 or 2). =
+There are no=20
+            corresponding "Z variables" for variables from the RECS=20
+            questionnaire that were not imputed, variables where there =
+was no=20
+            missing data, and variables that are not from the =
+questionnaire. The=20
+            missing data codes for the consumption and expenditure data =
+are=20
+            contained in the "Characteristics of Energy Supplier Data"=20
+          file.</P></TD></TR></TBODY></TABLE>
+      <HR class=3Demergency SIZE=3D1 noShade>
+
+      <P><STRONG>Contact: </STRONG></P>
+      <DL>
+        <DD><SPAN class=3Dcontactinfo><A=20
+        href=3D"mailto:James.Berry@eia.doe.gov">Chip Berry</A> </SPAN>
+        <DD><SPAN class=3Dcontactinfo>RECS Survey Manager </SPAN>
+        <DD><SPAN class=3Dcontactinfo>Phone: (202) 586-5543 </SPAN>
+        <DD class=3Dcontactinfo>FAX: (202) 586-0018 </DD></DL>
+      <SCRIPT language=3DJavaScript>InsertEIAFooterCode();</SCRIPT>
+      </SPAN><!-- ****************************************** End FOOTER =
+************************************************** -->
+      <DIV></DIV></TR></TBODY></TABLE></CENTER></BODY></HTML>
+
+------=_NextPart_000_0000_01CB8A2C.4C608860
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.eia.doe.gov/images/text.gif
+
+R0lGODlhEAAQAOYAAP///+/v7//vpf/vjObm5vfmnP/mhPfenN7e3vfec9bW1ubWlO/Wa+/WY87O
+zu/OY97OjObOWsXFxdbFhN7FY97FUr29vd69Us69c8W9hNa9Uta9SrW1tbW1pc61SsWtWsWtSr2t
+WqWlpbWlSr2lMbWlQqWca62cOpSUjK2UQpyUa6WUSq2UKZSMjIyMjIyMhJSMWpyMQoyEhIyEY5yE
+MYyEWpSEQpyEKZSEOpyEIYyEQoR7a3t7e3t7c4x7MYx7KZR7EHNza4RzOntzUnNzY3NzWnNzUoRz
+GXNrY3trQnNrUmtrY2trWnNrQnNrOoRrCGtjQnNjKWtjOmNaUmNaSmNaQlpaSmNaMVpSQlpSOlJS
+SlJSQlpSKUpKQkpKOkpCOkpCMTo6MSkpIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5
+BAkAAAAALAAAAAAQABAAQAjAAAFwEBNGSw8RDgIAWMhw4Q4QGqIImEhxAhGGHEZ4gEJxYoEpDRlm
+ifAAiEQBBzKoGGKly5IiHkZgGGCgZoIQPEICcFLBB4SOAhYwCelARwUWToBO9OKCYQsbDDywuIFD
+yhQZFhAsxDIiBoMHFD6sSALGQcgXIEDUAGriYkMENjRwUToDRcgmGk7AUFpEQkMRKSr8mKCUSgeG
+AaREqHDkJ9AJXnICUELhAYknV4T4oEHjSJCGFqx4KRJEhAKdAAICADs=
+
+------=_NextPart_000_0000_01CB8A2C.4C608860
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.eia.doe.gov/images/pdf.gif
+
+R0lGODlhEAAQAKL/AAAAAMDAwP8xAN7e3sbGxrW1tYSEhAgICCH5BAEAAAEALAAAAAAQABAAQANI
+GArcDiqeQUcxpQ4muveABi0WplVPGh7dGExVkYlSRWSXXLiHYZw0EnDAggA+yNVhqXIEXxrC7wmj
+GKRUilR38fG6w42k6UgAADs=
+
+------=_NextPart_000_0000_01CB8A2C.4C608860
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.eia.doe.gov/styles/eia_sitewideF.css
+
+.print {
+	DISPLAY: none
+}
+
+@media Print   =20
+{
+.do-not-print {
+	DISPLAY: none; VISIBILITY: hidden
+}
+.print {
+	DISPLAY: inline; VISIBILITY: visible
+}
+.page-width {
+	WIDTH: 7in
+}
+.page-width TH {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt
+}
+.page-width TD {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt
+}
+.page-width P {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt
+}
+#gom {
+	MARGIN-TOP: 0px !important
+}
+    }
+.do-not-print FORM {
+	DISPLAY: inline
+}
+HTML {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; FONT-SIZE: 98%; FONT-WEIGHT: normal
+}
+BODY {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; FONT-SIZE: 98%; FONT-WEIGHT: normal
+}
+P {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; FONT-SIZE: 98%; FONT-WEIGHT: normal
+}
+TH {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; FONT-SIZE: 98%; FONT-WEIGHT: normal
+}
+TR {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; FONT-SIZE: 98%; FONT-WEIGHT: normal
+}
+TD {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; FONT-SIZE: 98%; FONT-WEIGHT: normal
+}
+TABLE {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; FONT-SIZE: 98%; FONT-WEIGHT: normal
+}
+SUP {
+	LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, =
+sans-serif; FONT-SIZE: 98%; FONT-WEIGHT: normal
+}
+SUP {
+	POSITION: relative; LINE-HEIGHT: 1; HEIGHT: 0px
+}
+A:link {
+	COLOR: #000099
+}
+A:visited {
+	COLOR: #000099
+}
+A:hover {
+	COLOR: #990033; TEXT-DECORATION: underline
+}
+.breadcrumbs {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #666666; =
+FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+.breadcrumbs A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000099
+}
+.breadcrumbshd {
+	BACKGROUND-COLOR: #fdf4f5; FONT-FAMILY: Arial, Helvetica, sans-serif; =
+COLOR: #000000; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+.dropdown {
+	BACKGROUND-COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, helvetica, =
+sans-serif; COLOR: #000099; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.Pagetitle {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000000; FONT-SIZE: =
+14pt; FONT-WEIGHT: bold
+}
+.CategoryTitle {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000000; FONT-SIZE: =
+12pt; FONT-WEIGHT: bold
+}
+TH.SectionHead {
+	BACKGROUND-COLOR: #d3e1fa; TEXT-INDENT: 5pt; FONT-FAMILY: Arial, =
+Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: =
+bold
+}
+.SectionHead {
+	BACKGROUND-COLOR: #d3e1fa; TEXT-INDENT: 5pt; FONT-FAMILY: Arial, =
+Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: =
+bold
+}
+.SectionHead A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000099; FONT-SIZE: =
+12px; FONT-WEIGHT: bold
+}
+.SectionHead A:hover {
+	COLOR: #990033; TEXT-DECORATION: underline
+}
+.SubSection {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000000; FONT-SIZE: =
+10pt; FONT-WEIGHT: 400
+}
+.SubSection A {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000099; FONT-SIZE: =
+10pt; FONT-WEIGHT: 400; TEXT-DECORATION: none
+}
+.SubSection A:hover {
+	COLOR: #990033; TEXT-DECORATION: underline
+}
+LI.SubSection {
+	LIST-STYLE-TYPE: square; FONT-FAMILY: Arial, Helvetica, Sans-Serif; =
+MARGIN-BOTTOM: -2px; COLOR: black; MARGIN-LEFT: -2px
+}
+.SubSectionSHD {
+	BACKGROUND-COLOR: #f4f4f4; FONT-FAMILY: Arial, Helvetica, Sans-Serif; =
+COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: 400
+}
+.SubSectionSHD A {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000099; FONT-SIZE: =
+10pt; FONT-WEIGHT: 400; TEXT-DECORATION: none
+}
+.SubSectionSHD A:hover {
+	COLOR: #990033; TEXT-DECORATION: underline
+}
+.TblHeadGrey {
+	BACKGROUND-COLOR: #e4e4e4; TEXT-INDENT: 5pt; FONT-FAMILY: Arial, =
+Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: =
+bold
+}
+.RepAnForCat {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000000; FONT-SIZE: =
+12px
+}
+.RepAnForCat A {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000099; FONT-SIZE: =
+12px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.RepAnForCat A:hover {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #990033; FONT-SIZE: =
+12px
+}
+.tagline {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: =
+8pt; FONT-WEIGHT: normal
+}
+.update {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #666666; FONT-SIZE: =
+8pt; FONT-WEIGHT: bold
+}
+.report_bold {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; FONT-SIZE: 10pt; =
+FONT-WEIGHT: bold
+}
+.report_summary {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000000; FONT-SIZE: =
+10pt; FONT-WEIGHT: normal
+}
+.report_releaseinfo {
+	FONT-STYLE: italic; FONT-FAMILY: "Times New Roman", Times, serif; =
+COLOR: #666666; FONT-SIZE: 12pt; FONT-WEIGHT: normal
+}
+.report_peggy {
+	TEXT-ALIGN: justify; FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: =
+#000000; FONT-SIZE: 10pt; FONT-WEIGHT: normal
+}
+.report_nos {
+	DISPLAY: none
+}
+.front {
+	DISPLAY: none; COLOR: #ffffff; FONT-SIZE: 1pt
+}
+.front A {
+	COLOR: #ffffff; FONT-SIZE: 1pt; TEXT-DECORATION: none
+}
+.front A:visited {
+	COLOR: #ffffff; FONT-SIZE: 1pt; TEXT-DECORATION: none
+}
+.hidden {
+	POSITION: absolute; WIDTH: 1px; HEIGHT: 1px; OVERFLOW: hidden; TOP: =
+auto; LEFT: -10000px
+}
+.notice {
+	PADDING-BOTTOM: 1pt; BACKGROUND-COLOR: #ffff00; PADDING-LEFT: 1pt; =
+PADDING-RIGHT: 1pt; FONT-FAMILY: arial; COLOR: #ff0000; FONT-WEIGHT: =
+bold; PADDING-TOP: 1pt
+}
+.emergency {
+	FONT-FAMILY: arial; COLOR: red; FONT-SIZE: 12px
+}
+.hotboxTitle {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: =
+12px; FONT-WEIGHT: bold
+}
+.hotbox {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; COLOR: #000000; =
+FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+.hotboxSHD {
+	BACKGROUND-COLOR: #fdf4f5; FONT-FAMILY: Verdana, Arial, Helvetica, =
+Sans-Serif; COLOR: #000000; FONT-SIZE: 8pt; FONT-WEIGHT: normal
+}
+.BoxLine {
+	BORDER-BOTTOM-COLOR: #cc3333; BORDER-TOP-COLOR: #cc3333; =
+BORDER-RIGHT-COLOR: #cc3333; BORDER-LEFT-COLOR: #cc3333
+}
+.Boxtextblack {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; COLOR: #000000; =
+FONT-SIZE: 10px
+}
+.Boxtextblack A {
+	COLOR: #000099; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.Boxtextblack A:hover {
+	COLOR: #cc0000
+}
+.Boxtextblack A:visited {
+	COLOR: #000099
+}
+.Boxtextred {
+	FONT-FAMILY: tahoma, sans-serif; COLOR: #960018; FONT-SIZE: 10px; =
+FONT-WEIGHT: bold
+}
+.Boxtextred A {
+	COLOR: #990033; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.Boxtextred A:hover {
+	COLOR: #000099
+}
+.Boxtextred A:visited {
+	COLOR: #990033
+}
+.rightTitle {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: =
+12px; FONT-WEIGHT: bold
+}
+.BulletSq {
+	LIST-STYLE-TYPE: square; COLOR: gray; FONT-SIZE: medium
+}
+TD.NavBar {
+	BACKGROUND-COLOR: #d3e1fa; FONT-FAMILY: Verdana, Arial, Helvetica, =
+Sans-Serif; COLOR: #003466; FONT-SIZE: 9px; FONT-WEIGHT: bold
+}
+.NavBar A {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; COLOR: #003466; =
+FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.NavBar A:visited {
+	COLOR: #003466
+}
+.NavBar A:hover {
+	COLOR: #003466
+}
+.data {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-LEFT: 15px; =
+FONT-SIZE: 12px; CURSOR: default
+}
+.misctext {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; COLOR: #000000; =
+FONT-SIZE: 12px
+}
+.misctext A {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; COLOR: #000099; =
+FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.misctext A:hover {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; COLOR: #990033; =
+FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.contactinfo {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; COLOR: #333333; =
+FONT-SIZE: 12px
+}
+.contactinfo A {
+	COLOR: #000099
+}
+.footnotes {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000000; FONT-SIZE: =
+8pt; FONT-WEIGHT: 400
+}
+.footnotes A {
+	FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: #000099; FONT-SIZE: =
+8pt; FONT-WEIGHT: 400; TEXT-DECORATION: none
+}
+.footnotes A:hover {
+	COLOR: #990033; TEXT-DECORATION: underline
+}
+TH.SM_SectionHead {
+	BACKGROUND-COLOR: #d3e1fa; TEXT-INDENT: 1pt; FONT-FAMILY: Arial, =
+Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.SM_tblHeadGrey {
+	BACKGROUND-COLOR: #e4e4e4; TEXT-INDENT: 1pt; FONT-FAMILY: Arial, =
+Helvetica, sans-serif; COLOR: #000000; FONT-SIZE: 8pt; FONT-WEIGHT: bold
+}
+.SM_SubSectionSHD {
+	BACKGROUND-COLOR: #f4f4f4; TEXT-INDENT: 1pt; FONT-FAMILY: Arial, =
+Helvetica, Sans-Serif; COLOR: #000000; FONT-SIZE: 8pt; FONT-WEIGHT: 400
+}
+.SM_SubSection {
+	TEXT-INDENT: 1pt; FONT-FAMILY: Arial, Helvetica, Sans-Serif; COLOR: =
+#000000; FONT-SIZE: 8pt; FONT-WEIGHT: 400
+}
+.tbl_bkd {
+	BACKGROUND-COLOR: #e4eef8
+}
+TD.NavBarRow2 {
+	BACKGROUND-COLOR: #d3e1fa; FONT-FAMILY: Verdana, Arial, Helvetica, =
+Sans-Serif; COLOR: #9eb5cb; FONT-SIZE: 9px; FONT-WEIGHT: bold
+}
+.NavBarRow2 A {
+	FONT-FAMILY: Verdana, Arial, Helvetica, Sans-Serif; COLOR: #9eb5cb; =
+FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.NavBarRow2 A:visited {
+	COLOR: #9eb5cb
+}
+.NavBarRow2 A:hover {
+	COLOR: #003466
+}
+#annualsurvey {
+	Z-INDEX: 1; BORDER-BOTTOM: #000000 2px solid; POSITION: absolute; =
+BORDER-LEFT: #000000 2px solid; PADDING-BOTTOM: 20px; BACKGROUND-COLOR: =
+#fff; PADDING-LEFT: 20px; WIDTH: 625px; PADDING-RIGHT: 20px; DISPLAY: =
+none; HEIGHT: auto; OVERFLOW: auto; BORDER-TOP: #000000 2px solid; TOP: =
+25%; BORDER-RIGHT: #000000 2px solid; PADDING-TOP: 20px; LEFT: 20%
+}
+
+------=_NextPart_000_0000_01CB8A2C.4C608860
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.eia.doe.gov/styles/eia_header.js
+
+<!--
+function InsertEIAHeaderCode(){
+var	code=3D'<TABLE border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0" title=3D"Search" summary=3D"Contains EIA logo & =
+FirstGov.gov Affiliates search form & glossary">';
+// need border? <TABLE borderColor=3D#ffffff cellSpacing=3D0 =
+cellPadding=3D0 border=3D1>
+    code+=3D'<TBODY> <TR> <TD vAlign=3Dcenter scope=3Dcol noWrap =
+align=3Dleft width=3D"70%" rowSpan=3D2 =
+style=3D"padding-top:6px;padding-left:5px;" >';
+	code+=3D'<IMG src=3D"http://www.eia.gov/images/eia_new3.gif" =
+height=3D55 width=3D501 usemap=3D"#EIALogoMap" border=3D"0"';
+	code+=3D' alt=3D"Energy Information Administration (EIA) Logo - Need =
+Help? 202-586-8800"></TD></TR>';
+//    code+=3D'<TR> <TD scope=3Dcol noWrap borderColor=3D#990000 =
+width=3D"35%" bgColor=3D#e8e8e8>&nbsp;';
+    code+=3D'<TR> <TD align=3D"center" scope=3Dcol noWrap =
+width=3D"30%">';
+// begin FirstGov Affiliates Search.
+// action=3D Sends form parameters to FirstGov Affiliates Search =
+Directory.  DO NOT CHANGE   =20
+    code+=3D'<span class=3D"do-not-print"><form method=3D"get" =
+action=3D"http://usasearch.gov/search">';
+	code+=3D'<input type=3D"hidden" name=3D"affiliate" =
+value=3D"eia.doe.gov">';
+	code+=3D'<input type=3D"hidden" name=3D"v:project" =
+value=3D"firstgov">';
+// ...textbox for your search terms... You may alter the width of the =
+search box here by changing the size=3D"x" parameter
+	code+=3D'<input type=3D"text" name=3D"query" size=3D"20" =
+maxlength=3D"256" title=3D"enter the information you are searching for" =
+/>';
+// submit button is a graphic
+	code+=3D'<input type=3D"image" name=3D"search" alt=3D"enter terms to =
+search" src=3D"http://tonto.eia.doe.gov/search_buttonS.gif" =
+align=3D"absmiddle" border=3D"0" title=3D"click to search EIA">';
+	code+=3D'</form>';  //</fieldset>
+// end FirstGov Affiliates Search.
+// glossary on next line=09
+	code+=3D'&nbsp;<br><A href=3D"http://www.eia.gov/glossary/index.cfm"> =
+';
+	code+=3D'<FONT face=3D"Arial, Helvetica, sans-serif" =
+size=3D2>Glossary</FONT></A></span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  =
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp; &nbsp;';
+    code+=3D'</TD></TR></TBODY></TABLE> '; =20
+	code+=3D'<map name=3D"EIALogoMap"><area shape=3D"rect" =
+coords=3D"7,5,490,55" href=3D"http://www.eia.gov" alt=3D"Return to EIA =
+home page" title=3D"Return to EIA home page"></map>';
+//          <img src=3D"http://tonto.eia.doe.gov/search_button.gif" =
+align=3D"absmiddle">&nbsp;=20
+	document.writeln(code);
+}
+
+
+//-->
+
+
+------=_NextPart_000_0000_01CB8A2C.4C608860
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.eia.doe.gov/styles/eia_footer.js
+
+// EIA footer include
+// 2009.12.09 - integrated site-wide rating stars ... *RC*
+// 2009.12.10 - Integrated EIA and EIA.DOE cookies ... *RC*
+// 2009.12.17 - Modified to check for jquery existance *RC*
+// 2010.01.07 - rewrote uuid and cookie handling to exclude jquery *RC*
+// 2010.05.17 - added dynamic support for ratings & comments *RC*
+// 2010.08.26 - removed all cookies from the global footer *RC*
+//
+//----------//
+<!--
+//////////////////////////////////////////////////
+// DO NOT EDIT                                  //
+//////////////////////////////////////////////////
+
+//////////////////////////////////////////////////
+// Footer
+//////////////////////////////////////////////////
+function InsertEIAFooterCode(){
+
+var	code=3D'<span class=3D"do-not-print"><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" height=3D"82">';
+	// Ratings & Comments ////////////////////////////////////////////
+	// Add rating stars into footer code string (if applicable)
+    code+=3D'<tr><td height=3D"53" valign=3D"top" align=3D"right">';
+    code+=3D'<div id=3D"starsdiv" style=3D"display:none; =
+width:240px;height:51px;"><iframe name=3D"starsdivf" id=3D"starsdivf" =
+frameborder=3D"0" style=3D"height:51px;width:240px;overflow:hidden;" =
+scrolling=3D"no" src=3D"/global/rs/star_shell.cfm" =
+style=3D"margin:0px;padding:0px;" =
+onload=3D"testFunction();"></iframe></div>';
+	// Comment Box //////////////////////////////////////////////////
+    code+=3D'<div id=3D"commentsdiv" style=3D"display:none; =
+width:442px;"><iframe frameborder=3D"0" =
+style=3D"height:220px;width:443px;" scrolling=3D"no" =
+src=3D"/global/rs/comments.cfm" =
+style=3D"margin:0px;padding:0px;"></iframe></div>';
+	code+=3D'<div id=3D"MV"></div>';
+	code+=3D'</td></tr>';
+	//}
+	// Footer Links
+    code+=3D'<tr><td class=3D"NavBar" height=3D"24" valign=3D"middle" =
+align=3D"center">';
+    code+=3D'<a =
+href=3D"http://www.eia.gov/abouteia/privacy_security_policy.cfm">Privacy/=
+Security</a>';
+    code+=3D' | <a =
+href=3D"http://www.eia.gov/abouteia/accessability.cfm">Accessibility</a>'=
+;
+    code+=3D' | <a =
+href=3D"http://www.eia.gov/abouteia/copyrights_reuse.cfm">Copyright & =
+Reuse</a>';
+    code+=3D'&nbsp;&nbsp;&#149;&nbsp;&nbsp;&nbsp;<a =
+href=3D"http://www.eia.gov/contactus.html">Contact Us</a>';
+    code+=3D' | <a href=3D"http://www.eia.gov/feedback/">Feedback</a>';
+    code+=3D' | <a href=3D"http://www.eia.gov/jobs/">Careers</a>';
+    code+=3D' | <a href=3D"http://www.eia.gov/abouteia/">About =
+EIA</a></td>';
+    code+=3D'</tr><tr><td class=3D"NavBarRow2" height=3D"24" =
+valign=3D"middle" align=3D"center">';
+    code+=3D'<a href=3D"http://www.fedstats.gov/"> Fedstats</a>';
+    code+=3D' | <a href=3D"http://www.usa.gov/">USA.gov</a>';
+    code+=3D' | <a href=3D"http://www.energy.gov/">Department of =
+Energy</a></td>';
+    code+=3D'</tr><tr>';
+    code+=3D'<td class=3D"NavBarRow2" height=3D"10" valign=3D"middle" =
+align=3D"center">&nbsp;</td>';
+    code+=3D'</tr></table></span>';
+    // Write footer
+    document.writeln(code);
+	//parent.testFunction();
+	//parent.starsdivf.testFunction();
+	//window.frames.starsdivf.testFunction();
+	//document.getElementsByID('starsdivf').contentWindow.testFunction();
+	//window.parent.testFunction();
+	//window.frames['starsdivf'].testFunction();
+	// document.getElementById('starsdivf').contentWindow.testFunction();
+   =20
+//////////////////////////////////////////////////
+// DO NOT EDIT BELOW HERE                       //
+//////////////////////////////////////////////////
+
+}
+
+=09
+function silentErrorHandler() {return true;}
+	window.onerror=3DsilentErrorHandler;
+
+//-->
+------=_NextPart_000_0000_01CB8A2C.4C608860--

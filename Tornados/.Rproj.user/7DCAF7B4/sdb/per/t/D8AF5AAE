@@ -1,0 +1,17 @@
+{
+    "contents" : "# Scatterplot.r\n#\n\nrequire(ggplot2)\n\nload(\"USTornadoes.rda\")\n\nggplot( USTornadoes, aes( x=Year, y=Tornadoes )) +\n  geom_point() +\n  geom_smooth(method=lm) +\n  ggtitle(\"US Tornadoes from 1982-2012\") +\n  annotate(\"text\", 2005,3,label\"Source:National Weather Service, http://www.crh.noaa.gov/mkx/?n=taw-part4-tornado_stats\")\n\n\n",
+    "created" : 1411415533134.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3702168506",
+    "id" : "D8AF5AAE",
+    "lastKnownWriteTime" : 1411416643,
+    "path" : "~/Data/Tornados/Scatterplot.r",
+    "project_path" : "Scatterplot.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

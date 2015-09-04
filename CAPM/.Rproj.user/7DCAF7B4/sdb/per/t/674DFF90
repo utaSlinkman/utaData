@@ -1,0 +1,17 @@
+{
+    "contents" : "# Oracle.r\n\nrequire(ggplot2)                                      # For graphics grammar plotting\n\nsource(\"~/utaR/bootSlope.r\")                          # Required to bootstrap the slope\n\nload(\"CAPM.rda\")                                      # Load CAP< data\n\nCAPM <- na.omit(CAPM)\n\nggplot( CAPM, aes( x=SP500r, y=ORCLr )) +\n  geom_point( ) +\n  geom_smooth(method=lm, se=FALSE) +\n  xlab( \"Daily market return measured by SP500\" ) +\n  ylab( \"Daily return for Oracle\") +\n  ggtitle( \"Capital asset pricing Model for Oracle from 2013-09-20 to 2014-09-20\"  )\n\nRm <- CAPM$SP500r\nRorcl <- CAPM$ORCL\n\nolsFit <- lm( Rorcl ~ Rm  )\nsummary(olsFit)\n\nbootFit <- bootSlope( Rm, Rorcl )\nbootFit\nplot(bootFit)\nboot.ci(bootFit)",
+    "created" : 1411236686645.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "472987433",
+    "id" : "674DFF90",
+    "lastKnownWriteTime" : 1411334798,
+    "path" : "~/Data/CAPM/Oracle.r",
+    "project_path" : "Oracle.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

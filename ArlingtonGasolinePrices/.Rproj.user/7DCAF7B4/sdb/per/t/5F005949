@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1410280446159.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5F005949",
+    "lastKnownWriteTime" : 28429440806879331,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "ArlingtonGasolinePrices",
+        "contentUrl" : "content?title=ArlingtonGasolinePrices&file=1f7e240043294223a0ebbc7b063afb3f.htm",
+        "displayedObservations" : 79,
+        "displayedVariables" : 2,
+        "totalObservations" : 79,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

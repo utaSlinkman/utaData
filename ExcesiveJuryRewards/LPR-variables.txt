@@ -1,0 +1,33 @@
+Variables						Type		Description
+
+Cases							String		Parts involved in the trial.
+Geressy							0/1			1 if Geressy's case was comparable to this one.
+Jackson							0/1			1 if Jackson's case was comparable to this one.
+Rotolo							0/1			1 if Rotolo's case was comparable to this one.
+Award							Double		Amount granted for pain and suffering indemnification in this case.
+Decision Year					Integer		Year in which this case was decided.
+RSI								0/1			1 if the victim suffered from RSI.
+Nerve Damage					0/1			1 if the victim suffered from nerve damage.
+Death							0/1			1 if the victim died.
+Upper Limb						0/1			1 if the victim's upper limb was damaged.
+Lower Limb						0/1			1 if the victim's lower limb was damaged.
+Back							0/1			1 if the victim's back was damaged.
+Head							0/1			1 if the victim's head was damaged.
+Pelvis							0/1			1 if the victim's pelvis was damaged.
+Place of Damage					String		Brief description of the type of damage.	
+Amputation						0/1			1 if the victim suffered from amputation of a limb.
+Surgery							0/1			1 if the victim had to go through surgery.
+Excruciating Pain				0/1			1 if, in the process of suffering the damage, the victim
+											went through moments of untolerable pain (evaluated by the authors).
+Permanent Pain					0/1			1 if, even after treatment, the victim kept suffering from pain caused by the damage.
+Permanent Physical Disability	0/1			1 if the victim suffered from permanent physical disability.
+Total Loss of Limb Function		0/1			1 if the victim completely loss control over a limb.
+Victim Profession				String		Description of victim's profession.
+Victim Age						Integer		Victim's age in years.
+Victim is Consumer				0/1			1 if the victim was a consumer of a product which generated the damage.
+Work Related					0/1			1 if the victim was damaged while working.
+Failure to Warn					0/1			1 if the victim was damaged while using a product which did not warn about the possibility of this damage.
+Negligence						0/1			1 if the victim was damaged due to negligent behavior.
+Continuated Damaging Activity	0/1			1 if the victim was damaged while performing some kind of continuated activity.
+High Damage						0/1			1 in case a case not comparable to any of the victims marked 1
+											for at least one of: death, head damage, amputation and total loss of limb function

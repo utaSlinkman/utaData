@@ -1,0 +1,16 @@
+{
+    "contents" : "# getNext.t\nrm( list=ls() )\nload(\"~/Data/Hawaii Life/CondoSample.rda\")\nposition <- position + 1\nsave( position, \n      CondoSample,\n      file=\"~/Data/Hawaii Life/CondoSample.rda\" )\nCondoSample[position,]\n\n    ",
+    "created" : 1429908822165.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3286941725",
+    "id" : "5BECADEB",
+    "lastKnownWriteTime" : 1428267848,
+    "path" : "~/Data/Hawaii Life/getNext.r",
+    "project_path" : "getNext.r",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
