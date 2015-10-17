@@ -1,0 +1,69 @@
+Minitab Portable Worksheet P1.1             20061110 Rel    14.0               .
+%      3      1     51    -29 CEO                                              .
+Melvin     R.      Goodes     Jerry      D.      Choate                        .
+Charles    K.      Gifford    Harvey     Golub                                 .
+John       F.      Welch      Louis      V.      Gerstner                      .
+Thomas     H.      O'Brien    Walter     V.      Shipley                       .
+John       S.      Reed       Terrence   Murray                                .
+William    T.      Esrey      Hugh       L.      McColl                        .
+James      E.      Cayne      John       R.      Stafford                      .
+John       B.      McCoy      Frank      C.      Herringer                     .
+Ralph      S.      Larsen     Paul       Hazen                                 .
+Lawrence   A.      Bossidy    Charles    R.      Shoemate                      .
+James      E.      Perrella   William    P.      Stiritz                       .
+Duane      L.      Burnham    Richard    C.      Notebaert                     .
+Raymond    W.      Smith      Warren     E.      Buffett                       .
+Donald     V.      Fites      Vernon     R.      Louckes                       .
+Michael    R.      Bonsignore Edward     E.      Whitacre                      .
+Peter      I.      Bijur      Mike       R.      Bowlin                        .
+H.         Lawrence Fuller    Ray        R.      Irani                         .
+Charles    R.      Lee        John       W.      Snow                          .
+Philip     M.      Condit     Joseph     T.      Gorman                        .
+H.         John    Riley      Richard    B.      Priory                        .
+Leland     E.      Tollett    Bruce      E.      Ranck                         .
+William    H.      Joyce      Thomas     E.      Capps                         .
+Scott      G.      McNealy    William    H.      Gates                         .
+Sanford    I.      Weill      Frank      V.      Cahouet                       .
+William    C.      Steere     Donald     B.      Marron                        .
+ChristopherB.      Galvin                                                      .
+%      3      2     51    -19 Company                                          .
+Warner-Lambert      Allstate            BankBoston          AmericanExpress     
+GeneralElectric     IBM                 PNCBank             ChaseManhattan      
+Citicorp            FleetFinancial      Sprint              Nationsbank         
+BearStearns         AmerHomeProducts    BancOne             Transamerica        
+Johnson&Johnson     WellsFargo          AlliedSignal        Bestfoods           
+Ingersoll-Rand      RalstonPurina       AbbottLabs          Ameritech           
+BellAtlantic        BerkshireHathaway   Caterpillar         BaxterInternational 
+Honeywell           SBCComm.            Texaco              AtlanticRichfield   
+Amoco               OccidentalPetrol    GTE                 CSX                 
+Boeing              TRW                 CooperIndustries    DukeEnergy          
+TysonFoods          Browning-Ferris     UnionCarbide        DominionResources   
+SunMicrosystems     Microsoft           TravelersGroup      MellonBank          
+Pfizer              Painewebber         Motorola                               .
+%      3      3     51      0 Handicap                                         .
+ 1.100000000E+01 1.010000000E+01 2.000000000E+01 2.110000000E+01 3.800000000E+00
+ 1.310000000E+01 7.100000000E+00 1.720000000E+01 1.300000000E+01 1.010000000E+01
+ 1.010000000E+01 1.100000000E+01 1.260000000E+01 1.090000000E+01 7.600000000E+00
+ 1.060000000E+01 1.610000000E+01 1.090000000E+01 1.260000000E+01 1.760000000E+01
+ 1.280000000E+01 1.300000000E+01 1.560000000E+01 1.920000000E+01 1.370000000E+01
+ 2.200000000E+01 1.860000000E+01 1.190000000E+01 2.200000000E+01 1.000000000E+01
+ 2.710000000E+01 1.660000000E+01 8.000000000E+00 1.550000000E+01 1.480000000E+01
+ 1.280000000E+01 2.420000000E+01 1.810000000E+01 1.800000000E+01 1.000000000E+01
+ 1.600000000E+01 2.300000000E+01 1.900000000E+01 1.800000000E+01 3.200000000E+00
+ 2.390000000E+01 1.800000000E+01 2.200000000E+01 3.400000000E+01 2.500000000E+01
+ 1.170000000E+01                                                               .
+%      3      4     51      0 StockRate                                        .
+ 8.500000000E+01 8.300000000E+01 8.200000000E+01 7.900000000E+01 7.700000000E+01
+ 7.500000000E+01 7.400000000E+01 7.300000000E+01 7.200000000E+01 6.700000000E+01
+ 6.600000000E+01 6.400000000E+01 6.400000000E+01 5.800000000E+01 5.800000000E+01
+ 5.500000000E+01 5.400000000E+01 5.400000000E+01 5.100000000E+01 4.900000000E+01
+ 4.900000000E+01 4.800000000E+01 4.600000000E+01 4.500000000E+01 4.400000000E+01
+ 4.300000000E+01 4.100000000E+01 4.000000000E+01 3.800000000E+01 3.700000000E+01
+ 3.500000000E+01 3.500000000E+01 3.300000000E+01 3.100000000E+01 2.900000000E+01
+ 2.900000000E+01 2.500000000E+01 2.400000000E+01 2.200000000E+01 2.200000000E+01
+ 2.000000000E+01 1.500000000E+01 1.300000000E+01 1.200000000E+01 9.700000000E+01
+ 9.500000000E+01 9.500000000E+01 9.200000000E+01 8.900000000E+01 8.900000000E+01
+ 3.000000000E+00                                                               .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

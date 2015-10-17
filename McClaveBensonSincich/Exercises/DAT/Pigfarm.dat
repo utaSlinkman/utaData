@@ -1,0 +1,11 @@
+LessThan1000  None    42
+LessThan1000  College 53
+1000-2000     None    27
+1000-2000     College 42
+2000-5000     None    22
+2000-5000     College 20
+MoreThan5000  None    27
+MoreThan5000  College 29
+
+
+

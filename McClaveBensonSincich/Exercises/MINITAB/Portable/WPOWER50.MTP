@@ -1,0 +1,92 @@
+Minitab Portable Worksheet P1.1             20061110 Rel    14.0               .
+%      3      1     50      0 RANK                                             .
+ 1.000000000E+00 2.000000000E+00 3.000000000E+00 4.000000000E+00 5.000000000E+00
+ 6.000000000E+00 7.000000000E+00 8.000000000E+00 9.000000000E+00 1.000000000E+01
+ 1.100000000E+01 1.200000000E+01 1.300000000E+01 1.400000000E+01 1.500000000E+01
+ 1.600000000E+01 1.700000000E+01 1.800000000E+01 1.900000000E+01 2.000000000E+01
+ 2.100000000E+01 2.200000000E+01 2.300000000E+01 2.400000000E+01 2.500000000E+01
+ 2.600000000E+01 2.700000000E+01 2.800000000E+01 2.900000000E+01 3.000000000E+01
+ 3.100000000E+01 3.200000000E+01 3.300000000E+01 3.400000000E+01 3.500000000E+01
+ 3.600000000E+01 3.700000000E+01 3.800000000E+01 3.900000000E+01 4.000000000E+01
+ 4.100000000E+01 4.200000000E+01 4.300000000E+01 4.400000000E+01 4.500000000E+01
+ 4.600000000E+01 4.700000000E+01 4.800000000E+01 4.900000000E+01 5.000000000E+01
+%      3      2     50    -22 NAME                                             .
+Meg Whitman            Anne Mulcahy           Brenda Barnes                    .
+Oprah Winfrey          Andrea Jung            Pat Woertz                       .
+Sallie Krawcheck       Abigail Johnson        Karen Katen                      .
+Judy McGrath           Indra Nooyi            Christine Poon                   .
+Ann Moore              Pat Russo              Ginni Rometty                    .
+Anne Sweeney           Susan Arnold           Ann Livermore                    .
+Zoe Cruz               Charlene Begley        Martha Stewart                   .
+Anne Stevens           Susan Desmond-Hellmann Susan Ivey                       .
+Amy Woods Brinkley     Shelly Lazarus         Irene Rosenfeld                  .
+Heidi Miller           Linda Dillman          Mary Minnick                     .
+Carol Bartz            Doreen Toben           Stacey Snider                    .
+Cathleen Black         Lisa Weber             Lois Quam                        .
+Carrie Cox             Nancy Peretsman        Mary Sammons                     .
+Susan Decker           Dawn Hudson            Amy Pascal                       .
+Claire Watts           Vivian Banta           Ellyn McColgan                   .
+Ellen Kullman          Barbara Desoer         Ursula Burns                     .
+Safra Catz             Kathy Cassidy                                           .
+%      3      3     50      0 AGE                                              .
+ 4.900000000E+01 5.200000000E+01 5.100000000E+01 5.100000000E+01 4.700000000E+01
+ 5.200000000E+01 4.000000000E+01 4.300000000E+01 5.600000000E+01 5.200000000E+01
+ 4.900000000E+01 5.300000000E+01 5.500000000E+01 5.300000000E+01 4.800000000E+01
+ 4.700000000E+01 5.100000000E+01 4.700000000E+01 5.000000000E+01 3.900000000E+01
+ 6.400000000E+01 5.600000000E+01 4.800000000E+01 4.600000000E+01 4.900000000E+01
+ 5.800000000E+01 5.200000000E+01 5.100000000E+01 4.900000000E+01 4.500000000E+01
+ 5.700000000E+01 5.500000000E+01 4.400000000E+01 6.100000000E+01 4.200000000E+01
+ 4.400000000E+01 4.800000000E+01 5.100000000E+01 5.900000000E+01 4.200000000E+01
+ 4.700000000E+01 4.700000000E+01 4.500000000E+01 5.500000000E+01 5.100000000E+01
+ 4.900000000E+01 5.300000000E+01 4.700000000E+01 4.300000000E+01 5.100000000E+01
+%      3      4     50    -31 COMPANY                                          .
+eBay                            Xerox                                          .
+Sara Lee                        Harpo                                          .
+Avon                            Chevron                                        .
+Citigroup                       Fidelity                                       .
+Pfizer                          Viacom                                         .
+PepsiCo                         Johnson & Johnson                              .
+Time Inc.                       Lucent Technologies                            .
+IBM                             Walt Disney                                    .
+Procter & Gamble                Hewlett-Packard                                .
+Morgan Stanley                  General Electric                               .
+Martha Stewart Living Omnimedia Ford Motor                                     .
+Genentech                       Reynolds American                              .
+Bank of America                 WPP                                            .
+PepsiCo                         J.P. Morgan Chase                              .
+Wal-Mart                        Coca-Cola                                      .
+Autodesk                        Verizon                                        .
+GE                              Hearst Magazines                               .
+MetLife                         United Health Group                            .
+Schering-Plough                 Allen & Co.                                    .
+Rite Aid                        Yahoo                                          .
+PepsiCo                         Sony                                           .
+Wal-Mart                        Prudential Financial                           .
+Fidelity                        DuPont                                         .
+Bank of America                 Xerox                                          .
+Oracle                          General Electric                               .
+%      3      5     50    -13 TITLE                                            .
+CEO/Chairman  CEO/Chairman  CEO/President Chairman      CEO/Chairman           .
+EVP           CFO           President     Vice Chair    CEO/Chairman           .
+CFO/President Vice Chair    CEO/Chairman  CEO/Chairman  SVP                    .
+President     Vice Chair    EVP           President     CEO/President          .
+Founder       COO           President     CEO/President CRO                    .
+CEO/Chairman  CEO/Chairman  CEO           CIO/EVP       EVP                    .
+CEO/Chairman  CFO           Chairman      President     President              .
+CEO           EVP           EVP           CEO/President CFO/EVP                .
+CEO/President Vice Chair    EVP           Vice Chair    President              .
+Vice Chair    Executive     SVP           President     Treasurer              .
+%      3      6     50      0 GROUP                                            .
+ 1.000000000E+00 1.000000000E+00 1.000000000E+00 2.000000000E+00 1.000000000E+00
+ 3.000000000E+00 2.000000000E+00 2.000000000E+00 3.000000000E+00 1.000000000E+00
+ 1.000000000E+00 3.000000000E+00 1.000000000E+00 1.000000000E+00 3.000000000E+00
+ 2.000000000E+00 3.000000000E+00 3.000000000E+00 2.000000000E+00 1.000000000E+00
+ 4.000000000E+00 2.000000000E+00 2.000000000E+00 1.000000000E+00 2.000000000E+00
+ 1.000000000E+00 1.000000000E+00 2.000000000E+00 2.000000000E+00 3.000000000E+00
+ 1.000000000E+00 2.000000000E+00 2.000000000E+00 2.000000000E+00 2.000000000E+00
+ 2.000000000E+00 3.000000000E+00 3.000000000E+00 1.000000000E+00 2.000000000E+00
+ 1.000000000E+00 3.000000000E+00 3.000000000E+00 3.000000000E+00 2.000000000E+00
+ 3.000000000E+00 4.000000000E+00 3.000000000E+00 2.000000000E+00 4.000000000E+00
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

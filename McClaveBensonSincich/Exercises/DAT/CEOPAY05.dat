@@ -1,0 +1,501 @@
+RANK CEO COMPANY PAY2005 PAY5YRS SHARES AGE EFFICIENCY INDUSTRY
+ "James E Rogers" "Duke Energy"   31.7 58  Utilities
+ "Michael T Fries" "Liberty Global"   2.7 43  Telecommunications
+ "H Garrett Thornburg Jr" "Thornburg Mortgage"   33 60  "Diversified Financials"
+ "A Jerrold Perenchio" "Univision Commun" 0  1224.4 75  Media
+1 "Richard D Fairbank" "Capital One Financial" 249.42 448.58 187.5 55 167 "Diversified Financials"
+2 "Terry S Semel" Yahoo 230.555 258.292 61.1 63  "Software & Services"
+3 "Henry R Silverman" Cendant 139.96 279.21 159.1 65 178 Services/Supplies
+4 "Bruce Karatz" "KB Home" 135.53 227.37 124.7 60 124 Construction
+5 "Richard S Fuld Jr" "Lehman Bros Holdings" 122.67 375.81 642.2 60 117 "Diversified Financials"
+6 "Ray R Irani" "Occidental Petroleum" 80.73 198.44 38.6 71 102 "Oil & Gas"
+7 "Lawrence J Ellison" Oracle 75.33 868.93 16702.4 61 175 "Software & Services"
+8 "John W Thompson" Symantec 71.84 131.65 25.1 57 33 "Software & Services"
+9 "Edwin M Crawford" "Caremark Rx" 69.66 161.85 3.9 57 39 "Health Care"
+10 "Angelo R Mozilo" "Countrywide Financial" 68.955 160.14 46.3 67 68 "Diversified Financials"
+11 "John T Chambers" "Cisco Systems" 62.99 103.44 70.5 56 176 "Technology Equipment"
+12 "R Chad Dreier" "Ryland Group" 56.47 150.22 33.2 58 45 Construction
+13 "Lew Frankfort" Coach 55.99 208.34 148.9 60  "Household/Personal Products"
+14 "Ara K Hovnanian" "Hovnanian Enterprises" 47.83 89.04 260.9 48 22 Construction
+15 "John G Drosdick" Sunoco 46.19 93.52 28.3 62  "Oil & Gas"
+16 "Robert I Toll" "Toll Brothers" 41.31 134.7 674.7 65 115 Construction
+17 "Robert J Ulrich" Target 39.635 104.56 52.4 63 154 Retailing
+18 "Kevin B Rollins" Dell 39.315  0.5 53  "Technology Equipment"
+19 "Clarence P Cazalot Jr" "Marathon Oil" 37.48 52.68 25.8 55  "Oil & Gas"
+20 "David C Novak" "Yum Brands" 37.42 81.75 30.5 53 92 Hotels/Restaurants/Leisure
+21 "Mark G Papa" "EOG Resources" 36.54 51.7 54 59 23 "Oil & Gas"
+22 "Henri A Termeer" Genzyme 36.38 83.62 43.8 60 71 "Diversified Financials"
+23 "Richard C Adkerson" "Freeport Copper" 35.41 73.203 30 59  Materials
+24 "Kevin W Sharer" Amgen 34.49 75.56 9.2 58  "Diversified Financials"
+25 "Jay Sugarman" "IStar Financial" 32.935 132.26 110.6 43 99 "Diversified Financials"
+26 "George David" "United Technologies" 32.73 225.14 102.6 64 119 Conglomerates
+27 "Bob R Simpson" "XTO Energy" 32.19 157.42 331.4 57 27 "Oil & Gas"
+28 "J Terrence Lanni" "MGM Mirage" 31.54 81.33 10.2 63  Hotels/Restaurants/Leisure
+29 "Paul E Jacobs" Qualcomm 31.436  77.5 64  "Technology Equipment"
+30 "Stephen F Bollenbach" "Hilton Hotels" 31.435 67.36 2.3 63 137 Hotels/Restaurants/Leisure
+31 "James J Mulva" ConocoPhillips 31.34 83.47 149.5 59 100 "Oil & Gas"
+32 "John J Mack" "Morgan Stanley" 31.23  145.7 61  "Diversified Financials"
+33 "Ronald A Williams" Aetna 30.866  32.5 57  "Health Care"
+34 "David J Lesar" Halliburton 29.36 58.87 53.1 53  "Oil & Gas"
+35 "H Edward Hanway" Cigna 28.82 78.31 79.7 54 166 "Health Care"
+36 "James E Cayne" "Bear Stearns Cos" 28.4 132.14 903.9 72 122 "Diversified Financials"
+37 "Daniel P Amos" Aflac 27.97 86.94 273 54 126 Insurance
+38 "Kent J Thiry" DaVita 27.885 56.17 6.5 50  "Health Care"
+39 "John W Rowe" Exelon 26.9 51.75 31.9 60  Utilities
+40 "James M Cornelius" Guidant 25.18  37.3 62  "Health Care"
+41 "John B Hess" "Amerada Hess" 24.9 40.35 820.3 52 158 "Oil & Gas"
+42 "Harold W McGraw III" "McGraw-Hill Cos" 24.72 60.35 74.4 57 29 Media
+43 "Michael J Ward" CSX 23.81 27.762 15.1 55  Transportation
+44 "K Rupert Murdoch" "News Corp" 23.64 60.512 6155.3 75  Media
+45 "Paul M Montrone" "Fisher Scientific" 23.43 66.6 73.2 65 161 "Health Care"
+46 "John C Martin" "Gilead Sciences" 22.86 64.27 44.9 54 10 "Diversified Financials"
+47 "Robert L Nardelli" "Home Depot" 22.805 90.3 128 57  Retailing
+48 "Stuart A Miller" Lennar 22.53 89.57 82.8 48 74 Construction
+49 "E Stanley O'Neal" "Merrill Lynch" 22.41 51.202 97.7 54  "Diversified Financials"
+50 "J Raymond Elliott" "Zimmer Holdings" 22.39 45 4.4 56  "Health Care"
+51 "Charles R Schwab" "Charles Schwab" 22.2  4121.1 68  "Diversified Financials"
+52 "Henry C Duques" "First Data" 22.05  0.7 62  "Software & Services"
+53 "Thomas E Freston" Viacom   0 60  Media
+54 "Marion O Sandler" "Golden West Finl" 21.74 42.03 2006.3 75 52 Banking
+55 "Ramani Ayer" "Hartford Finl Service" 21.5 48.44 23 58 152 Insurance
+56 "Samuel J Palmisano" IBM 21.3 57.58 28 54  "Technology Equipment"
+57 "Paul C Saville" NVR 20.23  140.2 50  Construction
+58 "Leslie Moonves" CBS   1 57  Media
+59 "Charles O Prince" Citigroup 19.94 49.253 70.3 56  Banking
+60 "Lewis B Campbell" Textron 19.93 57.38 52.4 59 136 Conglomerates
+61 "J Willard Marriott Jr" "Marriott Intl" 19.71 41.67 1541.5 74 131 Hotels/Restaurants/Leisure
+62 "Ronald L Sargent" Staples 19.65 48.29 37.3 50  Retailing
+63 "Steven A Burd" Safeway 19.475 50.47 11.3 56 180 "Food Markets"
+64 "Edward E Whitacre Jr" AT&T 19.46 92.55 47.6 64 143 Telecommunications
+65 "Gary D Forsee" "Sprint Nextel" 19.42 27.603 47.2 55  Telecommunications
+66 "Kenneth I Chenault" "American Express" 19.28 84.31 56.3 54  "Diversified Financials"
+67 "Jeffrey R Immelt" "General Electric" 19.23 72.23 28.3 50  Conglomerates
+68 "William P Foley II" "Fidelity National Finl" 18.765 77.69 174.5 61 38 Insurance
+69 "Stephen W Sanger" "General Mills" 18.61 35.16 43 60 156 "Diversified Financials"
+70 "Donald J Tomnitz" "DR Horton" 18.24 44.48 20.7 57 28 Construction
+71 "Henry A McKinnell" Pfizer 18.13 77.38 54 63  "Diversified Financials"
+72 "Eli Harari" SanDisk 18.12 36.97 191.5 60 41 "Technology Equipment"
+73 "Thomas M Ryan" CVS 18 56.39 63.8 53 155 Retailing
+74 "R Scot Sellers" Archstone-Smith 17.82 34.66 22.5 49 90 "Diversified Financials"
+75 "Edward M Liddy" Allstate 17.79 62.91 22.1 60 119 Insurance
+76 "Scott A Wolstein" "Developers Diversified" 17.54 69.3 95.2 53 57 "Diversified Financials"
+77 "John E Bryson" "Edison International" 17.1 43.02 21.4 62 104 Utilities
+78 "Louis C Camilleri" "Altria Group" 17.01 46.042 54.1 51  Food/Drink/Tobacco
+79 "Alan G Lafley" "Procter & Gamble" 16.87 41.31 35 58  "Household/Personal Products"
+80 "James E Rohr" "PNC Financial Services" 16.77 38.41 42.1 57  Banking
+81 "Henry M Paulson Jr" "Goldman Sachs Group" 16.4 46.74 632.4 60 158 "Diversified Financials"
+82 "Joseph Neubauer" Aramark 16.16 31.89 604.4 65  Services/Supplies
+83 "Hugh Grant" Monsanto 16.11 22.293 12.3 48  Chemicals
+84 "Michael W Perry" "IndyMac Bancorp" 15.92 42.23 8.7 43 69 Banking
+85 "Dan F Smith" "Lyondell Chemical" 15.61 31.03 7.4 60 144 Chemicals
+86 "Arthur F Ryan" "Prudential Financial" 15.61 51.23 13 63  Insurance
+87 "E James Ferland" "Pub Svc Enterprise" 15.54 29.17 27 64 81 Utilities
+88 "Raymond A Mason" "Legg Mason" 15.37 65.08 300.5 69 87 "Diversified Financials"
+89 "Richard M Kovacevich" "Wells Fargo" 15.16 136.91 112 62 162 Banking
+90 "Thomas P Mac Mahon" "Laboratory Corp Amer" 15.155 55.78 24.6 59 46 "Health Care"
+91 "Mark Hurd" Hewlett-Packard 15.14  13 49  "Technology Equipment"
+92 "Robert K Cole" "New Century Financial" 14.63 25.69 61 58 5 "Diversified Financials"
+93 "G Steven Farris" Apache 14.44 24.482 41.2 58  "Oil & Gas"
+94 "Ralph Lauren" "Polo Ralph Lauren" 14.36 47.91 2602.4 66 64 "Household/Personal Products"
+95 "George A Roche" "T Rowe Price" 14.07 36.5 184.8 64 127 "Diversified Financials"
+96 "Alexander M Cutler" Eaton 14.02 41.96 38.8 54  "Capital Goods"
+97 "F Duane Ackerman" BellSouth 13.97 43.3 27.2 63 98 Telecommunications
+98 "J Steven Whisler" "Phelps Dodge" 13.855 21.97 29.5 51  Materials
+99 "Kerry K Killinger" "Washington Mutual" 13.76 54.16 78 56 89 Banking
+100 "Douglas L Rock" "Smith International" 13.64 54.38 18.9 59 163 "Oil & Gas"
+101 "William D Zollars" "YRC Worldwide" 13.62 33.07 0.8 57 83 Transportation
+102 "John D Wren" "Omnicom Group" 13.485 27.68 31.2 53 85 Media
+103 "Thomas A Renyi" "Bank of New York" 13.44 61.79 41 60 186 Banking
+104 "Brian L Roberts" Comcast 13.36 67.812 325.6 46  Media
+105 "Steven S Reinemund" PepsiCo 13.33 66.25 6.5 58  "Diversified Financials"
+106 "Matthew K Rose" "Burlington Santa Fe" 13.27 28.27 38.1 47  Transportation
+107 "James J O'Brien" Ashland 13.27 18.132 9.2 51  "Oil & Gas"
+108 "Scott G McNealy" "Sun Microsystems" 13.09 55.23 291.8 51 187 "Technology Equipment"
+109 "William Wrigley Jr" "Wm Wrigley Jr" 13 25.24 2196.2 42 114 "Diversified Financials"
+110 "Sidney Taurel" "Eli Lilly and Co" 12.95 32.09 57.2 57 179 "Diversified Financials"
+111 "J Brett Harvey" "Consol Energy" 12.87 17.33 1.9 55 2 Materials
+112 "G Kennedy Thompson" Wachovia 12.72 42.25 33.8 55 113 Banking
+113 "Van B Honeycutt" "Computer Sciences" 12.69 28.8 15.1 61 173 "Software & Services"
+114 "Lawrence F Probst III" "Electronic Arts" 12.59 81.76 40.1 56 30 "Software & Services"
+115 "Bruce Chizen" "Adobe Systems" 12.55 47.9 7 50  "Software & Services"
+116 "Edward J Zander" Motorola 12.54  18.5 59  "Technology Equipment"
+117 "Steve Odland" "Office Depot" 12.53  23.4 47  Retailing
+118 "Arthur D Collins Jr" Medtronic 12.24 51.31 48.1 59  "Health Care"
+119 "John T Cahill" "Pepsi Bottling Group" 12.23 28.08 37 49  "Diversified Financials"
+120 "Robert A Iger" "Walt Disney" 12.176  5.1 55  Media
+121 "Reuben Mark" Colgate-Palmolive 12.07 188.39 332.8 67 180 "Household/Personal Products"
+122 "Joel W Johnson" "Hormel Foods" 12.06 28.28 10.2 62 105 "Diversified Financials"
+123 "Michael D Fraizer" "Genworth Financial" 11.77 25.4 8.3 47  Insurance
+124 "Alan L Boeckmann" Fluor 11.56 33.93 29.6 57  Construction
+125 "Edward H Linde" "Boston Properties" 11.55 39.33 803.1 66 55 "Diversified Financials"
+126 "Jon A Boscia" "Lincoln National" 11.405 39.36 16.3 54 139 Insurance
+127 "James C Mullen" "Biogen Idec" 11.405  4.4 47  "Diversified Financials"
+128 "Robert W Lane" "Deere & Co" 11.11 22.86 7.5 56  "Capital Goods"
+129 "James Dimon" "JPMorgan Chase" 11.036  136.2 50  Banking
+130 "Martin J Sullivan" "American Intl Group" 11  2.9 51  Insurance
+131 "William R Klesse" "Valero Energy" 10.916  33.3 59  "Oil & Gas"
+132 "Joseph W Luter III" "Smithfield Foods" 10.8 41.79 138.3 66 66 "Diversified Financials"
+133 "William W McGuire" "UnitedHealth Group" 10.7 297.21 36.6 58 41 "Health Care"
+134 "Richard D Parsons" "Time Warner" 10.64 32.412 10.7 57  Media
+135 "Mark S McAndrew" Torchmark 10.506  8.4 55  Insurance
+136 "H Lee Scott Jr" "Wal-Mart Stores" 10.465 40.47 40.2 57  Retailing
+137 "John T Schuessler" "Wendy's International" 10.4 26.69 8.3 55 47 Hotels/Restaurants/Leisure
+138 "Paul T Hanrahan" AES 10.3 16.852 2 48  Utilities
+139 "David N Farr" "Emerson Electric" 10.2 24.31 28 51  Conglomerates
+140 "Larry C Glasscock" WellPoint 10.165 56.95 34.8 58  "Health Care"
+141 "R Lawrence Montgomery" Kohl's 10.05 71.75 34.3 56 182 Retailing
+142 "Anthony J Alexander" FirstEnergy 9.98 17.673 19.4 54  Utilities
+143 "Gary W Loveman" "Harrah's Entertain" 9.94 38.382 13.4 46  Hotels/Restaurants/Leisure
+144 "Robert J Genader" "Ambac Financial Group" 9.88 21.903 42.7 58  Insurance
+145 "Timothy R Eller" Centex 9.78  28.2 57  Construction
+146 "Bruce A Smith" Tesoro 9.78 27.01 64.9 63 21 "Oil & Gas"
+147 "David M Cote" Honeywell 9.74 34.472 17.1 53  Conglomerates
+148 "James T Hackett" "Anadarko Petroleum" 9.74 23.083 15.1 52  "Oil & Gas"
+149 "Keith D Nosbusch" "Rockwell Automation" 9.64 12.503 7.9 55  "Capital Goods"
+150 "Norman H Wesley" "Fortune Brands" 9.6 47.01 10.2 56 18 Conglomerates
+151 "L Patrick Hassey" "Allegheny Technologies" 9.41 14.173 11.6 60  Materials
+152 "J Barry Griswell" "Principal Financial" 9.38 21.36 0.1 57  "Diversified Financials"
+153 "Robert L Moody" "American Natl Ins" 9.36 40.81 105.6 70 121 Insurance
+154 "Lawrence R Johnston" Albertsons 9.29 38.65 26.4 57  "Food Markets"
+155 "Mayo A Shattuck III" "Constellation Energy" 9.085 15.562 29.6 51  Utilities
+156 "William R Berkley" "WR Berkley" 9.07 46.99 827.5 60 40 Insurance
+157 "Hector de J Ruiz" "Advanced Micro" 9.02 14.012 8.8 60  Semiconductors
+158 "Jeffrey S Lorberbaum" "Mohawk Industries" 8.96 14.46 1117.6 51  "Consumer Durables"
+159 "James M Cracchiolo" "Ameriprise Financial" 8.83 19.482 8.6 48  "Diversified Financials"
+160 "Mitchell H Caplan" "E-Trade Financial" 8.815  38.1 48  "Diversified Financials"
+161 "David J O'Reilly" Chevron 8.8 37.39 11.2 59 152 "Oil & Gas"
+162 "Frederic M Poses" "American Standard" 8.78 39.19 12.5 64 73 "Capital Goods"
+163 "James L Dolan" "Cablevision NY Group" 8.715 27.64 122.1 50 174 Media
+164 "Frederick W Smith" FedEx 8.67 54.22 2173.1 61 101 Transportation
+165 "Craig S Donohue" "Chicago Mercantile" 8.61  3.6 44  "Diversified Financials"
+166 "Richard J Dugas Jr" "Pulte Homes" 8.59 20.883 17.5 40  Construction
+167 "Ronald D Sugar" "Northrop Grumman" 8.56 26.612 21.3 57  Aerospace/Defense
+168 "Mark Donegan" "Precision Castparts" 8.54 16.603 12.5 48  Aerospace/Defense
+169 "John H Hammergren" McKesson 8.48 38.72 23.3 47 112 "Health Care"
+170 "George A Schaefer Jr" "Fifth Third Bancorp" 8.46 36.93 51.2 60 169 Banking
+171 "Paul J Curlander" "Lexmark International" 8.46 51.96 14.7 53 185 Services/Supplies
+172 "William C Weldon" "Johnson & Johnson" 8.45 28.21 17.4 57  "Diversified Financials"
+173 "H Lawrence Culp Jr" Danaher 8.37 25.72 0.1 43  "Capital Goods"
+174 "John D Johns" "Protective Life" 8.27 16.38 9.3 53  Insurance
+175 "Miles D White" "Abbott Laboratories" 8.24 30.55 28 51 137 Drugs/Biotechnology
+176 "John P Surma" "US Steel" 8.16  11.2 51  Materials
+177 "Daniel R DiMicco" Nucor 8.15 16.34 14.3 55  Materials
+178 "Glenn M Renwick" Progressive 8.14 30.36 49 50  Insurance
+179 "Ivan G Seidenberg" "Verizon Commun" 8.08 57.01 50.7 59 149 Telecommunications
+180 "David N Weidman" Celanese 8.02  12.9 50  Chemicals
+181 "Robert D Walter" "Cardinal Health" 7.98 36.6 282.7 60 127 "Health Care"
+182 "Arthur F Weinbach" "Automatic Data" 7.97 29.43 29.4 63 177 Services/Supplies
+183 "Paul S Otellini" Intel 7.88  13.8 55  Semiconductors
+184 "Edward J Ludwig" "Becton, Dickinson" 7.84 24.98 17.3 54 90 "Health Care"
+185 "Nicholas D Chabraja" "General Dynamics" 7.82 73.97 100.2 63 116 Aerospace/Defense
+186 "Joseph R Tomkinson" "Impac Mortgage Holding" 7.785 19.21 3 58 9 "Diversified Financials"
+187 "Gregory H Boyce" "Peabody Energy" 7.786  2.2 51  Materials
+188 "Richard F Syron" "Freddie Mac" 7.765  2.1 62  "Diversified Financials"
+189 "Ronald E Logue" "State Street" 7.73  3.3 60  Banking
+190 "Christopher M Connor" Sherwin-Williams 7.7 18.4 17.3 50 48 Retailing
+191 "Anne M Mulcahy" Xerox 7.64 26.34 10.7 53  Services/Supplies
+192 "Mark C Pigott" Paccar 7.63 22.25 124.4 52 6 "Consumer Durables"
+193 "Nolan D Archibald" "Black & Decker" 7.53 65.1 34.8 62 83 "Consumer Durables"
+194 "Dale B Wolf" "Coventry Health Care"   14 50  "Health Care"
+195 "John Swainson" CA 7.41  2.9 51  "Software & Services"
+196 "Kenneth D Lewis" "Bank of America" 7.4 64.09 88.1 59  Banking
+197 "Donald E Felsinger" "Sempra Energy" 7.346  22.6 58  Utilities
+198 "Scott D Sheffield" "Pioneer Natural Res" 7.33 16.62 18.2 53 82 "Oil & Gas"
+199 "Scott T Ford" Alltel 7.28 20.472 9 43  Telecommunications
+200 "William A Osborn" "Northern Trust" 7.25 28.12 28.1 58 164 Banking
+201 "William F Hecht" PPL 7.2 23.11 12.6 63 63 Utilities
+202 "Surya N Mohapatra" "Quest Diagnostics" 7.17  6 56  "Health Care"
+203 "Richard A Manoogian" Masco 7.15 52.91 150.6 69 189 Construction
+204 "Bryce Blair" "Avalonbay Communities" 7.14 16.11 18.9 47  "Diversified Financials"
+205 "Dennis H Reilley" Praxair 7.07 22.82 10.3 52 19 Chemicals
+206 "Robert J Keegan" Goodyear 6.96 14.552 2.2 58  "Consumer Durables"
+207 "J Brian Ferguson" "Eastman Chemical" 6.91 11.862 2.4 51  Chemicals
+208 "Terry J Lundgren" "Federated Dept Strs" 6.9 21.412 8.8 54  Retailing
+209 "Russell Goldsmith" "City National" 6.9 27.09 278.8 56 79 Banking
+210 "Ronald E Hermance Jr" "Hudson City Bancorp" 6.825 24.262 42.6 58  Banking
+211 "R David Hoover" Ball 6.76 30.89 35.4 60  Materials
+212 "Patricia F Russo" "Lucent Technologies" 6.76 19.642 10.9 53  "Technology Equipment"
+213 "J Larry Nichols" "Devon Energy" 6.745 15.08 82.4 63 110 "Oil & Gas"
+214 "Vernon W Hill II" "Commerce Bancorp" 6.585 24.32 118.7 60 34 Banking
+215 "John M Barth" "Johnson Controls" 6.56 30.522 19.3 59  "Consumer Durables"
+216 "Leslie H Wexner" "Limited Brands" 6.565 22.98 1303.9 68 140 Retailing
+217 "Theodore M Solso" Cummins 6.53 29 17.6 59 65 "Capital Goods"
+218 "Myron E Ullman III" "JC Penney" 6.52  9.2 59  Retailing
+219 "Luke R Corbett" Kerr-McGee 6.52 20.04 25.8 59 147 "Oil & Gas"
+220 "E Neville Isdell" Coca-Cola 6.49  14.5 62  "Diversified Financials"
+221 "Ian M Cumming" "Leucadia National" 6.445 15.55 725.2 65 36 "Diversified Financials"
+222 "John F Gifford" "Maxim Integrated Prods" 6.4 94.86 96.2 65 108 Semiconductors
+223 "Jerry A Grundhofer" "US Bancorp" 6.38 73.23 92.1 61 150 Banking
+224 "Lewis Hay III" "FPL Group" 6.345 15.822 20.6 50  Utilities
+225 "Glen F Post III" CenturyTel 6.28 20.78 13.3 53 62 Telecommunications
+226 "Mark A King" "Affiliated Computer" 6.216  5.7 49  "Software & Services"
+227 "David A Daberko" "National City" 6.12 36.1 33.5 60 127 Banking
+228 "John Adam Kanas" "North Fork Bancorp" 6.025 29.4 107.5 59 79 Banking
+229 "Joel F Gemunder" Omnicare 6.025 39.78 121.9 66 96 "Health Care"
+230 "Robert S Miller" Delphi 6  0 64  "Consumer Durables"
+231 "C Dowd Ritter" "AmSouth Bancorp" 6 30.06 22.6 58 125 Banking
+232 "Henry L Meyer III" KeyCorp 5.96 20.53 22.1 56  Banking
+233 "William H Swanson" Raytheon 5.93 11.873 20.7 57  Aerospace/Defense
+234 "Michael J Jackson" AutoNation 5.895 16.01 2.8 57  Retailing
+235 "Robert A Essner" Wyeth 5.85 26.04 10.3 58  "Diversified Financials"
+236 "Wendell P Weeks" Corning 5.84  15.9 46  "Technology Equipment"
+237 "Michael G Morris" "American Electric" 5.82  10.3 59  Utilities
+238 "Fred Hassan" Schering-Plough 5.79 10.843 38.2 60  "Diversified Financials"
+239 "Donald E Washkewicz" Parker-Hannifin 5.75 14.4 9.1 55  "Capital Goods"
+240 "Steven R Loranger" "ITT Industries" 5.74  14.5 54  Conglomerates
+241 "John P Jones III" "Air Prods & Chems" 5.67 17.46 12.8 55  Chemicals
+242 "Stephen M Bennett" Intuit 5.65 27.4 16.7 52 132 "Software & Services"
+243 "Chase Carey" "Directv Group" 5.645  0.1 52  Media
+244 "Richard C Notebaert" "Qwest Communications" 5.6 17.552 18.1 58  Telecommunications
+245 "J Wayne Leonard" Entergy 5.59 36.1 11.7 55 24 Utilities
+246 "David L Kyle" Oneok 5.58 14.32 10.8 53  Utilities
+247 "Robert B Pollock" Assurant   1.5 51  Insurance
+248 "Gregory E Johnson" "Franklin Resources" 5.57  50 44  "Diversified Financials"
+249 "John H Tyson" "Tyson Foods" 5.54 28.19 33.7 52  "Diversified Financials"
+250 "Peter R Dolan" "Bristol-Myers Squibb" 5.54 17.8 12.3 50  "Diversified Financials"
+251 "C Robert Henrikson" MetLife 5.506  0.5 58  Insurance
+252 "Robert A Niblock" "Lowe's Cos" 5.5  14 43  Retailing
+253 "Peter A Darbee" PG&E 5.47  5.2 53  Utilities
+254 "Jay S Fishman" "St Paul Travelers" 5.47 13.083 12.3 53  Insurance
+255 "Paul R Charron" "Liz Claiborne" 5.45 37.72 10.8 63 103 "Household/Personal Products"
+256 "John C Plant" "TRW Automotive Hldgs" 5.43 22.193 4.7 52  "Consumer Durables"
+257 "John A Allison IV" BB&T 5.38 21.67 19.1 57 135 Banking
+258 "Antonio M Perez" "Eastman Kodak" 5.35  7.1 60  "Household/Personal Products"
+259 "Douglas R Conant" "Campbell Soup" 5.32 15.78 11.5 54  "Diversified Financials"
+260 "Jerald G Fishman" "Analog Devices" 5.27 81.65 1.3 60 146 Semiconductors
+261 "Dennis J Kuester" "Marshall & Ilsley" 5.21 24.79 19.1 64  Banking
+262 "John D Finnegan" Chubb 5.21 16.972 11.4 57  Insurance
+263 "W James McNerney Jr" Boeing 5.15  30.8 56  Aerospace/Defense
+264 "William Clay Ford Jr" "Ford Motor" 5.14 15.78 80.7 49  "Consumer Durables"
+265 "Rick R Holley" "Plum Creek Timber" 5.06 15.44 6.5 54 133 "Diversified Financials"
+266 "Daniel J Starks" "St Jude Medical" 5.04 10.423 246.9 52  "Health Care"
+267 "Anthony F Earley Jr" "DTE Energy" 5.02 17.09 7.2 56 108 Utilities
+268 "Gary C Dunton" MBIA 5.01 12.863 25.8 50  Insurance
+269 "Robert P May" Calpine 5  0 57  Utilities
+270 "C John Wilder" TXU 4.96  131.3 47  Utilities
+271 "Joseph M Tucci" EMC 4.9 18.45 29.5 58  "Technology Equipment"
+272 "G Richard Wagoner Jr" "General Motors" 4.825 27 7.5 53  "Consumer Durables"
+273 "Michel Mayer" "Freescale Semi" 4.79  2.5 46  Semiconductors
+274 "Robert J Stevens" "Lockheed Martin" 4.78  17.2 54  Aerospace/Defense
+275 "Gregg L Engles" "Dean Foods" 4.755 27.92 55.6 48 35 "Diversified Financials"
+276 "D Paul Jones Jr" "Compass Bancshares" 4.73 16.91 58.5 63 51 Banking
+277 "John V Faraci" "International Paper" 4.71 13.683 29.4 56  Materials
+278 "Richard D Kincaid" "Equity Office Prop" 4.605  19.3 44  "Diversified Financials"
+279 "Steven J Malcolm" "Williams Cos" 4.565 9.242 14.8 57  Utilities
+280 "Ronald L Hoffman" Dover 4.51  0.6 57  Conglomerates
+281 "David B Dillon" Kroger 4.495 9.013 17.6 55  "Food Markets"
+282 "Michael J Critelli" "Pitney Bowes" 4.49 18.73 12.9 57 165 Services/Supplies
+283 "Wesley W von Schack" "Energy East" 4.445 14.99 6.9 62 111 Utilities
+284 "Joel V Staff" "Reliant Energy" 4.39 10.393 6.4 62  Utilities
+285 "Michael F Johnston" Visteon 4.38  5.8 59  "Consumer Durables"
+286 "Peter R Huntsman" Huntsman 4.37 12.462 2547.3 43  Chemicals
+287 "Paul S Pressler" Gap 4.3 13.732 0.1 49  Retailing
+288 "James W Owens" Caterpillar 4.285  19.8 60  "Capital Goods"
+289 "Richard J Schnieders" Sysco 4.26 16.302 12.6 58  "Food Markets"
+290 "James D Sinegal" "Costco Wholesale" 4.25 13.16 148 70 133 Retailing
+291 "Andrew N Liveris" "Dow Chemical" 4.25  1.6 52  Chemicals
+292 "George W Buckley" 3M 4.2  15.9 59  Conglomerates
+293 "James M Jenness" Kellogg 4.19  2.9 59  "Diversified Financials"
+294 "Mark G Parker" NIKE 4.166  6.5 50  "Household/Personal Products"
+295 "James A Skinner" McDonald's 4.16  9.5 61  Hotels/Restaurants/Leisure
+296 "Steven R Rogel" Weyerhaeuser 4.15 15.39 5.8 63 145 Materials
+297 "Marshall O Larsen" Goodrich 4.13 8.663 3.1 57  Aerospace/Defense
+298 "Christopher J Nassetta" "Host Marriott" 4.135 18.92 35.3 43  "Diversified Financials"
+299 "Rex W Tillerson" ExxonMobil   35.3 53  "Oil & Gas"
+300 "Peter J Rose" "Expeditors Intl" 4.1 30.48 65.1 63 16 Transportation
+301 "James R Young" "Union Pacific" 4.076  18.7 54  Transportation
+302 "Richard L Keyser" "WW Grainger" 4.06 15.75 18.6 63 160 "Capital Goods"
+303 "Donald K Peterson" Avaya 4.03 23.82 13.8 56  "Technology Equipment"
+304 "Mark A Angelson" "RR Donnelley & Sons" 4  14.5 55  Media
+305 "Jackson W Moore" "Regions Financial" 3.99  59.5 57  Banking
+306 "Vincent A Gierer Jr" UST 3.98 15.97 20.6 58 59 "Diversified Financials"
+307 "William B Timmerman" Scana 3.91 13.53 2.3 59 94 Utilities
+308 "James D Taiclet Jr" "American Tower" 3.89 8.053 0.2 45  Telecommunications
+309 "Jeffrey M Peek" "CIT Group" 3.86  8.2 58  "Diversified Financials"
+310 "David J Neithercut" "Equity Residential"   13.3 50  "Diversified Financials"
+311 "Susan M Ivey" "Reynolds American" 3.76  3.2 47  "Diversified Financials"
+312 "Ralph W Babb Jr" Comerica 3.75 12.18 11.4 57  Banking
+313 "Jack O Bovender Jr" HCA 3.745 14.3 15.2 60  "Health Care"
+314 "Sheldon G Adelson" "Las Vegas Sands" 3.69 40.492 17272.4 72  Hotels/Restaurants/Leisure
+315 "Richard C Kelly" "Xcel Energy" 3.67  3.6 59  Utilities
+316 "Michael G Cherkasky" "Marsh & McLennan" 3.64  5.8 56  Insurance
+317 "Trevor Fetter" "Tenet Healthcare" 3.64 9.703 2.8 46  "Health Care"
+318 "R David Yost" AmerisourceBergen 3.62 12.53 35.4 59 11 "Health Care"
+319 "Robert A Eckert" Mattel 3.605 43.58 9.3 51  "Household/Personal Products"
+320 "Barry Diller" IAC/InterActiveCorp 3.595 220.14 53.4 64 183 Retailing
+321 "Jeffrey Noddle" Supervalu 3.55 10.322 6.6 60  "Food Markets"
+322 "David W Bernauer" Walgreen 3.54 18.05 9 62  Retailing
+323 "Daniel H Mudd" "Fannie Mae" 3.54  17.1 47  "Diversified Financials"
+324 "William R Johnson" "HJ Heinz" 3.51 28.08 20 57 169 "Diversified Financials"
+325 "Steven Roth" "Vornado Realty" 3.495 11.89 973 64 44 "Diversified Financials"
+326 "Carl H Lindner III" "American Finl Group"   241.5 52  Insurance
+327 "Richard H Lenny" Hershey 3.48 25.65 2.5 54  "Diversified Financials"
+328 "Clayton M Jones" "Rockwell Collins" 3.46 12.05 4.4 56  Aerospace/Defense
+329 "Raymond W McDaniel Jr" Moody's 3.46  6.2 48  Services/Supplies
+330 "Steven J Heyer" "Starwood Hotels" 3.46  1.3 53  Hotels/Restaurants/Leisure
+331 "Robert B McGehee" "Progress Energy" 3.46 8.723 12.5 63  Utilities
+332 "Alain J P Belda" Alcoa 3.45 33.61 29.5 62 184 Materials
+333 "Scott A McGregor" Broadcom 3.44  2.5 50  Semiconductors
+334 "Raj L Gupta" "Rohm and Haas" 3.43 11.33 10.3 60 107 Chemicals
+335 "Aylin B Lewis" "Sears Holdings" 3.42  7.1 51  Retailing
+336 "David M Ratcliffe" "Southern Co" 3.415  0.5 57  Utilities
+337 "Ronald M DeFeo" Terex 3.415 14.51 26.8 54 15 "Capital Goods"
+338 "William P Lauder" "Estee Lauder Cos" 3.4  201.2 46  "Household/Personal Products"
+339 "Gregory C Case" Aon 3.38  5.2 43  Insurance
+340 "Curt S Culver" "MGIC Investment" 3.37 15.24 18.3 53 130 Insurance
+341 "Thomas J Fitzpatrick" SLM 3.35  105.2 57  "Diversified Financials"
+342 "John A Edwardson" CDW 3.35 14.43 9.6 56  Retailing
+343 "Michael B McCallister" Humana 3.33 15.1 18.6 53 3 "Health Care"
+344 "Jeff M Fettig" Whirlpool 3.32  4.1 49  "Consumer Durables"
+345 "James S Tisch" Loews 3.31 10.55 309.2 53 14 Insurance
+346 "Dustan E McCoy" Brunswick 3.286  2.2 57  "Consumer Durables"
+347 "G Allen Andreas" "Archer Daniels" 3.28 14.46 153.1 62 36 "Diversified Financials"
+348 "Dean A Scarborough" "Avery Dennison" 3.25  3.1 50  Services/Supplies
+349 "Jeffrey A Joerres" Manpower 3.21 10.77 11.2 46 70 Services/Supplies
+350 "Lars Westerberg" Autoliv 3.2 11.06 2.6 57 13 "Consumer Durables"
+351 "Jeffrey H Schwartz" ProLogis 3.19  16.7 47  "Diversified Financials"
+352 "David E I Pyott" Allergan 3.18 18.73 5.1 53 25 "Diversified Financials"
+353 "Robert B Catell" KeySpan 3.185 12.86 7.8 69 77 Utilities
+354 "Wayne W Murdy" "Newmont Mining" 3.17 18.02 7.3 61  Materials
+355 "Charles O Holliday Jr" "EI du Pont de Nemours" 3.17 14.6 15.6 58 172 Chemicals
+356 "W Leo Kiely III" "Molson Coors Brewing" 3.175 7.843 5.8 59  "Diversified Financials"
+357 "Gale E Klappa" "Wisconsin Energy" 3.17  1.6 55  Utilities
+358 "Robert L Parkinson Jr" "Baxter International" 3.16  6.6 55  "Health Care"
+359 "Chad C Deaton" "Baker Hughes" 3.13  10.6 53  "Oil & Gas"
+360 "Gregory M Spierkel" "Ingram Micro"   0.1 49  "Technology Equipment"
+361 "Sanford A Ibrahim" "Radian Group" 3.09  3 54  Insurance
+362 "Richard K Templeton" "Texas Instruments" 3.07 25.303 10.9 47  Semiconductors
+363 "David B Speer" "Illinois Tool Works" 3.056  3 55  "Capital Goods"
+364 "Douglas M Baker" Ecolab 3.04  1.8 47  Chemicals
+365 "James R Tobin" "Boston Scientific" 3.03 46.83 2.6 61 167 "Health Care"
+366 "Joseph R Ficalora" "New York Community" 3.025 19.07 58.7 59 8 Banking
+367 "Daniel C Ustian" "Navistar Intl" 2.955 6.043 1.9 55  "Consumer Durables"
+368 "Charles E Bunch" "PPG Industries" 2.94  5.3 56  Chemicals
+369 "Mackey J McDonald" VF 2.93 16.84 6.1 59 58 "Household/Personal Products"
+370 "Margaret C Whitman" Ebay 2.915 6.89 1032.4 49 49 Retailing
+371 "Aubrey K McClendon" "Chesapeake Energy" 2.895 28.39 445.5 45 7 "Oil & Gas"
+372 "William V Hickey" "Sealed Air" 2.86 7.87 24.2 61 148 Materials
+373 "Michael H Jordan" "Electronic Data Sys" 2.85 6.523 1.5 69  "Software & Services"
+374 "Blake W Nordstrom" Nordstrom 2.825 7.9 82.3 45  Retailing
+375 "Robert E Lowder" "Colonial BancGroup" 2.77 11.23 152.6 63 88 Banking
+376 "David Simon" "Simon Property Group" 2.73 14.67 377.3 44 41 "Diversified Financials"
+377 "Claiborne P Deming" "Murphy Oil" 2.73 13.94 134.4 51 60 "Oil & Gas"
+378 "Douglas L Foshee" "El Paso" 2.72 7.483 7 46  "Oil & Gas"
+379 "James L Donald" Starbucks 2.7  0 51  Hotels/Restaurants/Leisure
+380 "Stephen P MacMillan" Stryker 2.68  5.1 42  "Health Care"
+381 "Mark D Ketchum" "Newell Rubbermaid" 2.53  1.3 56  "Household/Personal Products"
+382 "Thomas J Falk" Kimberly-Clark 2.49 13.672 21.6 48  "Household/Personal Products"
+383 "Donald M James" "Vulcan Materials" 2.495 10.09 19.1 57 118 Construction
+384 "Charles W Moorman IV" "Norfolk Southern" 2.486  8.2 54  Transportation
+385 "Neil Smit" "Charter Commun" 2.42  2.9 47  Media
+386 "Charles D Davidson" "Noble Energy" 2.41 8.08 3.3 56  "Oil & Gas"
+387 "L Phillip Humann" "SunTrust Banks" 2.4 10.9 44 60 142 Banking
+388 "Michael J Burns" Dana 2.405  0.3 53  "Consumer Durables"
+389 "Thomas R Watjen" UnumProvident 2.37 8.782 13.5 51  Insurance
+390 "Parker S Kennedy" "First American" 2.365 10.91 129.1 58 50 Insurance
+391 "Bradbury H Anderson" "Best Buy" 2.34 10.172 80.4 56  Retailing
+392 "Richard Sands" "Constellation Brands" 2.3 9.08 442.9 55 17 "Diversified Financials"
+393 "J W Stewart" "BJ Services" 2.3 56.52 34.5 61 150 "Oil & Gas"
+394 "David P Steiner" "Waste Management" 2.29 5.143 7.5 45  Services/Supplies
+395 "Paul S Beideman" "Associated Banc-Corp" 2.27 5.473 4.2 56  Banking
+396 "David M McClanahan" "CenterPoint Energy" 2.265 6.193 2 56  Utilities
+397 "Kenneth M Jastrow II" Temple-Inland 2.25 7.67 18.1 58 72 Materials
+398 "Edward J Kelly III" "Mercantile Bkshs" 2.24 7.14 4.7 53  Banking
+399 "Thomas C Gallagher" "Genuine Parts" 2.23  9.4 58  "Consumer Durables"
+400 "Richard T Clark" "Merck & Co" 2.23  0.4 60  "Diversified Financials"
+401 "William E Mitchell" "Arrow Electronics" 2.2 6.203 8.3 62  "Technology Equipment"
+402 "Frank C Lanza" "L-3 Communications" 2.18 19.76 275.6 74 31 Aerospace/Defense
+403 "Harris H Simmons" "Zions Bancorp" 2.18 8.71 204.3 51 61 Banking
+404 "Thomas J Matthews" "Intl Game Technology" 2.17 6.523 5.4 41  Hotels/Restaurants/Leisure
+405 "Joseph H Moglia" "TD Ameritrade Holding" 2.17 25.84 16.7 56  "Diversified Financials"
+406 "Philip J Schoonover" "Circuit City Stores" 2.17  5.7 45  Retailing
+407 "Christopher J Kearney" SPX 2.14  12.6 50  Conglomerates
+408 "Daniel E Berce" AmeriCredit 2.126  6.5 52  "Diversified Financials"
+409 "Timothy L Main" "Jabil Circuit" 2.1 6.61 10 48  "Technology Equipment"
+410 "Brian L Halla" "Natl Semiconductor" 2.09 26.53 6.5 59 75 Semiconductors
+411 "John A Luke Jr" MeadWestvaco 2.08 9.7 8.3 57 171 Materials
+412 "Paula G Rosput Reynolds" Safeco 2.04  2.9 50  Insurance
+413 "Edward R Muller" Mirant 2.02  0 54  Utilities
+414 "Craig A Dubow" Gannett 2.026  0.5 51  Media
+415 "Gary L Rainwater" Ameren 2.02  4 59  Utilities
+416 "W G Jurgensen" "Nationwide Financial" 2.01 7.04 2.8 54  Insurance
+417 "William S Kirsch" Conseco 2  10 49  Insurance
+418 "John P Wiehoff" "CH Robinson Worldwide" 1.99 6.242 42.6 44  Transportation
+419 "Lothar Maier" "Linear Technology" 1.97  1.4 50  Semiconductors
+420 "David A Perdue Jr" "Dollar General" 1.945  1.6 55  Retailing
+421 "Richard E Anthony" "Synovus Finl" 1.946  22.6 60  Banking
+422 "Lowry F Kline" "Coca-Cola Enterprises" 1.926  11 66  "Diversified Financials"
+423 "Clarence Otis Jr" "Darden Restaurants" 1.91  7.9 50  Hotels/Restaurants/Leisure
+424 "David B Snow Jr" "Medco Health" 1.915  11.1 51  "Health Care"
+425 "Patrick T Stokes" "Anheuser-Busch Cos" 1.89 36.632 20.1 63  "Diversified Financials"
+426 "A C Zucaro" "Old Republic Intl" 1.885 18.32 16.5 67 53 Insurance
+427 "Dennis R Wrasse" "Pepco Holdings" 1.83 3.933 2.3 62  Utilities
+428 "John J Zillmer" "Allied Waste Inds" 1.83  2.5 50  Services/Supplies
+429 "Patrick J Moore" Smurfit-Stone 1.82 10.38 3.7 51  Materials
+430 "Paul C Varga" Brown-Forman 1.796  4 42  "Diversified Financials"
+431 "Roy Vallee" Avnet 1.79 8.88 4.4 53 93 "Technology Equipment"
+432 "Jay S Sidhu" "Sovereign Bancorp" 1.785 11.61 66.8 54 54 Banking
+433 "Felix E Wright" "Leggett & Platt" 1.75 9.05 53.4 70 78 "Consumer Durables"
+434 "Thomas F Farrell II" "Dominion Resources" 1.756  15.1 51  Utilities
+435 "Joseph V Vumbacco" "Health Management" 1.71 17.37 13.5 60  "Health Care"
+436 "Jeffery W Yabuki" Fiserv 1.68  4.1 46  "Software & Services"
+437 "Howard Solomon" "Forest Labs" 1.65 279.69 191.3 78 76 "Diversified Financials"
+438 "David W Joos" "CMS Energy"   5.2 53  Utilities
+439 "Richard L Carrion" Popular 1.62 5.31 63.3 53 85 Banking
+440 "Michael R Splinter" "Applied Materials" 1.61 13.363 5.4 55  Semiconductors
+441 "William R Nuti" NCR 1.61  3.6 42  "Technology Equipment"
+442 "Todd S Nelson" "Apollo-Education Group" 1.53 62.622 0.1 47  Services/Supplies
+443 "Kevin Burke" "Consolidated Edison" 1.536  2.1 55  Utilities
+444 "Charles W Shivery" "Northeast Utilities" 1.53 3.833 3.7 60  Utilities
+445 "Andrea Jung" "Avon Products" 1.49 35.89 4.3 47 55 "Household/Personal Products"
+446 "Steven R Appleton" "Micron Technology" 1.47 4.16 11.4 46 188 Semiconductors
+447 "Douglas M Steenland" "Northwest Airlines"   0 55  Transportation
+448 "Robert E Rossiter" Lear 1.43 31.01 1.6 60  "Consumer Durables"
+449 "Brenda C Barnes" "Sara Lee" 1.436  6.2 52  "Diversified Financials"
+450 "Jonathan J Judge" Paychex 1.41  0.1 52  Services/Supplies
+451 "Mark A Ernst" "H&R Block" 1.4 7.84 5.9 47  Services/Supplies
+452 "J Kenneth Glass" "First Horizon National" 1.39 8.932 21.3 59  Banking
+453 "Ronald L Havner Jr" "Public Storage" 1.38 5.372 1.6 48  "Diversified Financials"
+454 "Dennis J FitzSimons" Tribune 1.36 14.292 13.3 55  Media
+455 "Eric Claus" "Great A&P Tea" 1.35  5.6 48  "Food Markets"
+456 "Mary F Sammons" "Rite Aid" 1.32 7.473 3.1 59  Retailing
+457 "James L Ziemer" Harley-Davidson 1.29  14 56  "Consumer Durables"
+458 "John Chapple" "Nextel Partners" 1.26 13.48 56.7 52 67 Telecommunications
+459 "Michael L Eskew" "United Parcel Service" 1.25 10.88 18.9 56  Transportation
+460 "William C Rhodes III" AutoZone 1.23  0.7 40  Retailing
+461 "Robert E Sadler Jr" "M&T Bank" 1.22  41.3 60  Banking
+462 "Thomas E Hoaglin" "Huntington Bancshs" 1.21 6.8 4.1 56  Banking
+463 "Scott Kriens" "Juniper Networks" 1.21 3.31 208.8 48 157 "Technology Equipment"
+464 "Michael I Roth" "Interpublic Group" 1.2  6 60  Media
+465 "Milton Cooper" "Kimco Realty" 1.205 6.32 546.6 77 25 "Diversified Financials"
+466 "Richard P Wallace" KLA-Tencor 1.186  0.2 46  Semiconductors
+467 "John J Schiff Jr" "Cincinnati Financial" 1.15 5.13 210.5 62 122 Insurance
+468 "Glenn F Tilton" UAL 1.12 11.052 21.3 58  Transportation
+469 "Fredric W Corrigan" Mosaic 1.1  0.2 63  Chemicals
+470 "Donald E Graham" "Washington Post" 1.1 3.81 1332.4 61 32 Media
+471 "George Paz" "Express Scripts"   9.1 51  "Health Care"
+472 "Robert W Matschullat" Clorox 1.05  0.2 58  "Household/Personal Products"
+473 "Merrill A Miller Jr" "National Oilwell Varco" 1.035 3.232 11.3 55  "Oil & Gas"
+474 "Steven H Temares" "Bed Bath & Beyond" 1.03 2.803 2.9 47  Retailing
+475 "Jay M Gellert" "Health Net" 1.035 15.02 25.6 52 12 "Health Care"
+476 "Lawrence W Kellner" "Continental Airlines" 1.03  1.8 47  Transportation
+477 "Steven A Ballmer" Microsoft 1.01 4.22 11163.7 50 141 "Software & Services"
+478 "Gary M Rodkin" "ConAgra Foods" 1  1.6 54  "Diversified Financials"
+478 "Dara Khosrowshahi" Expedia 1  4.6 37  Services/Supplies
+478 "Gregory B Maffei" "Liberty Media" 1  0 45  Media
+478 "Bernard Cammarata" "TJX Cos" 1  22.6 66  Retailing
+482 "Robert P Kelly" "Mellon Finl" 0.98  15.1 51  "Diversified Financials"
+483 "Robert C Skaggs Jr" NiSource 0.95  1.1 51  Utilities
+484 "Charles W Ergen" "EchoStar Commun" 0.92 10.54 7166.3 53 105 Media
+485 "Mark P Mays" "Clear Channel Commun" 0.9  42.6 42  Media
+486 "Scott D Farmer" Cintas 0.88 4.483 38.7 46  Services/Supplies
+487 "Daniel P Hann" Biomet 0.686  3 50  "Health Care"
+488 "Gerard J Arpey" AMR 0.655 1.923 3.8 47  Transportation
+489 "Gary C Kelly" "Southwest Airlines"   2.3 51  Transportation
+490 "Gerald Grinstein" "Delta Air Lines" 0.45  0.1 73  Transportation
+491 "John Bucksbaum" "General Growth Prop" 0.235 3.52 2981.9 49 1 "Diversified Financials"
+492 "Warren E Buffett" "Berkshire Hathaway" 0.1 0.5 42588.5 75 97 "Diversified Financials"
+493 "Jeffrey P Bezos" Amazon.com 0.085 0.41 3714.3 42 95 Retailing
+494 "Eric E Schmidt" Google 0.03 0.673 4838 51  "Software & Services"
+495 "Steven P Jobs" "Apple Computer" 0 87.57 627.5 51 20 "Technology Equipment"
+495 "Richard D Kinder" "Kinder Morgan" 0 0 2215.4 61 4 Utilities

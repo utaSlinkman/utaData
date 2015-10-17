@@ -1,0 +1,111 @@
+Minitab Portable Worksheet P1.1             20061110 Rel    14.0               .
+%      3      1     24     -1 project                                          .
+A B D E F G H I J K L M N O P Q R S T U V W X Y                                .
+%      3      2     24     -1 swstaff                                          .
+L L L L L L M M M M M M M S S S S S S S S M S M                                .
+%      3      3     24     -1 allstaff                                         .
+L L L L L X M X X X X X X L M M M S X X X L S M                                .
+%      3      4     24    -14 product                                          .
+product-family product-family isolated       isolated       isolated           .
+product-family product-family product-family product-family product-family     .
+product-family product-family product-family product-family product-family     .
+product-family product-family product-family product-family product-family     .
+product-family product-family product-family isolated                          .
+%      3      5     24     -7 swprod                                           .
+product product alone   alone   alone   process product product product product 
+product product product product product product product product product process 
+product alone   NA      product                                                .
+%      3      6     24     -6 spmature                                         .
+high   high   middle middle middle low    high   middle middle middle high     .
+high   middle middle middle middle middle low    middle low    low    middle   .
+low    high                                                                    .
+%      3      7     24    -17 appdomain                                        .
+TLC               TLC               SE-Tools          TLC                      .
+TLC               Bank              Engine_Controller FMS                      .
+FMS               ATC               TS                SE-Tools                 .
+TLC               Space             Manufacturing     Manufacturing            .
+TLC               Measurement       FMS               Finance                  .
+TLC               Manufacturing     Book-Keeping      FMS                      .
+%      3      8     24    -15 swtype                                           .
+Technical       Technical       Technical       Technical       Technical       
+Business        Embedded-RT     Technical       Technical       Non-Embedded-RT 
+Technical       Technical       Non-Embedded-RT Embedded-RT     Embedded-RT     
+Technical       Embedded-RT     Technical       Embedded-RT     Business        
+Technical       Business        Business        Embedded-RT                    .
+%      3      9     24    -13 baseline                                         .
+L             M             M             M             M                      .
+L             L             M             M             L                      .
+M             L             M             M             M                      .
+M             L             M             M             L                      .
+S             L             S             not_available                        .
+%      3     10     24    -13 devapprch                                        .
+OO            OO            OO            OO            OO                     .
+OO            OO            OO            OO            proc                   .
+proc          proc          proc          OO            proc                   .
+proc          proc          OO            OO            OO                     .
+OO            OO            proc          not_available                        .
+%      3     11     24    -13 staffexp                                         .
+high          high          middle        middle        middle                 .
+middle        middle        high          middle        high                   .
+high          middle        middle        middle        middle                 .
+middle        high          middle        high          low                    .
+middle        middle        middle        not_available                        .
+%      3     12     24     -3 tmcommit                                         .
+yes yes yes yes yes yes yes no  no  yes yes yes yes yes yes yes yes yes no  yes 
+yes yes yes no                                                                 .
+%      3     13     24     -3 reuserole                                        .
+yes yes yes yes yes yes yes no  no  yes yes yes yes no  yes yes yes yes yes yes 
+yes no  NA  yes                                                                .
+%      3     14     24     -3 reuseproc                                        .
+yes yes no  no  no  yes yes no  no  yes yes yes yes no  yes yes yes yes yes no  
+yes yes NA  no                                                                 .
+%      3     15     24     -3 nrmodify                                         .
+yes yes no  no  no  yes yes yes yes yes yes yes yes no  yes yes yes yes no  yes 
+yes no  NA  no                                                                 .
+%      3     16     24     -3 reposit                                          .
+yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes 
+yes yes NA  yes                                                                .
+%      3     17     24     -3 humanfac                                         .
+yes yes no  no  no  yes yes no  no  yes yes yes yes no  yes yes yes yes no  yes 
+yes yes no  yes                                                                .
+%      3     18     24     -5 reuseapp                                         .
+tight tight loose loose loose loose tight loose loose tight tight tight tight  .
+loose loose loose loose tight loose tight tight tight NA    loose              .
+%      3     19     24     -5 workprod                                         .
+D+C   D+C   C     C     C     C     R+D+C D+C   D+C   R+D+C R+D+C R+D+C R+D+C  .
+R+D+C R+D+C R+D+C C     C     C     R+D+C C     C     NA    C                  .
+%      3     20     24     -3 domainanlz                                       .
+yes yes no  no  no  no  no  no  no  yes yes yes yes no  yes yes no  no  no  no  
+no  yes NA  no                                                                 .
+%      3     21     24     -7 origin                                           .
+ex-novo ex-novo as-is   as-is   as-is   reeng   reeng   reeng   reeng   reeng   
+reeng   reeng   reeng   ex-novo reeng   reeng   reeng   ex-novo reeng   reeng   
+reeng   reeng   NA      as-is                                                  .
+%      3     22     24     -3 indteam                                          .
+yes yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  NA  no                                                                 .
+%      3     23     24    -10 assets                                           .
+before     before     before     before     before     justintime justintime   .
+justintime justintime justintime justintime justintime justintime before       .
+justintime justintime justintime justintime justintime justintime justintime   .
+justintime NA         before                                                   .
+%      3     24     24     -3 qualify                                          .
+yes yes no  no  no  yes no  no  no  yes yes yes yes yes yes yes yes yes yes no  
+yes no  NA  no                                                                 .
+%      3     25     24     -3 confmgmt                                         .
+yes yes no  no  no  yes yes no  no  yes yes yes yes yes yes yes yes yes yes yes 
+yes no  NA  no                                                                 .
+%      3     26     24     -3 rewards                                          .
+no  no  yes yes yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no                                                                 .
+%      3     27     24     -9 noassets                                         .
+51_to_100 51_to_100 21_to_50  21_to_50  21_to_50  51_to_100 51_to_100 51_to_100 
+51_to_100 100+      51_to_100 100+      51_to_100 1_to_20   100+      100+      
+1_to_20   100+      1_to_20   100+      1_to_20   1_to_20   NA        100+      
+%      3     28     24     -7 succ-fail                                        .
+success success failure failure failure success success failure failure success 
+success success success failure success success success success failure success 
+success success failure failure                                                .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

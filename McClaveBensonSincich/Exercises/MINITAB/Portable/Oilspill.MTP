@@ -1,0 +1,21 @@
+Minitab Portable Worksheet P1.1             20061110 Rel    14.0               .
+%      3      1     42      0 Spillage                                         .
+ 2.570000000E+02 2.390000000E+02 2.210000000E+02 1.320000000E+02 1.240000000E+02
+ 1.230000000E+02 1.010000000E+02 9.500000000E+01 9.100000000E+01 8.200000000E+01
+ 7.600000000E+01 6.800000000E+01 6.200000000E+01 5.800000000E+01 5.700000000E+01
+ 4.200000000E+01 5.000000000E+01 4.800000000E+01 4.600000000E+01 4.600000000E+01
+ 4.500000000E+01 4.400000000E+01 4.100000000E+01 4.100000000E+01 4.100000000E+01
+ 3.800000000E+01 3.700000000E+01 3.600000000E+01 3.600000000E+01 3.600000000E+01
+ 3.300000000E+01 3.200000000E+01 3.200000000E+01 3.200000000E+01 3.200000000E+01
+ 3.100000000E+01 2.800000000E+01 3.100000000E+01 2.500000000E+01 3.100000000E+01
+ 2.900000000E+01 3.100000000E+01                                               .
+%      3      2     42     -9 Cause                                            .
+Collision Fire      HullFail  Fire      Grounding Collision HullFail  Collision 
+Grounding Fire      Fire      Collision Grounding Grounding Fire      Collision 
+Fire      Fire      HullFail  HullFail  Grounding Fire      Collision Grounding 
+Collision Grounding Grounding Grounding Collision HullFail  Fire      Collision 
+Fire      Fire      HullFail  HullFail  Grounding Collision Unknown   HullFail  
+HullFail  Grounding                                                            .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

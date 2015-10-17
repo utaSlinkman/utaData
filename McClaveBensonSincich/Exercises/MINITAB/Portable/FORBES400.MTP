@@ -1,0 +1,31 @@
+Minitab Portable Worksheet P1.1             20061208 Rel    14.0               .
+%      3      1     15      0 Rank                                             .
+ 1.000000000E+00 2.000000000E+00 3.000000000E+00 4.000000000E+00 5.000000000E+00
+ 6.000000000E+00 7.000000000E+00 8.000000000E+00 9.000000000E+00 1.000000000E+01
+ 1.100000000E+01 1.200000000E+01 1.300000000E+01 1.400000000E+01 1.500000000E+01
+%      3      2     15     -8 Name                                             .
+Gates    Buffett  AdelsonS Ellison  Allen    WaltonJC WaltonC  WaltonSR        .
+Dell     WaltonAL WaltonHR BrinS    PageLE   TaylorJC Ballmer                  .
+%      3      3     15      0 NetWorth                                         .
+ 5.300000000E+01 4.600000000E+01 2.050000000E+01 1.950000000E+01 1.600000000E+01
+ 1.570000000E+01 1.560000000E+01 1.560000000E+01 1.550000000E+01 1.550000000E+01
+ 1.530000000E+01 1.410000000E+01 1.400000000E+01 1.390000000E+01 1.360000000E+01
+%      3      4     15      0 Age                                              .
+ 5.000000000E+01 7.600000000E+01 7.300000000E+01 6.200000000E+01 5.300000000E+01
+ 5.800000000E+01 5.100000000E+01 6.200000000E+01 4.100000000E+01 5.700000000E+01
+ 8.600000000E+01 2.300000000E+01 3.300000000E+01 8.400000000E+01 5.000000000E+01
+%      3      5     15     -8 Status                                           .
+married  widowed  married  married  single   married  widowed  married         .
+married  divorced widowed  single   single   married  married                  .
+%      3      6     15    -14 Residence                                        .
+MedinaWA       OmahaNE        LasVegasNV     RedwoodCA      SeattleWA          .
+BentonvilleAR  JacksonWY      BentonvilleAR  AustinTX       FortWorthTX        .
+BentonvilleAR  PaloAltoCA     SanFranciscoCA StLouisMO      BellevueWA         .
+%      3      7     15    -18 Source                                           .
+Microsoft          Berkshire-Hathaway gambling           Oracle                .
+Microsoft          Wal-Mart           Wal-Mart           Wal-Mart              .
+DellComputer       Wal-Mart           Wal-Mart           Google                .
+Google             Enterprise         Microsoft                                .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

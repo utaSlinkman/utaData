@@ -1,0 +1,13 @@
+Minitab Portable Worksheet P1.1             20061128 Rel    14.0               .
+%      3      1      9     -9 RATING                                           .
+1:OUTSTAN 1:OUTSTAN 1:OUTSTAN 2:AVERAGE 2:AVERAGE 2:AVERAGE 3:POOR    3:POOR    
+3:POOR                                                                         .
+%      3      2      9     -9 INCOME                                           .
+1:UND30K  2:30K-60K 3:OVR60K  1:UND30K  2:30K-60K 3:OVR60K  1:UND30K  2:30K-60K 
+3:OVR60K                                                                       .
+%      3      3      9      0 COUNT                                            .
+ 4.800000000E+01 6.400000000E+01 4.100000000E+01 9.800000000E+01 1.200000000E+02
+ 5.000000000E+01 3.000000000E+01 3.300000000E+01 1.600000000E+01               .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

@@ -1,0 +1,119 @@
+  1  NEVER    SURG        6      6  NO               .       .        .       .
+  2  NEVER    MED        27      0  NO               .       .        .       .
+  3  NEVER    MED         7      5  NO               1       1        5       5
+  4  NEVER    SURG       25      6  NO               4       4        2       2
+  5  NEVER    SURG        1     12  NO               3       3        2       3
+  6  NEVER    MED        30      6  NO               5       5        2       4
+  7  NEVER    SURG       25      0  NO               5       4        4       1
+  8  USED     SURG       20      6  NO               5       5        4       1
+  9  NEVER    MED        10      .  NO               3       3        3       3
+ 10  NEVER    SURG        1     40  NO               3       3        1       2
+ 11  NEVER    MED        10      3  NO               4       4        1       2
+ 12  NEVER    MED         7     24  NO               5       5        1       4
+ 13  NEVER    MED        35      .  NO               1       1        5       5
+ 14  NEVER    MED        25      .  NO               3       3        3       3
+ 15  USED     MED        25     20  NO               2       2        2       3
+ 16  NEVER    MED        25      .  NO               .       .        .       .
+ 17  NEVER    SURG       18      .  NO               .       .        .       .
+ 18  NEVER    SURG       14      .  NO               .       .        .       .
+ 19  NEVER    MED         .      0  NO               .       .        .       .
+ 20  NEVER    SURG        .      .  NO               1       3        3       3
+ 21  USED     MED        18   1000  NO               .       .        .       .
+ 22  NEVER    MED         8     30  NO               3       3        2       5
+ 23  NEVER    SURG        8      8  NO               3       3        3       3
+ 24  NEVER    SURG       40      4  YES              .       .        .       .
+ 25  USED     MED         5      4  YES              4       3        2       1
+ 26  NEVER    SURG       25      0  YES              3       3        3       1
+ 27  USED     SURG       17      3  YES              4       4        1       2
+ 28  USED     MED        14      5  YES              5       5        4       4
+ 29  NEVER    MED        10      4  YES              3       4        3       3
+ 30  NEVER    MED        17     10  YES              4       4        1       1
+ 31  NEVER    SURG        3     16  YES              5       5        1       1
+ 32  USED     MED        25      5  YES              3       3        2       2
+ 33  USED     MED        24      0  YES              4       4        3       2
+ 34  NEVER    MED         3      0  YES              .       .        1       1
+ 35  NEVER    MED        12      0  YES              5       4        1       2
+ 36  USED     SURG        9      3  YES              5       5        1       1
+ 37  NEVER    MED        11      0  YES              5       5        3       3
+ 38  NEVER    SURG       27      0  YES              3       3        3       3
+ 39  NEVER    SURG       22      1  YES              3       3        3       4
+ 40  NEVER    MED        10      .  YES              5       4        3       1
+ 41  NEVER    MED         5     20  YES              5       5        3       3
+ 42  NEVER    MED         5      0  YES              5       5        4       3
+ 43  NEVER    MED        16      .  YES              4       4        3       3
+ 44  NEVER    MED        19      .  YES              3       3        1       1
+ 45  NEVER    MED         2      5  YES              5       5        3       1
+ 46  USED     SURG        3      .  YES              4       5        1       2
+ 47  NEVER    MED        11     50  YES              4       4        1       1
+ 48  NEVER    MED        13      0  YES              3       3        3       3
+ 49  NEVER    MED        14      .  YES              4       5        2       1
+ 50  USED     MED        30      4  YES              3       3        1       2
+ 51  USED     MED        30     20  YES              4       4        1       1
+ 52  NEVER    MED        12     19  YES              3       3        3       3
+ 53  NEVER    MED         8      .  YES              4       4        2       3
+ 54  NEVER    MED         3     30  YES              4       3        3       2
+ 55  USED     MED        29      0  YES              3       3        3       3
+ 56  USED     MED        25      0  YES              4       5        2       2
+ 57  NEVER    MED         7      3  YES              3       3        1       1
+ 58  NEVER    MED         1     40  YES              5       4        3       1
+ 59  USED     SURG       14      5  YES              3       3        3       3
+ 60  NEVER    SURG        4     75  YES              4       4        2       2
+ 61  NEVER    MED         2     40  YES              3       4        2       1
+ 62  USED     MED         8      3  YES              4       3        2       2
+ 63  NEVER    MED        32      .  YES              4       4        1       3
+ 64  NEVER    MED         5      .  YES              3       3        3       3
+ 65  USED     MED        14      0  YES              5       5        3       1
+ 66  NEVER    MED        12     13  YES              3       3        2       3
+ 67  NEVER    MED        18     10  YES              4       5        1       1
+ 68  USED     MED         1      0  YES              3       3        1       1
+ 69  NEVER    MED         3     25  YES              5       5        3       3
+ 70  USED     MED         7      5  YES              3       3        4       2
+ 71  USED     MED        20      .  YES              2       2        2       3
+ 72  USED     SURG       18      2  YES              5       5        5       5
+ 73  NEVER    MED        20     10  YES              4       4        3       2
+ 74  NEVER    MED        20      .  YES              .       .        .       .
+ 75  NEVER    MED         .      .  YES              .       .        .       .
+ 76  NEVER    MED        15     30  YES              .       .        .       .
+ 77  USED     MED         2      5  YES              4       5        4       1
+ 78  USED     SURG       28      4  YES              5       5        4       3
+ 79  USED     MED        16      .  YES              3       4        3       4
+ 80  NEVER    SURG       20      0  YES              .       .        .       .
+ 81  USED     MED        15     10  YES              4       4        1       1
+ 82  NEVER    MED        14      .  YES              4       5        2       4
+ 83  NEVER    MED         6      .  YES              4       4        3       3
+ 84  NEVER    MED        20      .  YES              3       3        1       1
+ 85  NEVER    SURG       17      0  YES              5       5        1       1
+ 86  NEVER    MED        15     25  YES              5       .        2       4
+ 87  USED     MED        25      .  YES              3       3        3       3
+ 88  NEVER    SURG       13      1  YES              4       3        1       1
+ 89  NEVER    MED        23      1  YES              3       3        1       1
+ 90  NEVER    SURG       18      .  YES              3       3        2       2
+ 91  NEVER    SURG        8     10  YES              5       .        .       .
+ 92  USED     SURG       20      0  YES              4       5        3       2
+ 93  NEVER    MED         7      2  YES              4       4        1       1
+ 94  NEVER    SURG        9     20  YES              3       3        5       4
+ 95  USED     SURG        .     30  YES              3       4        4       3
+ 96  USED     SURG       14      .  YES              4       5        3       3
+ 97  NEVER    SURG        6      0  YES              .       3        3       3
+ 98  USED     MED        15      .  YES              5       5        3       4
+ 99  NEVER    SURG       40      9  YES              3       3        3       3
+100  NEVER    SURG       18     30  YES              4       4        4       1
+101  USED     SURG        1      .  YES              .       .        .       .
+102  NEVER    SURG       16      .  YES              3       4        3       2
+103  NEVER    MED         2     80  YES              .       .        .       .
+104  NEVER    MED        10      .  YES              5       5        1       2
+105  USED     MED        30      3  YES              5       5        1       1
+106  NEVER    SURG        3     10  YES              3       3        1       1
+107  USED     SURG       10      .  YES              4       4        4       4
+108  NEVER    MED        12      .  YES              3       2        2       2
+109  NEVER    MED         5      6  YES              3       3        3       3
+110  NEVER    MED        15      .  YES              .       .        1       1
+111  NEVER    SURG       24     10  YES              3       4        4       2
+112  NEVER    SURG       20     40  YES              .       .        .       .
+113  NEVER    SURG        .      .  YES              .       .        .       .
+114  NEVER    MED         5     30  YES              5       5        3       1
+115  NEVER    SURG        .      .  YES              3       2        4       2
+116  USED     MED        20      4  YES              4       4        1       1
+117  NEVER    MED        14      .  YES              3       3        3       3
+118  NEVER    SURG       14     21  YES              3       2        4       4
+

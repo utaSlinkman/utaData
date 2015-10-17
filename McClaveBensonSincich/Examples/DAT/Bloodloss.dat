@@ -1,0 +1,115 @@
+  1  1A       NO    REDO
+  2  2A       NO    NONE
+  3  3A       NO    NONE
+  4  4A       NO    NONE
+  5  5A       NO    NONE
+  6  6A       NO    NONE
+  7  7A       NO    NONE
+  8  8A       NO    NONE
+  9  9A       NO    NONE
+ 10  10A      NO    INFECT
+ 11  11A      NO    REDO
+ 12  12A      NO    NONE
+ 13  13A      NO    NONE
+ 14  14A      NO    NONE
+ 15  15A      NO    NONE
+ 16  16A      NO    INFECT
+ 17  17A      NO    NONE
+ 18  18A      NO    NONE
+ 19  19A      NO    NONE
+ 20  20A      NO    NONE
+ 21  21A      NO    BOTH
+ 22  22A      NO    NONE
+ 23  23A      NO    NONE
+ 24  24A      NO    NONE
+ 25  25A      NO    NONE
+ 26  26A      NO    NONE
+ 27  27A      NO    NONE
+ 28  28A      NO    NONE
+ 29  29A      NO    NONE
+ 30  30A      NO    NONE
+ 31  31A      NO    NONE
+ 32  32A      NO    NONE
+ 33  33A      NO    NONE
+ 34  34A      NO    NONE
+ 35  35A      NO    NONE
+ 36  36A      NO    NONE
+ 37  37A      NO    NONE
+ 38  38A      NO    NONE
+ 39  39A      NO    NONE
+ 40  40A      NO    NONE
+ 41  41A      NO    NONE
+ 42  42A      NO    NONE
+ 43  43A      NO    NONE
+ 44  44A      NO    REDO
+ 45  45A      NO    REDO
+ 46  46A      NO    NONE
+ 47  47A      NO    INFECT
+ 48  48A      NO    INFECT
+ 49  49A      NO    NONE
+ 50  50A      NO    NONE
+ 51  51A      NO    NONE
+ 52  52A      NO    REDO
+ 53  53A      NO    NONE
+ 54  54A      NO    NONE
+ 55  55A      NO    NONE
+ 56  56A      NO    NONE
+ 57  57A      NO    NONE
+ 58  1B       YES   NONE
+ 59  2B       YES   INFECT
+ 60  3B       YES   NONE
+ 61  4B       YES   NONE
+ 62  5B       YES   INFECT
+ 63  6B       YES   NONE
+ 64  7B       YES   BOTH
+ 65  8B       YES   NONE
+ 66  9B       YES   REDO
+ 67  10B      YES   INFECT
+ 68  11B      YES   NONE
+ 69  12B      YES   NONE
+ 70  13B      YES   REDO
+ 71  14B      YES   NONE
+ 72  15B      YES   NONE
+ 73  16B      YES   INFECT
+ 74  17B      YES   REDO
+ 75  18B      YES   NONE
+ 76  19B      YES   NONE
+ 77  20B      YES   REDO
+ 78  21B      YES   NONE
+ 79  22B      YES   NONE
+ 80  23B      YES   INFECT
+ 81  24B      YES   REDO
+ 82  25B      YES   REDO
+ 83  26B      YES   INFECT
+ 84  27B      YES   INFECT
+ 85  28B      YES   INFECT
+ 86  29B      YES   INFECT
+ 87  30B      YES   NONE
+ 88  31B      YES   BOTH
+ 89  32B      YES   INFECT
+ 90  33B      YES   NONE
+ 91  34B      YES   NONE
+ 92  35B      YES   BOTH
+ 93  36B      YES   NONE
+ 94  37B      YES   NONE
+ 95  38B      YES   NONE
+ 96  39B      YES   NONE
+ 97  40B      YES   NONE
+ 98  41B      YES   NONE
+ 99  42B      YES   NONE
+100  43B      YES   REDO
+101  44B      YES   NONE
+102  45B      YES   NONE
+103  46B      YES   NONE
+104  47B      YES   NONE
+105  48B      YES   BOTH
+106  49B      YES   BOTH
+107  50B      YES   NONE
+108  51B      YES   NONE
+109  52B      YES   NONE
+110  53B      YES   REDO
+111  54B      YES   INFECT
+112  55B      YES   NONE
+113  56B      YES   REDO
+114  57B      YES   NONE
+

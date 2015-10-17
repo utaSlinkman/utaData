@@ -1,0 +1,30 @@
+Minitab Portable Worksheet P1.1             20061110 Rel    14.0               .
+%      3      1    114     -3 PATIENT                                          .
+1A  2A  3A  4A  5A  6A  7A  8A  9A  10A 11A 12A 13A 14A 15A 16A 17A 18A 19A 20A 
+21A 22A 23A 24A 25A 26A 27A 28A 29A 30A 31A 32A 33A 34A 35A 36A 37A 38A 39A 40A 
+41A 42A 43A 44A 45A 46A 47A 48A 49A 50A 51A 52A 53A 54A 55A 56A 57A 1B  2B  3B  
+4B  5B  6B  7B  8B  9B  10B 11B 12B 13B 14B 15B 16B 17B 18B 19B 20B 21B 22B 23B 
+24B 25B 26B 27B 28B 29B 30B 31B 32B 33B 34B 35B 36B 37B 38B 39B 40B 41B 42B 43B 
+44B 45B 46B 47B 48B 49B 50B 51B 52B 53B 54B 55B 56B 57B                        .
+%      3      2    114     -3 DRUG                                             .
+NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  
+NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  
+NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  YES YES YES 
+YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES 
+YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES YES 
+YES YES YES YES YES YES YES YES YES YES YES YES YES YES                        .
+%      3      3    114     -6 COMP                                             .
+REDO   NONE   NONE   NONE   NONE   NONE   NONE   NONE   NONE   INFECT REDO     .
+NONE   NONE   NONE   NONE   INFECT NONE   NONE   NONE   NONE   BOTH   NONE     .
+NONE   NONE   NONE   NONE   NONE   NONE   NONE   NONE   NONE   NONE   NONE     .
+NONE   NONE   NONE   NONE   NONE   NONE   NONE   NONE   NONE   NONE   REDO     .
+REDO   NONE   INFECT INFECT NONE   NONE   NONE   REDO   NONE   NONE   NONE     .
+NONE   NONE   NONE   INFECT NONE   NONE   INFECT NONE   BOTH   NONE   REDO     .
+INFECT NONE   NONE   REDO   NONE   NONE   INFECT REDO   NONE   NONE   REDO     .
+NONE   NONE   INFECT REDO   REDO   INFECT INFECT INFECT INFECT NONE   BOTH     .
+INFECT NONE   NONE   BOTH   NONE   NONE   NONE   NONE   NONE   NONE   NONE     .
+REDO   NONE   NONE   NONE   NONE   BOTH   BOTH   NONE   NONE   NONE   REDO     .
+INFECT NONE   REDO   NONE                                                      .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

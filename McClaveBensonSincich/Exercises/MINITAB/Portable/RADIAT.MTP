@@ -1,0 +1,11 @@
+Minitab Portable Worksheet P1.1             20061117 Rel    14.0               .
+%      3      1      8      0 Radiation                                        .
+ 4.000000000E-02 2.000000000E-02 3.800000000E-01 1.300000000E-01 4.600000000E-01
+ 4.000000000E-01 1.840000000E+00 2.290000000E+00                               .
+%      3      2      8     -7 Plastic                                          .
+Present Present Absent  Absent  Present Present Absent  Absent                 .
+%      3      3      8     -5 Density                                          .
+Heavy Heavy Heavy Heavy Light Light Light Light                                .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

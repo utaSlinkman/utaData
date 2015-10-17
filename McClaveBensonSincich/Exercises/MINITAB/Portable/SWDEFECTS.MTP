@@ -1,0 +1,148 @@
+Minitab Portable Worksheet P1.1             20061110 Rel    14.0               .
+%      3      1    498     -5 defect                                           .
+false true  false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false false false false false false  .
+false false false false false false false false true  true  true  true  true   .
+true  true  true  true  true  true  true  true  true  true  true  true  true   .
+true  true  true  true  true  true  true  true  true  true  true  true  true   .
+true  true  true  true  true  true  true  true  true  true  true  true  true   .
+true  true  true  true                                                         .
+%      3      2    498     -3 predict:vg>10                                    .
+no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  yes yes no  yes yes no  no  no  no  no  no  no  
+no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  yes no  no  no  no  no  no  no  no  no  yes yes no  no  no  no  yes yes 
+no  yes no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  no  yes 
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes yes no  
+no  yes no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  yes no  no  no  no  no  no  no  no  no  no  no  yes no  yes no  no  no  no  
+no  no  no  no  no  yes no  no  no  no  no  no  no  yes no  no  yes no  no  no  
+no  no  yes yes yes yes no  no  no  no  no  yes no  no  no  no  no  no  no  no  
+yes no  no  no  no  no  no  no  yes yes no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  
+no  no  no  no  no  yes no  no  no  no  no  no  no  no  yes no  no  yes yes no  
+yes yes no  no  yes yes no  yes yes no  yes yes yes no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  yes no  no  no  no  no  no  no  yes no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes yes no  
+no  yes no  yes no  yes yes yes yes yes no  no  no  no  no  no  no  no  no  no  
+yes no  yes no  yes no  no  no  no  no  no  no  yes no  no  yes no  no         .
+%      3      3    498     -3 predict:evg>14.5                                 .
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  
+yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  
+no  yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  
+no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no         .
+%      3      4    498     -3 predict:ivg>9.2                                  .
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  yes no  yes yes no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes yes 
+no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes yes no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  yes no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  yes no  no  no  no  no  no  no  no  yes no  no  no  yes no  
+no  yes no  no  yes yes no  yes yes no  yes yes yes no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes yes no  
+no  yes no  no  no  yes yes yes yes no  no  no  no  no  no  no  no  no  no  no  
+yes no  no  no  yes no  no  no  no  no  no  no  yes no  no  yes no  no         .
+%      3      5    498     -3 predict:loc>50                                   .
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  yes yes no  yes yes no  no  no  no  no  no  no  
+no  no  no  no  yes yes no  no  no  no  yes no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  yes no  no  no  no  no  yes no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  yes no  no  no  no  no  no  no  no  no  yes yes no  no  no  no  yes yes 
+no  yes no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  no  yes 
+no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  yes yes no  
+no  yes no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+yes yes no  no  no  no  no  no  no  no  no  no  no  yes no  yes yes no  no  no  
+no  no  no  no  no  yes no  no  no  no  no  no  no  yes no  no  yes no  no  no  
+no  no  no  no  yes yes no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+yes no  yes no  no  no  no  no  yes yes no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  no  
+no  no  no  no  no  yes no  no  no  no  no  no  no  no  yes no  no  no  yes no  
+no  yes no  no  yes yes no  no  yes no  yes yes yes no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  no  no  no  
+no  no  no  no  no  no  no  no  no  no  no  no  yes no  no  yes no  yes yes no  
+no  yes no  yes no  yes yes yes yes yes yes no  yes no  no  yes no  no  yes no  
+yes no  yes no  yes no  no  no  no  no  no  no  yes no  no  yes no  no         .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .
