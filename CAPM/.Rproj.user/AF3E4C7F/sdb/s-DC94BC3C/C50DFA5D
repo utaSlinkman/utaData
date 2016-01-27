@@ -1,0 +1,18 @@
+{
+    "contents" : "CAPM <- read.csv( \"CAPM.csv\")\n\nrequire( ggplot2 )\n\nggplot( CAPM, \n        aes( x=SP500r, y=BRK.Ar )) +\n  geom_point() +\n  geom_smooth( method=lm, se=FALSE ) +\n  geom_smooth( method=loess, se=FALSE, color=\"red\")\n",
+    "created" : 1447979773244.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3198859660",
+    "id" : "C50DFA5D",
+    "lastKnownWriteTime" : 230041072,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
