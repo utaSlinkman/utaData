@@ -1,0 +1,18 @@
+{
+    "contents" : "---\ntitle: Estimating the mean difference in real estate prices between Maui and the Big\n  Island\nauthor: \"by Craig W. Slinkman\"\ndate: \"March 7, 2016\"\noutput: html_document\n---\n# Data\n```{r,echo=FALSE}\nrm( list=ls() )\nCondos <- read.csv( \"Condos.csv\" )\nCondos <- Condos[Condos$Beds==2,]\nMaui   <- Condos[Condos$Island==\"Maui\",]\nBigIsland <- Condos[Condos$Island==\"Big Island\",]\n\nnm <- dim( Maui )[1]\nnb <- dim( BigIsland )[1]\n\nPrice <- Maui$Price\nIsland <- rep( \"Maui\", nm )\nMaui   <- data.frame( Island, Price )\nPrice  <- BigIsland$Price\nIsland <- rep( \"Big Island\", nb)\nBigIsland <- data.frame( Island, Price)\nBothIslands <- rbind( BigIsland, Maui )\n\nrequire( ggplot2 )\n\nggplot( BothIslands,\n        aes( x=Island, y=Price )) +\n  geom_boxplot()\n\n\nPrices <-\n  aggregate( Price ~ Island,\n             BothIslands,\n             FUN=mean )\nPrices\n\nDifference <- Prices[2,2] - Prices[1,2]\nDifference\n\nrequire( simpleboot )\n\nreps   <- 5000\n\nbootOut <- two.boot( Maui$Price, \n                     BigIsland$Price,\n                     mean,\n                     R=reps )\n\nt0 <- bootOut$t0\nbsd <- bootOut$t\nBSD <- data.frame( bsd )\nmean.bsd <- mean( bsd )\nbias    <- mean.bsd - t0\nse      <- sd( BSD )\n\ncat( \"\\nBootstrap analysis\",\n     \"\\nReplications:           \", reps,\n     \"\\nSample statistic:       \", t0,\n     \"\\nBootstrap sample mean:  \", mean.bsd,\n     \"\\nBias:                   \", bias,\n     \"\\nStandard Error:         \", se)\n\n\n  \n\n```\n\n",
+    "created" : 1457366808752.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2698185178",
+    "id" : "85A6746A",
+    "lastKnownWriteTime" : 1457369204,
+    "path" : "C:/Users/Craig/utaData/HawaiiLife/CompareMauiBigIsland.Rmd",
+    "project_path" : "CompareMauiBigIsland.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}

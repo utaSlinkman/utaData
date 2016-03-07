@@ -1,0 +1,41 @@
+---
+title: Estimating the mean difference in real estate prices between Maui and the Big
+  Island
+author: "by Craig W. Slinkman"
+date: "March 7, 2016"
+output: html_document
+---
+# Data
+```{r,echo=FALSE}
+rm( list=ls() )
+Condos <- read.csv( "Condos.csv" )
+Condos <- Condos[Condos$Beds==2,]
+Maui   <- Condos[Condos$Island=="Maui",]
+BigIsland <- Condos[Condos$Island=="Big Island",]
+
+nm <- dim( Maui )[1]
+nb <- dim( BigIsland )[1]
+
+Price <- Maui$Price
+Island <- rep( "Maui", nm )
+Maui   <- data.frame( Island, Price )
+Price  <- BigIsland$Price
+Island <- rep( "Big Island", nb)
+BigIsland <- data.frame( Island, Price)
+BothIslands <- rbind( BigIsland, Maui )
+
+require( ggplot2 )
+
+ggplot( BothIslands,
+        aes( x=Island, y=Price )) +
+  geom_boxplot()
+
+
+Prices <-
+  aggregate( Price ~ Island,
+             BothIslands,
+             FUN=mean )
+Prices
+
+```
+
